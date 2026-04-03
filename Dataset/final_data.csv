@@ -1,0 +1,1554 @@
+car_name,registration_year,insurance_validity,fuel_type,seats,kms_driven,ownsership,transmission,manufacturing_year,mileage(kmpl),engine(cc),max_power(bhp),torque(Nm),price(in lakhs)
+Mercedes-Benz S-Class,17.0,Comprehensive,Petrol,5,56000,First Owner,Automatic,2017,7.0,2996.0,2996.0,333.0,63.75
+Nissan Magnite,21.0,Comprehensive,Petrol,5,30615,First Owner,Automatic,2020,17.0,999.0,999.0,9863.0,8.99
+BMW X1,18.0,Comprehensive,Diesel,5,24000,First Owner,Automatic,2018,20.0,1995.0,1995.0,188.0,23.75
+Kia Seltos,19.0,Comprehensive,Petrol,5,18378,First Owner,Manual,2019,16.0,1353.0,1353.0,13808.0,13.56
+Skoda Superb,19.0,Comprehensive,Petrol,5,44900,First Owner,Automatic,2019,14.0,1798.0,1798.0,17746.0,24.0
+Honda Jazz,17.0,Third Party insurance,Petrol,5,42000,First Owner,Manual,2017,18.0,1199.0,1199.0,887.0,5.45
+Hyundai Grand,19.0,Comprehensive,Petrol,5,36739,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.12
+Hyundai Creta,18.0,Comprehensive,Petrol,5,76000,First Owner,Manual,2018,15.0,1591.0,1591.0,1213.0,9.3
+Mercedes-Benz S-Class,15.0,Comprehensive,Diesel,5,68000,Second Owner,Automatic,2015,13.0,2987.0,2987.0,25479.0,42.0
+Tata Nexon,19.0,Comprehensive,Petrol,5,28783,First Owner,Manual,2019,17.0,1198.0,1198.0,1085.0,8.02
+Honda City,20.0,Comprehensive,Petrol,5,40000,First Owner,Automatic,2020,17.0,1497.0,1497.0,1176.0,10.95
+Renault Duster,22.0,Comprehensive,Petrol,5,17382,First Owner,Manual,2021,16.0,1498.0,1498.0,10455.0,8.99
+BMW 3,,Third Party insurance,Diesel,5,120000,First Owner,Automatic,2014,18.0,1995.0,1995.0,184.0,7.45
+Hyundai Venue,22.0,Comprehensive,Petrol,5,17000,First Owner,Automatic,2021,18.0,998.0,998.0,11835.0,10.95
+Hyundai Grand,19.0,Comprehensive,Petrol,5,26867,First Owner,Manual,2019,18.0,1197.0,1197.0,8186.0,5.78
+Hyundai i20,22.0,Third Party insurance,Petrol,5,30000,First Owner,Manual,2022,21.0,1197.0,1197.0,8180.0,8.95
+BMW 3,,Third Party insurance,Diesel,5,150000,First Owner,Automatic,2014,18.0,1995.0,1995.0,184.0,8.5
+BMW 3,18.0,Comprehensive,Diesel,5,53000,First Owner,Automatic,2018,22.0,1995.0,1995.0,190.0,23.5
+Ford Ecosport,19.0,Comprehensive,Petrol,5,40000,First Owner,Manual,2019,17.0,1497.0,1497.0,12136.0,7.95
+Jeep Compass,20.0,Comprehensive,Petrol,5,48000,First Owner,Automatic,2020,14.0,1368.0,1368.0,16077.0,18.95
+MG Gloster,21.0,Comprehensive,Diesel,6,35000,First Owner,Automatic,2021,12.0,1996.0,1996.0,21501.0,35.0
+Maruti Swift,10.0,Comprehensive,Petrol,5,100525,First Owner,Manual,2010,16.0,1197.0,1197.0,85.0,2.09
+Honda City,15.0,Third Party insurance,Petrol,5,83000,Second Owner,Automatic,2015,18.0,1497.0,1497.0,1173.0,6.25
+Maruti Wagon,11.0,Comprehensive,Petrol,5,40191,Second Owner,Manual,2011,998.0,671.0,671.0,90.0,2.12
+Audi A6,15.0,Comprehensive,Diesel,5,62152,First Owner,Automatic,2015,18.0,1968.0,1968.0,18774.0,20.0
+Hyundai Creta,17.0,Third Party insurance,Petrol,5,49000,First Owner,Manual,2017,15.0,1591.0,1591.0,1213.0,8.35
+Maruti Baleno,17.0,Comprehensive,Petrol,5,56215,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.03
+Toyota Yaris,18.0,Comprehensive,Petrol,5,53000,First Owner,Manual,2018,17.0,1496.0,1496.0,10594.0,6.95
+Toyota Fortuner,15.0,Comprehensive,Diesel,7,100000,First Owner,Automatic,2015,12.0,2982.0,2982.0,1685.0,16.0
+Hyundai Creta,20.0,Comprehensive,Petrol,5,36346,First Owner,Automatic,2020,16.0,1353.0,1353.0,13808.0,15.22
+Jaguar XE,18.0,Comprehensive,Diesel,5,48000,First Owner,Automatic,2018,13.0,1999.0,1999.0,177.0,26.95
+Hyundai i20,19.0,Comprehensive,Petrol,5,42098,First Owner,Manual,2019,18.0,1197.0,1197.0,8186.0,6.7
+Jeep Compass,,Third Party insurance,Diesel,5,40000,First Owner,Manual,2018,17.0,1956.0,1956.0,170.0,10.75
+BMW X1,19.0,Comprehensive,Diesel,5,64000,First Owner,Automatic,2019,20.0,1995.0,1995.0,188.0,25.5
+Maruti Swift,22.0,Comprehensive,Petrol,5,13158,First Owner,Automatic,2022,22.0,1197.0,1197.0,8850.0,8.38
+Hyundai Creta,18.0,Third Party insurance,Diesel,5,65400,First Owner,Automatic,2018,17.0,1582.0,1582.0,1262.0,10.9
+Honda Amaze,,Third Party insurance,Petrol,5,100000,First Owner,Manual,2017,17.0,1198.0,1198.0,867.0,3.95
+Tata Tiago,22.0,Comprehensive,CNG,5,30000,First Owner,Manual,2022,26.0,1199.0,1199.0,72.0,7.25
+Honda Jazz,17.0,Comprehensive,Diesel,5,62000,First Owner,Manual,2017,1498.0,986.0,986.0,200.0,4.75
+Volkswagen Beetle,10.0,Comprehensive,Petrol,4,40000,First Owner,Automatic,2010,10.0,1984.0,1984.0,1144.0,11.95
+MG Gloster,21.0,Comprehensive,Diesel,6,35000,First Owner,Automatic,2021,12.0,1996.0,1996.0,21501.0,35.0
+Maruti Swift,10.0,Comprehensive,Petrol,5,100525,First Owner,Manual,2010,16.0,1197.0,1197.0,85.0,2.09
+Honda City,15.0,Third Party insurance,Petrol,5,83000,Second Owner,Automatic,2015,18.0,1497.0,1497.0,1173.0,6.25
+Maruti Wagon,11.0,Comprehensive,Petrol,5,40191,Second Owner,Manual,2011,998.0,671.0,671.0,90.0,2.12
+Audi A6,15.0,Comprehensive,Diesel,5,62152,First Owner,Automatic,2015,18.0,1968.0,1968.0,18774.0,20.0
+Hyundai Creta,17.0,Third Party insurance,Petrol,5,49000,First Owner,Manual,2017,15.0,1591.0,1591.0,1213.0,8.35
+Maruti Baleno,17.0,Comprehensive,Petrol,5,56215,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.03
+Toyota Yaris,18.0,Comprehensive,Petrol,5,53000,First Owner,Manual,2018,17.0,1496.0,1496.0,10594.0,6.95
+Toyota Fortuner,15.0,Comprehensive,Diesel,7,100000,First Owner,Automatic,2015,12.0,2982.0,2982.0,1685.0,16.0
+Hyundai Creta,20.0,Comprehensive,Petrol,5,36346,First Owner,Automatic,2020,16.0,1353.0,1353.0,13808.0,15.22
+Jaguar XE,18.0,Comprehensive,Diesel,5,48000,First Owner,Automatic,2018,13.0,1999.0,1999.0,177.0,26.95
+Hyundai i20,19.0,Comprehensive,Petrol,5,42098,First Owner,Manual,2019,18.0,1197.0,1197.0,8186.0,6.7
+Jeep Compass,,Third Party insurance,Diesel,5,40000,First Owner,Manual,2018,17.0,1956.0,1956.0,170.0,10.75
+BMW X1,19.0,Comprehensive,Diesel,5,64000,First Owner,Automatic,2019,20.0,1995.0,1995.0,188.0,25.5
+Maruti Swift,22.0,Comprehensive,Petrol,5,13158,First Owner,Automatic,2022,22.0,1197.0,1197.0,8850.0,8.38
+Hyundai Creta,18.0,Third Party insurance,Diesel,5,65400,First Owner,Automatic,2018,17.0,1582.0,1582.0,1262.0,10.9
+Honda Amaze,,Third Party insurance,Petrol,5,100000,First Owner,Manual,2017,17.0,1198.0,1198.0,867.0,3.95
+Tata Tiago,22.0,Comprehensive,CNG,5,30000,First Owner,Manual,2022,26.0,1199.0,1199.0,72.0,7.25
+Honda Jazz,17.0,Comprehensive,Diesel,5,62000,First Owner,Manual,2017,1498.0,986.0,986.0,200.0,4.75
+Volkswagen Beetle,10.0,Comprehensive,Petrol,4,40000,First Owner,Automatic,2010,10.0,1984.0,1984.0,1144.0,11.95
+Honda City,23.0,Comprehensive,Petrol,5,10280,First Owner,Automatic,2023,18.0,1498.0,1498.0,11935.0,16.0
+Maruti Baleno,15.0,Comprehensive,Petrol,5,17282,First Owner,Manual,2015,21.0,1197.0,1197.0,831.0,5.45
+Honda CR-V,19.0,Third Party insurance,Petrol,5,30500,First Owner,Automatic,2019,14.0,1997.0,1997.0,15189.0,22.95
+Kia Seltos,20.0,Comprehensive,Diesel,5,60755,First Owner,Manual,2020,20.0,1493.0,1493.0,11343.0,13.51
+Mercedes-Benz C-Class,21.0,Comprehensive,Petrol,5,25000,Second Owner,Automatic,2021,11.0,1950.0,1950.0,20115.0,40.75
+Mahindra Scorpio,18.0,Comprehensive,Diesel,7,47000,First Owner,Manual,2018,15.0,2179.0,2179.0,13678.0,14.5
+Kia Seltos,20.0,Comprehensive,Petrol,5,59316,First Owner,Automatic,2020,16.0,1353.0,1353.0,138.0,13.99
+Toyota Yaris,21.0,Comprehensive,Petrol,5,48000,Third Owner,Manual,2021,17.0,1496.0,1496.0,1055.0,6.95
+BMW 5,23.0,Zero Dep,Petrol,5,20000,First Owner,Automatic,2023,14.0,1998.0,1998.0,24808.0,65.0
+Renault KWID,20.0,Third Party insurance,Petrol,5,12503,First Owner,Automatic,2020,22.0,999.0,999.0,67.0,5.15
+Jeep Compass,21.0,Comprehensive,Petrol,5,10000,First Owner,Manual,2021,14.0,1368.0,1368.0,16077.0,15.95
+Maruti Swift,11.0,Comprehensive,Petrol,5,73717,Second Owner,Manual,2011,16.0,1197.0,1197.0,85.0,2.41
+Mercedes-Benz GL-Class,,Third Party insurance,Diesel,7,90000,Second Owner,Automatic,2016,11.0,2987.0,2987.0,2548.0,32.5
+Honda Jazz,17.0,Comprehensive,Petrol,5,17000,First Owner,Automatic,2017,17.0,1199.0,1199.0,8850.0,5.95
+Hyundai Grand,14.0,Comprehensive,Petrol,5,36047,First Owner,Automatic,2014,18.0,1197.0,1197.0,82.0,4.32
+Maruti Wagon,18.0,Comprehensive,CNG,5,45000,First Owner,Manual,2018,998.0,5833.0,5833.0,78.0,4.45
+Maruti Swift,,Third Party insurance,Diesel,5,100000,First Owner,Manual,2009,19.0,1248.0,1248.0,739.0,2.0
+Hyundai i10,16.0,Comprehensive,Petrol,5,50000,Second Owner,Manual,2016,20.0,1197.0,1197.0,789.0,3.45
+Maruti Swift,18.0,Comprehensive,Petrol,5,51000,First Owner,Manual,2018,22.0,1197.0,1197.0,8180.0,5.5
+Mahindra XUV500,18.0,Third Party,Diesel,7,62000,Second Owner,Manual,2018,2179.0,15287.0,15287.0,360.0,8.5
+Honda City,23.0,Comprehensive,Petrol,5,10280,First Owner,Automatic,2023,18.0,1498.0,1498.0,11935.0,16.0
+Maruti Baleno,15.0,Comprehensive,Petrol,5,17282,First Owner,Manual,2015,21.0,1197.0,1197.0,831.0,5.45
+Honda CR-V,19.0,Third Party insurance,Petrol,5,30500,First Owner,Automatic,2019,14.0,1997.0,1997.0,15189.0,22.95
+Kia Seltos,20.0,Comprehensive,Diesel,5,60755,First Owner,Manual,2020,20.0,1493.0,1493.0,11343.0,13.51
+Mercedes-Benz C-Class,21.0,Comprehensive,Petrol,5,25000,Second Owner,Automatic,2021,11.0,1950.0,1950.0,20115.0,40.75
+Mahindra Scorpio,18.0,Comprehensive,Diesel,7,47000,First Owner,Manual,2018,15.0,2179.0,2179.0,13678.0,14.5
+Kia Seltos,20.0,Comprehensive,Petrol,5,59316,First Owner,Automatic,2020,16.0,1353.0,1353.0,138.0,13.99
+Toyota Yaris,21.0,Comprehensive,Petrol,5,48000,Third Owner,Manual,2021,17.0,1496.0,1496.0,1055.0,6.95
+BMW 5,23.0,Zero Dep,Petrol,5,20000,First Owner,Automatic,2023,14.0,1998.0,1998.0,24808.0,65.0
+Renault KWID,20.0,Third Party insurance,Petrol,5,12503,First Owner,Automatic,2020,22.0,999.0,999.0,67.0,5.15
+Jeep Compass,21.0,Comprehensive,Petrol,5,10000,First Owner,Manual,2021,14.0,1368.0,1368.0,16077.0,15.95
+Maruti Swift,11.0,Comprehensive,Petrol,5,73717,Second Owner,Manual,2011,16.0,1197.0,1197.0,85.0,2.41
+Mercedes-Benz GL-Class,,Third Party insurance,Diesel,7,90000,Second Owner,Automatic,2016,11.0,2987.0,2987.0,2548.0,32.5
+Honda Jazz,17.0,Comprehensive,Petrol,5,17000,First Owner,Automatic,2017,17.0,1199.0,1199.0,8850.0,5.95
+Hyundai Grand,14.0,Comprehensive,Petrol,5,36047,First Owner,Automatic,2014,18.0,1197.0,1197.0,82.0,4.32
+Maruti Wagon,18.0,Comprehensive,CNG,5,45000,First Owner,Manual,2018,998.0,5833.0,5833.0,78.0,4.45
+Maruti Swift,,Third Party insurance,Diesel,5,100000,First Owner,Manual,2009,19.0,1248.0,1248.0,739.0,2.0
+Hyundai i10,16.0,Comprehensive,Petrol,5,50000,Second Owner,Manual,2016,20.0,1197.0,1197.0,789.0,3.45
+Maruti Swift,18.0,Comprehensive,Petrol,5,51000,First Owner,Manual,2018,22.0,1197.0,1197.0,8180.0,5.5
+Mahindra XUV500,18.0,Third Party,Diesel,7,62000,Second Owner,Manual,2018,2179.0,15287.0,15287.0,360.0,8.5
+Toyota Camry,17.0,Third Party insurance,Petrol,5,45000,First Owner,Automatic,2017,19.0,2494.0,2494.0,1577.0,22.5
+Hyundai i20,21.0,Comprehensive,Petrol,5,17041,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,10.49
+Mahindra XUV500,18.0,Comprehensive,Diesel,7,49000,First Owner,Manual,2018,16.0,1997.0,1997.0,140.0,9.25
+Hyundai Venue,20.0,Comprehensive,Petrol,5,23588,First Owner,Manual,2020,18.0,998.0,998.0,11835.0,9.2
+Mercedes-Benz CLA,18.0,Comprehensive,Diesel,5,50000,Second Owner,Automatic,2018,17.0,2143.0,2143.0,1341.0,22.0
+Toyota Innova,17.0,Third Party insurance,Diesel,7,76000,First Owner,Automatic,2017,11.0,2755.0,2755.0,1715.0,14.75
+Maruti Baleno,19.0,Comprehensive,Petrol,5,49341,First Owner,Manual,2019,21.0,1197.0,1197.0,8180.0,5.76
+Honda Amaze,13.0,Comprehensive,Petrol,5,56000,First Owner,Manual,2013,18.0,1198.0,1198.0,867.0,3.25
+MG Hector,23.0,Comprehensive,Petrol,6,12000,First Owner,Automatic,2023,12.0,1451.0,1451.0,141.0,21.0
+Honda City,14.0,Comprehensive,Petrol,5,51734,First Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,5.72
+Maruti Swift,18.0,Third Party insurance,Petrol,5,22000,First Owner,Manual,2018,22.0,1197.0,1197.0,8180.0,5.75
+Hyundai Creta,18.0,Comprehensive,Diesel,5,45084,First Owner,Manual,2018,20.0,1582.0,1582.0,1262.0,9.22
+Mahindra Scorpio,,Third Party insurance,Diesel,7,20000,First Owner,Automatic,2015,15.0,2179.0,2179.0,120.0,11.0
+Honda Amaze,16.0,Comprehensive,Petrol,5,29000,First Owner,Manual,2016,17.0,1198.0,1198.0,867.0,4.8
+Hyundai Venue,22.0,Comprehensive,Petrol,5,16763,First Owner,Manual,2021,18.0,998.0,998.0,11835.0,9.69
+Tata Altroz,22.0,Third Party insurance,Petrol,5,6000,First Owner,Manual,2022,19.0,1199.0,1199.0,8683.0,6.95
+BMW 7,,Third Party insurance,Diesel,5,60000,2993 cc,2017,Power Steering,2993.0,26149.0,26149.0,620.0,55.0
+Mahindra XUV500,15.0,Comprehensive,Diesel,7,86000,First Owner,Manual,2015,15.0,2179.0,2179.0,140.0,5.45
+Honda Jazz,18.0,Comprehensive,Petrol,5,24000,First Owner,Automatic,2018,17.0,1199.0,1199.0,8850.0,6.55
+Hyundai Venue,21.0,Comprehensive,Petrol,5,9000,First Owner,Manual,2021,20.0,1197.0,1197.0,8180.0,7.75
+Toyota Camry,17.0,Third Party insurance,Petrol,5,45000,First Owner,Automatic,2017,19.0,2494.0,2494.0,1577.0,22.5
+Hyundai i20,21.0,Comprehensive,Petrol,5,17041,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,10.49
+Mahindra XUV500,18.0,Comprehensive,Diesel,7,49000,First Owner,Manual,2018,16.0,1997.0,1997.0,140.0,9.25
+Hyundai Venue,20.0,Comprehensive,Petrol,5,23588,First Owner,Manual,2020,18.0,998.0,998.0,11835.0,9.2
+Mercedes-Benz CLA,18.0,Comprehensive,Diesel,5,50000,Second Owner,Automatic,2018,17.0,2143.0,2143.0,1341.0,22.0
+Toyota Innova,17.0,Third Party insurance,Diesel,7,76000,First Owner,Automatic,2017,11.0,2755.0,2755.0,1715.0,14.75
+Maruti Baleno,19.0,Comprehensive,Petrol,5,49341,First Owner,Manual,2019,21.0,1197.0,1197.0,8180.0,5.76
+Honda Amaze,13.0,Comprehensive,Petrol,5,56000,First Owner,Manual,2013,18.0,1198.0,1198.0,867.0,3.25
+MG Hector,23.0,Comprehensive,Petrol,6,12000,First Owner,Automatic,2023,12.0,1451.0,1451.0,141.0,21.0
+Honda City,14.0,Comprehensive,Petrol,5,51734,First Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,5.72
+Maruti Swift,18.0,Third Party insurance,Petrol,5,22000,First Owner,Manual,2018,22.0,1197.0,1197.0,8180.0,5.75
+Hyundai Creta,18.0,Comprehensive,Diesel,5,45084,First Owner,Manual,2018,20.0,1582.0,1582.0,1262.0,9.22
+Mahindra Scorpio,,Third Party insurance,Diesel,7,20000,First Owner,Automatic,2015,15.0,2179.0,2179.0,120.0,11.0
+Honda Amaze,16.0,Comprehensive,Petrol,5,29000,First Owner,Manual,2016,17.0,1198.0,1198.0,867.0,4.8
+Hyundai Venue,22.0,Comprehensive,Petrol,5,16763,First Owner,Manual,2021,18.0,998.0,998.0,11835.0,9.69
+Tata Altroz,22.0,Third Party insurance,Petrol,5,6000,First Owner,Manual,2022,19.0,1199.0,1199.0,8683.0,6.95
+BMW 7,,Third Party insurance,Diesel,5,60000,2993 cc,2017,Power Steering,2993.0,26149.0,26149.0,620.0,55.0
+Mahindra XUV500,15.0,Comprehensive,Diesel,7,86000,First Owner,Manual,2015,15.0,2179.0,2179.0,140.0,5.45
+Honda Jazz,18.0,Comprehensive,Petrol,5,24000,First Owner,Automatic,2018,17.0,1199.0,1199.0,8850.0,6.55
+Hyundai Venue,21.0,Comprehensive,Petrol,5,9000,First Owner,Manual,2021,20.0,1197.0,1197.0,8180.0,7.75
+Kia Carens,22.0,Comprehensive,Petrol,7,14900,First Owner,Automatic,2022,16.0,1353.0,1353.0,13805.0,16.5
+Hyundai i20,22.0,Comprehensive,Petrol,5,17172,Second Owner,Automatic,2022,20.0,998.0,998.0,11841.0,10.33
+Mercedes-Benz GLE,20.0,Zero Dep,Diesel,5,33000,First Owner,Automatic,2020,1950.0,24138.0,24138.0,500.0,78.0
+Renault KWID,16.0,Third Party insurance,Petrol,5,38000,Second Owner,Manual,2016,25.0,799.0,799.0,533.0,1.85
+Tata Altroz,23.0,Comprehensive,Petrol,5,11501,First Owner,Manual,2022,19.0,1199.0,1199.0,8683.0,8.24
+Mercedes-Benz GLE,22.0,Zero Dep,Diesel,5,43703,First Owner,Automatic,2022,1950.0,24138.0,24138.0,500.0,82.9
+Toyota Fortuner,21.0,Comprehensive,Diesel,7,29800,First Owner,Automatic,2021,2755.0,20115.0,20115.0,500.0,44.0
+Maruti Baleno,20.0,Comprehensive,Petrol,5,22051,First Owner,Manual,2020,21.0,1197.0,1197.0,8180.0,6.98
+Maruti Baleno,21.0,Comprehensive,Petrol,5,32965,First Owner,Manual,2021,1197.0,8180.0,8180.0,113.0,5.75
+Hyundai i10,14.0,Comprehensive,Petrol,5,96593,First Owner,Manual,2014,1086.0,6805.0,6805.0,9904.0,2.73
+Hyundai Verna,,Third Party insurance,Petrol,5,50000,First Owner,Manual,2017,17.0,1591.0,1591.0,1213.0,6.75
+BMW 2,22.0,Comprehensive,Petrol,5,15000,First Owner,Automatic,2022,14.0,1998.0,1998.0,18908.0,42.0
+Tata Tiago,20.0,Comprehensive,Petrol,5,27138,First Owner,Manual,2020,19.0,1199.0,1199.0,8482.0,5.92
+Maruti Baleno,22.0,Comprehensive,Petrol,5,15000,First Owner,Manual,2022,21.0,1197.0,1197.0,831.0,7.25
+Mercedes-Benz CLS-Class,,Third Party insurance,Diesel,4,10000,First Owner,Automatic,2018,19.0,2143.0,2143.0,204.0,38.0
+Mahindra Scorpio,23.0,Comprehensive,Petrol,7,9000,First Owner,Automatic,2023,1997.0,200.0,200.0,380.0,23.45
+Kia Sonet,21.0,Comprehensive,Petrol,5,10000,First Owner,Manual,2021,18.0,998.0,998.0,11836.0,10.2
+Kia Seltos,20.0,Comprehensive,Diesel,5,70000,First Owner,Automatic,2020,18.0,1493.0,1493.0,11343.0,14.95
+Mercedes-Benz C-Class,20.0,Comprehensive,Diesel,5,30000,First Owner,Automatic,2020,12.0,1950.0,1950.0,194.0,37.5
+Hyundai i20,22.0,Comprehensive,Petrol,5,16684,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,11.11
+Mercedes-Benz AMG,19.0,Comprehensive,Petrol,5,30000,First Owner,Automatic,2019,2996.0,38487.0,38487.0,520.0,67.0
+Maruti Swift,12.0,Comprehensive,Petrol,5,92543,First Owner,Manual,2012,1197.0,8180.0,8180.0,113.0,2.74
+Mahindra XUV700,21.0,Comprehensive,Petrol,7,25000,First Owner,Automatic,2021,1999.0,19713.0,19713.0,380.0,24.75
+Ford Ecosport,16.0,Comprehensive,Diesel,5,59870,First Owner,Manual,2016,21.0,1498.0,1498.0,9896.0,4.95
+Hyundai i20,16.0,Comprehensive,Petrol,5,62700,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,5.22
+Kia Seltos,19.0,Third Party insurance,Diesel,5,42132,First Owner,Automatic,2019,17.0,1493.0,1493.0,1134.0,14.75
+Mercedes-Benz CLA,18.0,Third Party insurance,Petrol,5,32000,First Owner,Automatic,2018,15.0,1991.0,1991.0,183.0,25.75
+Maruti A-Star,10.0,Comprehensive,Petrol,5,58873,First Owner,Manual,2010,19.0,998.0,998.0,661.0,1.82
+Renault Duster,18.0,Comprehensive,Petrol,5,10000,First Owner,Automatic,2018,14.0,1498.0,1498.0,1045.0,7.95
+Tata Altroz,23.0,Comprehensive,Petrol,5,14069,First Owner,Manual,2022,19.0,1199.0,1199.0,8683.0,8.24
+Nissan Terrano,,Third Party insurance,Diesel,5,100000,1461 cc,2014,Power Steering,1461.0,1085.0,1085.0,248.0,6.0
+Renault Duster,14.0,Third Party insurance,Diesel,5,80000,First Owner,Manual,2014,19.0,1461.0,1461.0,10845.0,2.85
+Honda City,16.0,Comprehensive,Petrol,5,57453,First Owner,Manual,2016,17.0,1497.0,1497.0,1173.0,6.24
+Ford Figo,11.0,Comprehensive,Petrol,5,66717,Second Owner,Manual,2011,1196.0,70.0,70.0,102.0,70000.0
+Mercedes-Benz GLS,,Third Party insurance,Diesel,7,40000,Second Owner,Automatic,2016,11.0,2987.0,2987.0,258.0,43.33
+Volvo XC40,22.0,Zero Dep,Petrol,5,16433,First Owner,Automatic,2022,1969.0,18740.0,18740.0,300.0,43.75
+BMW X1,18.0,Third Party insurance,Petrol,5,17860,First Owner,Automatic,2018,15.0,1998.0,1998.0,189.0,29.9
+Toyota Innova,20.0,Comprehensive,Diesel,7,52000,First Owner,Automatic,2020,11.0,2755.0,2755.0,1715.0,22.5
+Mercedes-Benz C-Class,20.0,Comprehensive,Diesel,5,30000,First Owner,Automatic,2020,12.0,1950.0,1950.0,194.0,37.5
+Hyundai i20,22.0,Comprehensive,Petrol,5,16684,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,11.11
+Mercedes-Benz AMG,19.0,Comprehensive,Petrol,5,30000,First Owner,Automatic,2019,2996.0,38487.0,38487.0,520.0,67.0
+Maruti Swift,12.0,Comprehensive,Petrol,5,92543,First Owner,Manual,2012,1197.0,8180.0,8180.0,113.0,2.74
+Mahindra XUV700,21.0,Comprehensive,Petrol,7,25000,First Owner,Automatic,2021,1999.0,19713.0,19713.0,380.0,24.75
+Ford Ecosport,16.0,Comprehensive,Diesel,5,59870,First Owner,Manual,2016,21.0,1498.0,1498.0,9896.0,4.95
+Hyundai i20,16.0,Comprehensive,Petrol,5,62700,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,5.22
+Kia Seltos,19.0,Third Party insurance,Diesel,5,42132,First Owner,Automatic,2019,17.0,1493.0,1493.0,1134.0,14.75
+Mercedes-Benz CLA,18.0,Third Party insurance,Petrol,5,32000,First Owner,Automatic,2018,15.0,1991.0,1991.0,183.0,25.75
+Maruti A-Star,10.0,Comprehensive,Petrol,5,58873,First Owner,Manual,2010,19.0,998.0,998.0,661.0,1.82
+Renault Duster,18.0,Comprehensive,Petrol,5,10000,First Owner,Automatic,2018,14.0,1498.0,1498.0,1045.0,7.95
+Tata Altroz,23.0,Comprehensive,Petrol,5,14069,First Owner,Manual,2022,19.0,1199.0,1199.0,8683.0,8.24
+Nissan Terrano,,Third Party insurance,Diesel,5,100000,1461 cc,2014,Power Steering,1461.0,1085.0,1085.0,248.0,6.0
+Renault Duster,14.0,Third Party insurance,Diesel,5,80000,First Owner,Manual,2014,19.0,1461.0,1461.0,10845.0,2.85
+Honda City,16.0,Comprehensive,Petrol,5,57453,First Owner,Manual,2016,17.0,1497.0,1497.0,1173.0,6.24
+Ford Figo,11.0,Comprehensive,Petrol,5,66717,Second Owner,Manual,2011,1196.0,70.0,70.0,102.0,70000.0
+Mercedes-Benz GLS,,Third Party insurance,Diesel,7,40000,Second Owner,Automatic,2016,11.0,2987.0,2987.0,258.0,43.33
+Volvo XC40,22.0,Zero Dep,Petrol,5,16433,First Owner,Automatic,2022,1969.0,18740.0,18740.0,300.0,43.75
+BMW X1,18.0,Third Party insurance,Petrol,5,17860,First Owner,Automatic,2018,15.0,1998.0,1998.0,189.0,29.9
+Toyota Innova,20.0,Comprehensive,Diesel,7,52000,First Owner,Automatic,2020,11.0,2755.0,2755.0,1715.0,22.5
+Mercedes-Benz S-Class,20.0,Comprehensive,Diesel,5,27200,First Owner,Automatic,2019,13.0,2925.0,2925.0,28161.0,77.0
+Hyundai Grand,14.0,Comprehensive,Petrol,5,25260,First Owner,Manual,2014,18.0,1197.0,1197.0,82.0,4.37
+BMW 5,20.0,Zero Dep,Diesel,5,21421,Second Owner,Automatic,2019,20.0,1995.0,1995.0,18774.0,45.9
+Hyundai i10,15.0,Comprehensive,Petrol,5,70215,First Owner,Manual,2015,20.0,1197.0,1197.0,789.0,3.08
+Hyundai Alcazar,22.0,Comprehensive,Diesel,6,32900,First Owner,Automatic,2022,23.0,1493.0,1493.0,11398.0,20.0
+Mercedes-Benz C-Class,21.0,Third Party insurance,Petrol,5,40045,First Owner,Automatic,2021,11.0,1950.0,1950.0,20115.0,43.9
+Maruti A-Star,11.0,Comprehensive,Petrol,5,75000,First Owner,Manual,2010,19.0,998.0,998.0,661.0,1.68
+Mercedes-Benz C-Class,21.0,Third Party insurance,Petrol,5,32325,First Owner,Automatic,2019,11.0,1950.0,1950.0,20115.0,44.9
+MG Gloster,21.0,Third Party insurance,Diesel,6,68000,First Owner,Automatic,2021,12.0,1996.0,1996.0,21501.0,33.0
+Hyundai Grand,15.0,Comprehensive,Petrol,5,78501,First Owner,Automatic,2015,20.0,1197.0,1197.0,8186.0,3.94
+Land Rover,19.0,Zero Dep,Petrol,7,46853,First Owner,Automatic,2018,12.0,1997.0,1997.0,23736.0,45.9
+Maruti Baleno,21.0,Comprehensive,Petrol,5,27114,First Owner,Manual,2021,21.0,1197.0,1197.0,8180.0,7.18
+Hyundai i20,,Third Party insurance,Petrol,5,10000,998 cc,2023,Power Steering,998.0,11841.0,11841.0,172.0,11.7
+Hyundai Creta,17.0,Third Party insurance,Petrol,5,88000,First Owner,Automatic,2017,13.0,1591.0,1591.0,1213.0,8.65
+Maruti Swift,13.0,Comprehensive,Petrol,5,58382,First Owner,Manual,2013,19.0,1197.0,1197.0,858.0,3.54
+BMW X1,,Third Party insurance,Diesel,5,30000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+Skoda Rapid,,Third Party insurance,Petrol,5,80000,Second Owner,Manual,2015,15.0,1598.0,1598.0,1036.0,3.3
+Mercedes-Benz C-Class,20.0,Zero Dep,Petrol,5,32628,First Owner,Automatic,2020,11.0,1950.0,1950.0,20115.0,41.9
+MG Gloster,21.0,Comprehensive,Diesel,6,35000,First Owner,Automatic,2021,12.0,1996.0,1996.0,21501.0,36.0
+Hyundai Grand,14.0,Comprehensive,Petrol,5,67264,Second Owner,Manual,2014,1197.0,82.0,82.0,114.0,3.27
+Mercedes-Benz V-Class,19.0,Zero Dep,Diesel,6,17000,First Owner,Automatic,2019,16.0,1950.0,1950.0,16092.0,65.0
+Maruti Wagon,13.0,Comprehensive,CNG,5,77584,Second Owner,Manual,2013,26.0,998.0,998.0,5816.0,2.8
+Mercedes-Benz S-Class,16.0,Comprehensive,Petrol,4,50000,First Owner,Automatic,2016,7.0,4663.0,4663.0,459.0,98.5
+Mahindra Scorpio,,Third Party insurance,Diesel,7,70000,First Owner,Manual,2017,15.0,2179.0,2179.0,120.0,9.0
+Maruti Swift,13.0,Comprehensive,Petrol,5,71977,Second Owner,Manual,2013,1197.0,8180.0,8180.0,113.0,2.94
+Maruti Ignis,17.0,Comprehensive,Petrol,5,52690,Second Owner,Manual,2017,20.0,1197.0,1197.0,8180.0,4.2
+Hyundai Creta,22.0,Comprehensive,Petrol,5,11900,First Owner,Automatic,2022,14.0,1497.0,1497.0,11318.0,18.25
+Hyundai i20,17.0,Comprehensive,Petrol,5,53747,First Owner,Manual,2017,18.0,1197.0,1197.0,8183.0,5.77
+BMW X3,20.0,Zero Dep,Diesel,5,32321,First Owner,Automatic,2019,16.0,1995.0,1995.0,1877.0,49.9
+Honda Brio,15.0,Comprehensive,Petrol,5,55485,First Owner,Manual,2015,19.0,1198.0,1198.0,868.0,3.35
+MG Hector,,Third Party insurance,Petrol,6,20000,1451 cc,2020,Power Windows Front,1451.0,141.0,141.0,250.0,17.5
+Land Rover,18.0,Third Party insurance,Petrol,5,54000,Second Owner,Automatic,2018,15.0,1997.0,1997.0,247.0,59.75
+Maruti Baleno,17.0,Comprehensive,Petrol,5,49404,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.44
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Ford Endeavour,,Third Party insurance,Diesel,7,100000,First Owner,Automatic,2018,10.0,3198.0,3198.0,197.0,22.5
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+MG Gloster,21.0,Comprehensive,Diesel,6,35000,First Owner,Automatic,2021,12.0,1996.0,1996.0,21501.0,36.0
+Hyundai Grand,14.0,Comprehensive,Petrol,5,67264,Second Owner,Manual,2014,1197.0,82.0,82.0,114.0,3.27
+Mercedes-Benz V-Class,19.0,Zero Dep,Diesel,6,17000,First Owner,Automatic,2019,16.0,1950.0,1950.0,16092.0,65.0
+Maruti Wagon,13.0,Comprehensive,CNG,5,77584,Second Owner,Manual,2013,26.0,998.0,998.0,5816.0,2.8
+Mercedes-Benz S-Class,16.0,Comprehensive,Petrol,4,50000,First Owner,Automatic,2016,7.0,4663.0,4663.0,459.0,98.5
+Mahindra Scorpio,,Third Party insurance,Diesel,7,70000,First Owner,Manual,2017,15.0,2179.0,2179.0,120.0,9.0
+Maruti Swift,13.0,Comprehensive,Petrol,5,71977,Second Owner,Manual,2013,1197.0,8180.0,8180.0,113.0,2.94
+Maruti Ignis,17.0,Comprehensive,Petrol,5,52690,Second Owner,Manual,2017,20.0,1197.0,1197.0,8180.0,4.2
+Hyundai Creta,22.0,Comprehensive,Petrol,5,11900,First Owner,Automatic,2022,14.0,1497.0,1497.0,11318.0,18.25
+Hyundai i20,17.0,Comprehensive,Petrol,5,53747,First Owner,Manual,2017,18.0,1197.0,1197.0,8183.0,5.77
+BMW X3,20.0,Zero Dep,Diesel,5,32321,First Owner,Automatic,2019,16.0,1995.0,1995.0,1877.0,49.9
+Honda Brio,15.0,Comprehensive,Petrol,5,55485,First Owner,Manual,2015,19.0,1198.0,1198.0,868.0,3.35
+MG Hector,,Third Party insurance,Petrol,6,20000,1451 cc,2020,Power Windows Front,1451.0,141.0,141.0,250.0,17.5
+Land Rover,18.0,Third Party insurance,Petrol,5,54000,Second Owner,Automatic,2018,15.0,1997.0,1997.0,247.0,59.75
+Maruti Baleno,17.0,Comprehensive,Petrol,5,49404,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.44
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Ford Endeavour,,Third Party insurance,Diesel,7,100000,First Owner,Automatic,2018,10.0,3198.0,3198.0,197.0,22.5
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Mahindra Scorpio,22.0,Comprehensive,Petrol,7,8000,First Owner,Automatic,2022,1997.0,200.0,200.0,380.0,24.0
+Maruti Wagon,14.0,Comprehensive,Petrol,5,33841,First Owner,Manual,2014,998.0,671.0,671.0,90.0,3.17
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Volkswagen Virtus,23.0,Comprehensive,Petrol,5,9246,First Owner,Manual,2023,19.0,999.0,999.0,11398.0,15.62
+Toyota Innova,18.0,Comprehensive,Petrol,7,42000,First Owner,Automatic,2018,10.0,2694.0,2694.0,1637.0,17.9
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Tata Tiago,18.0,Comprehensive,Diesel,5,42462,First Owner,Manual,2018,27.0,1047.0,1047.0,69.0,4.3
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Mahindra Alturas,21.0,Third Party insurance,Diesel,7,30000,First Owner,Automatic,2021,12.0,2157.0,2157.0,17849.0,24.75
+Hyundai i20,12.0,Comprehensive,Petrol,5,96660,First Owner,Manual,2012,18.0,1197.0,1197.0,8285.0,2.47
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Hyundai Grand,14.0,Comprehensive,Petrol,5,38963,First Owner,Manual,2014,18.0,1197.0,1197.0,82.0,4.13
+Hyundai i20,,Third Party insurance,Petrol,5,70000,Second Owner,Manual,2011,18.0,1197.0,1197.0,805200.0,1.6
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+Hyundai Grand,17.0,Comprehensive,Petrol,5,63249,First Owner,Manual,2017,18.0,1197.0,1197.0,8186.0,4.59
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+BMW 2,,Third Party insurance,Petrol,4,40000,1998 cc,2021,Power Steering,1998.0,18740.0,18740.0,280.0,32.0
+Maruti Ertiga,16.0,Comprehensive,Petrol,7,82000,First Owner,Manual,2016,19.0,1462.0,1462.0,10326.0,7.49
+Maruti Ciaz,19.0,Comprehensive,Petrol,5,38000,First Owner,Manual,2019,20.0,1373.0,1373.0,911.0,6.75
+Kia Carnival,20.0,Third Party insurance,Diesel,7,40500,First Owner,Automatic,2020,14.0,2199.0,2199.0,19726.0,25.25
+Kia Sonet,20.0,Zero Dep,Diesel,5,40000,First Owner,Manual,2020,1493.0,9863.0,9863.0,240.0,11.55
+Hyundai i10,15.0,Comprehensive,Petrol,5,65170,Second Owner,Manual,2015,20.0,1197.0,1197.0,789.0,3.02
+Honda WR-V,18.0,Comprehensive,Petrol,5,50000,First Owner,Manual,2018,17.0,1199.0,1199.0,887.0,7.25
+Renault KWID,20.0,Comprehensive,Petrol,5,34838,First Owner,Manual,2020,999.0,6706.0,6706.0,91.0,3.88
+Hyundai i20,21.0,Comprehensive,Petrol,5,30466,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,10.5
+Mercedes-Benz E-Class,20.0,Comprehensive,Diesel,5,32000,Second Owner,Automatic,2020,16.0,1950.0,1950.0,1917.0,44.5
+Volvo S90,18.0,Third Party insurance,Diesel,5,50000,First Owner,Automatic,2018,18.0,1969.0,1969.0,190.0,33.0
+Maruti Swift,14.0,Comprehensive,Petrol,5,48946,First Owner,Manual,2014,19.0,1197.0,1197.0,858.0,4.11
+BMW X3,17.0,Comprehensive,Diesel,5,43498,Second Owner,Automatic,2017,18.0,1995.0,1995.0,190.0,29.9
+Mahindra Thar,22.0,Comprehensive,Petrol,4,8744,First Owner,Automatic,2022,15.0,1997.0,1997.0,150.0,16.01
+Hyundai Venue,,Third Party insurance,Diesel,5,30000,First Owner,Manual,2020,1493.0,986.0,986.0,24026.0,7.8
+Land Rover,17.0,Comprehensive,Petrol,7,72000,First Owner,Automatic,2017,12.0,1997.0,1997.0,23736.0,32.5
+Hyundai i20,17.0,Comprehensive,Petrol,5,71361,First Owner,Manual,2017,18.0,1197.0,1197.0,8183.0,5.52
+BMW X1,17.0,Comprehensive,Diesel,5,60500,First Owner,Automatic,2017,20.0,1995.0,1995.0,188.0,19.95
+Audi A6,,Third Party insurance,Petrol,5,30000,First Owner,Automatic,2021,14.0,1984.0,1984.0,2413.0,49.5
+Ford Ecosport,18.0,Comprehensive,Diesel,5,64000,First Owner,Manual,2018,21.0,1498.0,1498.0,9896.0,7.99
+Mercedes-Benz B,13.0,Comprehensive,Petrol,5,26000,Second Owner,Automatic,2013,11.0,1595.0,1595.0,1207.0,12.45
+Ford Ecosport,16.0,Comprehensive,Petrol,5,60000,First Owner,Automatic,2016,14.0,1496.0,1496.0,12069.0,6.49
+Kia Sonet,20.0,Zero Dep,Diesel,5,40000,First Owner,Manual,2020,1493.0,9863.0,9863.0,240.0,11.55
+Hyundai i10,15.0,Comprehensive,Petrol,5,65170,Second Owner,Manual,2015,20.0,1197.0,1197.0,789.0,3.02
+Honda WR-V,18.0,Comprehensive,Petrol,5,50000,First Owner,Manual,2018,17.0,1199.0,1199.0,887.0,7.25
+Renault KWID,20.0,Comprehensive,Petrol,5,34838,First Owner,Manual,2020,999.0,6706.0,6706.0,91.0,3.88
+Land Rover,18.0,Comprehensive,Petrol,7,72000,Second Owner,Automatic,2018,12.0,1997.0,1997.0,23736.0,49.5
+Hyundai i20,21.0,Comprehensive,Petrol,5,30466,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,10.5
+Mercedes-Benz E-Class,20.0,Comprehensive,Diesel,5,32000,Second Owner,Automatic,2020,16.0,1950.0,1950.0,1917.0,44.5
+Volvo S90,18.0,Third Party insurance,Diesel,5,50000,First Owner,Automatic,2018,18.0,1969.0,1969.0,190.0,33.0
+Maruti Swift,14.0,Comprehensive,Petrol,5,48946,First Owner,Manual,2014,19.0,1197.0,1197.0,858.0,4.11
+BMW X3,17.0,Comprehensive,Diesel,5,43498,Second Owner,Automatic,2017,18.0,1995.0,1995.0,190.0,29.9
+Mahindra Thar,22.0,Comprehensive,Petrol,4,8744,First Owner,Automatic,2022,15.0,1997.0,1997.0,150.0,16.01
+Hyundai Venue,,Third Party insurance,Diesel,5,30000,First Owner,Manual,2020,1493.0,986.0,986.0,24026.0,7.8
+Land Rover,17.0,Comprehensive,Petrol,7,72000,First Owner,Automatic,2017,12.0,1997.0,1997.0,23736.0,32.5
+Hyundai i20,17.0,Comprehensive,Petrol,5,71361,First Owner,Manual,2017,18.0,1197.0,1197.0,8183.0,5.52
+BMW X1,17.0,Comprehensive,Diesel,5,60500,First Owner,Automatic,2017,20.0,1995.0,1995.0,188.0,19.95
+Audi A6,,Third Party insurance,Petrol,5,30000,First Owner,Automatic,2021,14.0,1984.0,1984.0,2413.0,49.5
+Ford Ecosport,18.0,Comprehensive,Diesel,5,64000,First Owner,Manual,2018,21.0,1498.0,1498.0,9896.0,7.99
+Mercedes-Benz B,13.0,Comprehensive,Petrol,5,26000,Second Owner,Automatic,2013,11.0,1595.0,1595.0,1207.0,12.45
+Ford Ecosport,16.0,Comprehensive,Petrol,5,60000,First Owner,Automatic,2016,14.0,1496.0,1496.0,12069.0,6.49
+Audi Q2,21.0,Comprehensive,Petrol,5,28000,First Owner,Automatic,2021,1984.0,18774.0,18774.0,320.0,26.5
+Maruti Swift,11.0,Comprehensive,Petrol,5,89002,First Owner,Manual,2011,17.0,1197.0,1197.0,858.0,2.37
+Maruti Baleno,18.0,Comprehensive,Petrol,5,36937,First Owner,Manual,2018,21.0,1197.0,1197.0,831.0,6.4
+Toyota Innova,19.0,Third Party insurance,Diesel,7,42000,First Owner,Manual,2019,13.0,2393.0,2393.0,14751.0,18.75
+BMW 5,19.0,Comprehensive,Diesel,5,55000,First Owner,Automatic,2019,20.0,1995.0,1995.0,18774.0,41.5
+Maruti Baleno,19.0,Comprehensive,Petrol,5,70391,Second Owner,Manual,2019,21.0,1197.0,1197.0,8180.0,5.12
+Hyundai Elantra,14.0,Third Party insurance,Petrol,5,56000,First Owner,Manual,2014,16.0,1797.0,1797.0,1475.0,4.95
+Hyundai Grand,16.0,Comprehensive,Petrol,5,52190,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,4.31
+Mercedes-Benz C-Class,,Third Party insurance,Diesel,5,40000,First Owner,Automatic,2014,11.0,2143.0,2143.0,16762.0,9.99
+Audi A3,18.0,Comprehensive,Diesel,5,72000,First Owner,Automatic,2018,20.0,1968.0,1968.0,143.0,20.0
+Maruti Wagon,13.0,Comprehensive,Petrol,5,48173,First Owner,Manual,2013,998.0,671.0,671.0,90.0,2.88
+BMW 3,,Third Party insurance,Petrol,5,110000,Second Owner,Automatic,2012,12.0,1995.0,1995.0,154.0,7.3
+Honda City,,Third Party insurance,Petrol,5,50000,First Owner,Manual,2012,16.0,1497.0,1497.0,1163.0,3.39
+Mercedes-Benz CLA,19.0,Third Party insurance,Diesel,5,44132,Second Owner,Automatic,2019,17.0,2143.0,2143.0,1341.0,26.9
+Honda City,,Third Party insurance,Petrol,5,90000,Third Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,4.75
+Ford Endeavour,20.0,Comprehensive,Diesel,7,49000,First Owner,Automatic,2020,12.0,1996.0,1996.0,16762.0,33.5
+Audi Q2,21.0,Comprehensive,Petrol,5,28000,First Owner,Automatic,2021,1984.0,18774.0,18774.0,320.0,26.5
+Maruti Swift,11.0,Comprehensive,Petrol,5,89002,First Owner,Manual,2011,17.0,1197.0,1197.0,858.0,2.37
+Hyundai Venue,19.0,Comprehensive,Petrol,5,28194,First Owner,Manual,2019,18.0,998.0,998.0,11835.0,9.03
+BMW 5,19.0,Comprehensive,Petrol,5,34500,First Owner,Automatic,2019,15.0,1998.0,1998.0,24808.0,52.0
+Mercedes-Benz E-Class,19.0,Zero Dep,Diesel,5,50605,Second Owner,Automatic,2019,16.0,1950.0,1950.0,1917.0,39.9
+Maruti Baleno,18.0,Comprehensive,Petrol,5,36937,First Owner,Manual,2018,21.0,1197.0,1197.0,831.0,6.4
+Toyota Innova,19.0,Third Party insurance,Diesel,7,42000,First Owner,Manual,2019,13.0,2393.0,2393.0,14751.0,18.75
+BMW 5,19.0,Comprehensive,Diesel,5,55000,First Owner,Automatic,2019,20.0,1995.0,1995.0,18774.0,41.5
+Maruti Baleno,19.0,Comprehensive,Petrol,5,70391,Second Owner,Manual,2019,21.0,1197.0,1197.0,8180.0,5.12
+Hyundai Elantra,14.0,Third Party insurance,Petrol,5,56000,First Owner,Manual,2014,16.0,1797.0,1797.0,1475.0,4.95
+Hyundai Grand,16.0,Comprehensive,Petrol,5,52190,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,4.31
+Mercedes-Benz C-Class,,Third Party insurance,Diesel,5,40000,First Owner,Automatic,2014,11.0,2143.0,2143.0,16762.0,9.99
+Audi A3,18.0,Comprehensive,Diesel,5,72000,First Owner,Automatic,2018,20.0,1968.0,1968.0,143.0,20.0
+Maruti Wagon,13.0,Comprehensive,Petrol,5,48173,First Owner,Manual,2013,998.0,671.0,671.0,90.0,2.88
+BMW 3,,Third Party insurance,Petrol,5,110000,Second Owner,Automatic,2012,12.0,1995.0,1995.0,154.0,7.3
+Honda City,,Third Party insurance,Petrol,5,50000,First Owner,Manual,2012,16.0,1497.0,1497.0,1163.0,3.39
+Mercedes-Benz CLA,19.0,Third Party insurance,Diesel,5,44132,Second Owner,Automatic,2019,17.0,2143.0,2143.0,1341.0,26.9
+Honda City,,Third Party insurance,Petrol,5,90000,Third Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,4.75
+Ford Endeavour,20.0,Comprehensive,Diesel,7,49000,First Owner,Automatic,2020,12.0,1996.0,1996.0,16762.0,33.5
+Audi Q7,17.0,Comprehensive,Diesel,7,70000,Second Owner,Automatic,2017,12.0,2967.0,2967.0,2414.0,40.0
+Hyundai Creta,15.0,Comprehensive,Petrol,5,49341,First Owner,Manual,2015,15.0,1591.0,1591.0,1213.0,8.42
+Isuzu MU-X,18.0,Comprehensive,Diesel,7,55000,First Owner,Automatic,2018,13.0,2999.0,2999.0,175.0,18.95
+Hyundai Creta,19.0,Comprehensive,Diesel,5,55861,First Owner,Manual,2019,22.0,1396.0,1396.0,887.0,10.27
+Land Rover,18.0,Third Party insurance,Petrol,7,76000,Second Owner,Automatic,2018,9.0,2995.0,2995.0,33525.0,49.5
+Toyota Innova,18.0,Comprehensive,Diesel,7,68000,First Owner,Manual,2018,13.0,2393.0,2393.0,14751.0,14.25
+Honda Amaze,14.0,Comprehensive,Petrol,5,52565,First Owner,Manual,2014,17.0,1198.0,1198.0,867.0,4.17
+Volvo S90,18.0,Comprehensive,Diesel,5,72000,First Owner,Automatic,2018,18.0,1969.0,1969.0,190.0,29.55
+Audi Q7,17.0,Comprehensive,Diesel,7,70000,Second Owner,Automatic,2017,14.0,2967.0,2967.0,245.0,40.0
+Hyundai Grand,19.0,Comprehensive,Petrol,5,73074,First Owner,Manual,2019,18.0,1197.0,1197.0,8186.0,4.93
+Tata Harrier,19.0,Third Party insurance,Diesel,5,45000,First Owner,Manual,2019,16.0,1956.0,1956.0,16767.0,13.75
+Hyundai Grand,14.0,Comprehensive,Petrol,5,90995,First Owner,Manual,2014,1197.0,82.0,82.0,114.0,3.35
+Renault KWID,,Third Party insurance,Petrol,5,30000,First Owner,Automatic,2017,23.0,999.0,999.0,67.0,3.35
+Honda City,,Third Party insurance,Diesel,5,80000,1498 cc,2014,Power Steering,1498.0,986.0,986.0,200.0,4.75
+Maruti Wagon,14.0,Third Party,Petrol,5,42346,Second Owner,Manual,2014,20.0,998.0,998.0,6704.0,3.01
+Honda City,20.0,Comprehensive,Petrol,5,31120,First Owner,Automatic,2020,18.0,1497.0,1497.0,1176.0,11.5
+Hyundai Verna,,Third Party insurance,Diesel,5,100000,First Owner,Automatic,2014,22.0,1582.0,1582.0,12632.0,3.95
+Toyota Yaris,,Third Party insurance,Petrol,5,33500,First Owner,Automatic,2018,17.0,1496.0,1496.0,1055.0,7.5
+Hyundai Grand,15.0,Comprehensive,CNG,5,64000,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.25
+Honda City,,Third Party insurance,Petrol,5,110000,1497 cc,2011,Power Steering,1497.0,1186600.0,1186600.0,1464800.0,3.5
+Audi Q7,17.0,Comprehensive,Diesel,7,70000,Second Owner,Automatic,2017,12.0,2967.0,2967.0,2414.0,40.0
+Hyundai Creta,15.0,Comprehensive,Petrol,5,49341,First Owner,Manual,2015,15.0,1591.0,1591.0,1213.0,8.42
+Isuzu MU-X,18.0,Comprehensive,Diesel,7,55000,First Owner,Automatic,2018,13.0,2999.0,2999.0,175.0,18.95
+Hyundai Creta,19.0,Comprehensive,Diesel,5,55861,First Owner,Manual,2019,22.0,1396.0,1396.0,887.0,10.27
+Land Rover,18.0,Third Party insurance,Petrol,7,76000,Second Owner,Automatic,2018,9.0,2995.0,2995.0,33525.0,49.5
+Toyota Innova,18.0,Comprehensive,Diesel,7,68000,First Owner,Manual,2018,13.0,2393.0,2393.0,14751.0,14.25
+Honda Amaze,14.0,Comprehensive,Petrol,5,52565,First Owner,Manual,2014,17.0,1198.0,1198.0,867.0,4.17
+Volvo S90,18.0,Comprehensive,Diesel,5,72000,First Owner,Automatic,2018,18.0,1969.0,1969.0,190.0,29.55
+Audi Q7,17.0,Comprehensive,Diesel,7,70000,Second Owner,Automatic,2017,14.0,2967.0,2967.0,245.0,40.0
+Hyundai Grand,19.0,Comprehensive,Petrol,5,73074,First Owner,Manual,2019,18.0,1197.0,1197.0,8186.0,4.93
+Tata Harrier,19.0,Third Party insurance,Diesel,5,45000,First Owner,Manual,2019,16.0,1956.0,1956.0,16767.0,13.75
+Hyundai Grand,14.0,Comprehensive,Petrol,5,90995,First Owner,Manual,2014,1197.0,82.0,82.0,114.0,3.35
+Renault KWID,,Third Party insurance,Petrol,5,30000,First Owner,Automatic,2017,23.0,999.0,999.0,67.0,3.35
+Honda City,,Third Party insurance,Diesel,5,80000,1498 cc,2014,Power Steering,1498.0,986.0,986.0,200.0,4.75
+Maruti Wagon,14.0,Third Party,Petrol,5,42346,Second Owner,Manual,2014,20.0,998.0,998.0,6704.0,3.01
+Honda City,20.0,Comprehensive,Petrol,5,31120,First Owner,Automatic,2020,18.0,1497.0,1497.0,1176.0,11.5
+Hyundai Verna,,Third Party insurance,Diesel,5,100000,First Owner,Automatic,2014,22.0,1582.0,1582.0,12632.0,3.95
+Toyota Yaris,,Third Party insurance,Petrol,5,33500,First Owner,Automatic,2018,17.0,1496.0,1496.0,1055.0,7.5
+Hyundai Grand,15.0,Comprehensive,CNG,5,64000,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.25
+Honda City,,Third Party insurance,Petrol,5,110000,1497 cc,2011,Power Steering,1497.0,1186600.0,1186600.0,1464800.0,3.5
+BMW 7,22.0,Comprehensive,Petrol,4,4000,First Owner,Automatic,2022,11.0,2998.0,2998.0,33525.0,1.25
+Maruti A-Star,12.0,Comprehensive,Petrol,5,48936,Second Owner,Manual,2011,19.0,998.0,998.0,661.0,2.34
+Mitsubishi Outlander,19.0,Comprehensive,Petrol,7,23000,Second Owner,Automatic,2019,10.0,2360.0,2360.0,16494.0,19.5
+Maruti Baleno,17.0,Comprehensive,Petrol,5,61814,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.27
+BMW X5,19.0,Zero Dep,Diesel,5,62000,Second Owner,Automatic,2019,13.0,2993.0,2993.0,26150.0,47.98
+Volkswagen Polo,,Third Party insurance,Petrol,5,40000,First Owner,Automatic,2017,17.0,1197.0,1197.0,1035.0,10.0
+Hyundai Venue,20.0,Comprehensive,Petrol,5,30200,First Owner,Manual,2020,18.0,998.0,998.0,11835.0,9.25
+Skoda Superb,20.0,Third Party insurance,Petrol,5,34123,First Owner,Automatic,2020,14.0,1798.0,1798.0,17746.0,30.5
+Mercedes-Benz AMG,22.0,Comprehensive,Petrol,5,16000,First Owner,Automatic,2022,2996.0,38487.0,38487.0,520.0,83.0
+Maruti Vitara,18.0,Comprehensive,Diesel,5,28645,First Owner,Manual,2018,24.0,1248.0,1248.0,885.0,7.71
+Audi A4,15.0,Comprehensive,Diesel,5,48933,Second Owner,Automatic,2015,17.0,1968.0,1968.0,17433.0,15.75
+Hyundai Creta,16.0,Comprehensive,Petrol,5,60970,First Owner,Automatic,2016,13.0,1591.0,1591.0,1213.0,9.4
+Hyundai Creta,,Third Party insurance,Petrol,5,50000,First Owner,Automatic,2017,13.0,1591.0,1591.0,1213.0,7.75
+Toyota Fortuner,18.0,Third Party insurance,Diesel,7,56000,First Owner,Manual,2018,14.0,2755.0,2755.0,1745.0,27.5
+Hyundai Grand,18.0,Comprehensive,Petrol,5,40427,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.36
+Maruti Ciaz,19.0,Third Party insurance,Petrol,5,54213,First Owner,Manual,2019,20.0,1373.0,1373.0,911.0,7.9
+Ford Endeavour,,Third Party insurance,Diesel,7,20000,1996 cc,2021,Power Steering,1996.0,16762.0,16762.0,420.0,32.0
+Toyota Corolla,11.0,Third Party insurance,Petrol,5,85000,Second Owner,Manual,2011,14.0,1798.0,1798.0,1381.0,2.75
+Toyota Innova,16.0,Comprehensive,Diesel,8,91000,Second Owner,Manual,2016,13.0,2393.0,2393.0,14751.0,12.0
+Hyundai Grand,16.0,Third Party insurance,Petrol,5,47000,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,3.85
+Honda City,15.0,Comprehensive,Petrol,5,54630,First Owner,Automatic,2015,18.0,1497.0,1497.0,1173.0,6.86
+Audi Q7,16.0,Comprehensive,Diesel,7,72222,Second Owner,Automatic,2015,14.0,2967.0,2967.0,245.0,34.9
+Honda City,20.0,Comprehensive,Petrol,5,41116,First Owner,Automatic,2019,18.0,1497.0,1497.0,1176.0,10.39
+Land Rover,19.0,Zero Dep,Petrol,5,4000,First Owner,Automatic,2019,12.0,1997.0,1997.0,29636.0,1.1
+Jaguar XJ,17.0,Comprehensive,Petrol,5,20000,First Owner,Automatic,2017,9.0,1999.0,1999.0,2374.0,69.0
+Tata Altroz,23.0,Comprehensive,Petrol,5,29502,First Owner,Manual,2021,19.0,1199.0,1199.0,8683.0,7.56
+BMW X5,14.0,Comprehensive,Diesel,5,132501,First Owner,Automatic,2014,15.0,2993.0,2993.0,258.0,12.21
+Mercedes-Benz E-Class,17.0,Comprehensive,Diesel,5,35000,First Owner,Automatic,2017,13.0,2143.0,2143.0,204.0,23.9
+Honda WR-V,17.0,Comprehensive,Diesel,5,56458,Second Owner,Manual,2017,25.0,1498.0,1498.0,986.0,5.71
+Maruti Ciaz,18.0,Comprehensive,Petrol,5,50000,First Owner,Automatic,2018,19.0,1373.0,1373.0,911.0,7.25
+Maruti Baleno,18.0,Comprehensive,Petrol,5,61657,First Owner,Manual,2018,21.0,1197.0,1197.0,831.0,5.93
+Honda City,,Third Party insurance,Petrol,5,50000,First Owner,Automatic,2016,18.0,1497.0,1497.0,1173.0,6.5
+Maruti Ciaz,17.0,Third Party insurance,Petrol,5,67000,First Owner,Manual,2017,20.0,1373.0,1373.0,911.0,6.25
+Hyundai i20,16.0,Comprehensive,Petrol,5,104948,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,4.61
+Jaguar XJ,17.0,Comprehensive,Petrol,5,20000,First Owner,Automatic,2017,9.0,1999.0,1999.0,2374.0,52.0
+Kia Seltos,,Third Party insurance,Petrol,5,10000,First Owner,Manual,2023,17.0,1497.0,1497.0,11342.0,15.21
+Mercedes-Benz M-Class,14.0,Comprehensive,Diesel,5,154000,Second Owner,Automatic,2014,11.0,2987.0,2987.0,2548.0,17.5
+Toyota Camry,16.0,Comprehensive,Petrol,5,46000,First Owner,Automatic,2016,19.0,2494.0,2494.0,1577.0,20.5
+Honda City,15.0,Comprehensive,Petrol,5,90000,First Owner,Manual,2015,1497.0,1173.0,1173.0,145.0,5.65
+Hyundai Grand,16.0,Third Party insurance,Petrol,5,47000,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,3.85
+Honda City,15.0,Comprehensive,Petrol,5,54630,First Owner,Automatic,2015,18.0,1497.0,1497.0,1173.0,6.86
+Audi Q7,16.0,Comprehensive,Diesel,7,72222,Second Owner,Automatic,2015,14.0,2967.0,2967.0,245.0,34.9
+Honda City,20.0,Comprehensive,Petrol,5,41116,First Owner,Automatic,2019,18.0,1497.0,1497.0,1176.0,10.39
+Land Rover,19.0,Zero Dep,Petrol,5,4000,First Owner,Automatic,2019,12.0,1997.0,1997.0,29636.0,1.1
+Jaguar XJ,17.0,Comprehensive,Petrol,5,20000,First Owner,Automatic,2017,9.0,1999.0,1999.0,2374.0,69.0
+Tata Altroz,23.0,Comprehensive,Petrol,5,29502,First Owner,Manual,2021,19.0,1199.0,1199.0,8683.0,7.56
+BMW X5,14.0,Comprehensive,Diesel,5,132501,First Owner,Automatic,2014,15.0,2993.0,2993.0,258.0,12.21
+Mercedes-Benz E-Class,17.0,Comprehensive,Diesel,5,35000,First Owner,Automatic,2017,13.0,2143.0,2143.0,204.0,23.9
+Honda WR-V,17.0,Comprehensive,Diesel,5,56458,Second Owner,Manual,2017,25.0,1498.0,1498.0,986.0,5.71
+Maruti Ciaz,18.0,Comprehensive,Petrol,5,50000,First Owner,Automatic,2018,19.0,1373.0,1373.0,911.0,7.25
+Maruti Baleno,18.0,Comprehensive,Petrol,5,61657,First Owner,Manual,2018,21.0,1197.0,1197.0,831.0,5.93
+Honda City,,Third Party insurance,Petrol,5,50000,First Owner,Automatic,2016,18.0,1497.0,1497.0,1173.0,6.5
+Maruti Ciaz,17.0,Third Party insurance,Petrol,5,67000,First Owner,Manual,2017,20.0,1373.0,1373.0,911.0,6.25
+Hyundai i20,16.0,Comprehensive,Petrol,5,104948,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,4.61
+Jaguar XJ,17.0,Comprehensive,Petrol,5,20000,First Owner,Automatic,2017,9.0,1999.0,1999.0,2374.0,52.0
+Kia Seltos,,Third Party insurance,Petrol,5,10000,First Owner,Manual,2023,17.0,1497.0,1497.0,11342.0,15.21
+Mercedes-Benz M-Class,14.0,Comprehensive,Diesel,5,154000,Second Owner,Automatic,2014,11.0,2987.0,2987.0,2548.0,17.5
+Toyota Camry,16.0,Comprehensive,Petrol,5,46000,First Owner,Automatic,2016,19.0,2494.0,2494.0,1577.0,20.5
+Honda City,15.0,Comprehensive,Petrol,5,90000,First Owner,Manual,2015,1497.0,1173.0,1173.0,145.0,5.65
+Audi A3,20.0,Comprehensive,Diesel,5,39000,Second Owner,Automatic,2020,20.0,1968.0,1968.0,143.0,22.5
+Hyundai Creta,17.0,Comprehensive,Petrol,5,64727,First Owner,Automatic,2017,13.0,1591.0,1591.0,1213.0,9.87
+Hyundai i20,18.0,Third Party insurance,Diesel,5,65000,First Owner,Manual,2018,21.0,1396.0,1396.0,8873.0,6.5
+Honda Brio,13.0,Third Party,Petrol,5,44636,Second Owner,Manual,2013,19.0,1198.0,1198.0,868.0,2.63
+Toyota Fortuner,15.0,Comprehensive,Diesel,7,100000,Second Owner,Automatic,2015,12.0,2982.0,2982.0,1685.0,15.5
+Mercedes-Benz C-Class,21.0,Zero Dep,Diesel,5,23616,First Owner,Automatic,2021,12.0,1950.0,1950.0,194.0,43.9
+Hyundai Xcent,14.0,Comprehensive,Petrol,5,107682,First Owner,Manual,2014,19.0,1197.0,1197.0,82.0,3.39
+Mercedes-Benz AMG,22.0,Third Party,Petrol,5,9500,First Owner,Automatic,2022,1991.0,30173.0,30173.0,400.0,56.5
+Land Rover,19.0,Comprehensive,Petrol,7,47500,First Owner,Automatic,2019,12.0,1997.0,1997.0,23736.0,43.0
+Volkswagen Polo,11.0,Comprehensive,Petrol,5,101914,Second Owner,Manual,2011,16.0,1198.0,1198.0,739.0,2.59
+Hyundai Grand,23.0,Comprehensive,Petrol,5,620,First Owner,Manual,2023,1197.0,8180.0,8180.0,1138.0,6.65
+Maruti Baleno,19.0,Comprehensive,Petrol,5,45507,First Owner,Manual,2019,21.0,1197.0,1197.0,8180.0,6.49
+Audi A8,15.0,Comprehensive,Diesel,4,58000,First Owner,Automatic,2015,16.0,2967.0,2967.0,24674.0,29.75
+Mercedes-Benz S-Class,22.0,Comprehensive,Diesel,5,7000,First Owner,Automatic,2022,2925.0,28161.0,28161.0,600.0,1.55
+Ford Ecosport,15.0,Comprehensive,Petrol,5,74095,Second Owner,Automatic,2015,16.0,1499.0,1499.0,110.0,5.37
+BMW X3,22.0,Zero Dep,Petrol,5,8450,First Owner,Automatic,2022,19.0,5.0,5.0,,71.9
+Mercedes-Benz S-Class,18.0,Comprehensive,Petrol,4,40000,First Owner,Automatic,2018,7.0,4663.0,4663.0,459.0,1.09
+Maruti Alto,10.0,Comprehensive,Petrol,5,77684,Second Owner,Manual,2010,796.0,463.0,463.0,62.0,1.54
+Audi Q5,22.0,Third Party insurance,Petrol,5,22900,First Owner,Automatic,2021,13.0,1984.0,1984.0,24559.0,54.8
+Mercedes-Benz A-Class,,Third Party insurance,Diesel,5,10000,1950 cc,2022,Power Steering,147.0,320.0,320.0,17.0,42.0
+Mercedes-Benz GLS,22.0,Comprehensive,Diesel,7,19000,Second Owner,Automatic,2022,2925.0,3258640000000.0,3258640000000.0,700.0,1.15
+Hyundai Grand,14.0,Comprehensive,Petrol,5,74846,Second Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.1
+Toyota Glanza,22.0,Comprehensive,Petrol,5,4500,First Owner,Manual,2022,22.0,1197.0,1197.0,8850.0,7.55
+Hyundai i20,12.0,Comprehensive,Petrol,5,97722,Third Owner,Manual,2012,18.0,1197.0,1197.0,805200.0,2.27
+Jeep Wrangler,23.0,Third Party insurance,Petrol,5,9000,First Owner,Automatic,2023,12.0,1998.0,1998.0,26530.0,70.0
+Mercedes-Benz AMG,20.0,Third Party,Petrol,5,19000,First Owner,Automatic,2020,8.0,2999.0,2999.0,435.0,78.99
+Honda City,15.0,Comprehensive,Petrol,5,79683,First Owner,Automatic,2015,18.0,1497.0,1497.0,1173.0,6.35
+Maruti Swift,22.0,Comprehensive,Petrol,5,26000,First Owner,Automatic,2022,22.0,1197.0,1197.0,8850.0,7.95
+BMW X1,16.0,Third Party insurance,Diesel,5,70000,Second Owner,Automatic,2016,20.0,1995.0,1995.0,188.0,15.5
+Kia Seltos,19.0,Comprehensive,Petrol,5,85540,First Owner,Automatic,2019,16.0,1353.0,1353.0,13808.0,13.86
+Mahindra XUV300,,Third Party insurance,Petrol,5,10000,First Owner,Manual,2023,1197.0,12873.0,12873.0,230.0,11.7
+Maruti Baleno,19.0,Comprehensive,Petrol,5,50170,First Owner,Manual,2019,21.0,1197.0,1197.0,8180.0,6.87
+BMW X7,20.0,Comprehensive,Diesel,7,44000,First Owner,Automatic,2020,13.0,2993.0,2993.0,26150.0,98.5
+Mercedes-Benz C-Class,22.0,Comprehensive,Diesel,5,4000,First Owner,Automatic,2022,12.0,1950.0,1950.0,194.0,56.75
+Maruti Wagon,15.0,Comprehensive,Petrol,5,37163,Second Owner,Manual,2015,998.0,671.0,671.0,90.0,3.18
+MG Hector,22.0,Third Party insurance,Petrol,5,21003,First Owner,Automatic,2022,1451.0,141.0,141.0,250.0,18.75
+BMW X3,18.0,Comprehensive,Diesel,5,49000,First Owner,Automatic,2018,16.0,1995.0,1995.0,1877.0,39.0
+Maruti A-Star,11.0,Comprehensive,Petrol,5,89057,Second Owner,Automatic,2011,16.0,998.0,998.0,661.0,2.26
+Mercedes-Benz C-Class,21.0,Comprehensive,Petrol,5,12000,First Owner,Automatic,2021,11.0,1950.0,1950.0,20115.0,44.5
+Maruti Vitara,22.0,Comprehensive,Petrol,5,11000,First Owner,Automatic,2022,18.0,1462.0,1462.0,10326.0,9.99
+Mercedes-Benz GLS,22.0,Comprehensive,Diesel,7,19000,Second Owner,Automatic,2022,2925.0,3258640000000.0,3258640000000.0,700.0,1.15
+Hyundai Grand,14.0,Comprehensive,Petrol,5,74846,Second Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.1
+Toyota Glanza,22.0,Comprehensive,Petrol,5,4500,First Owner,Manual,2022,22.0,1197.0,1197.0,8850.0,7.55
+Hyundai i20,12.0,Comprehensive,Petrol,5,97722,Third Owner,Manual,2012,18.0,1197.0,1197.0,805200.0,2.27
+Jeep Wrangler,23.0,Third Party insurance,Petrol,5,9000,First Owner,Automatic,2023,12.0,1998.0,1998.0,26530.0,70.0
+Mercedes-Benz AMG,20.0,Third Party,Petrol,5,19000,First Owner,Automatic,2020,8.0,2999.0,2999.0,435.0,78.99
+Honda City,15.0,Comprehensive,Petrol,5,79683,First Owner,Automatic,2015,18.0,1497.0,1497.0,1173.0,6.35
+Maruti Swift,22.0,Comprehensive,Petrol,5,26000,First Owner,Automatic,2022,22.0,1197.0,1197.0,8850.0,7.95
+BMW X1,16.0,Third Party insurance,Diesel,5,70000,Second Owner,Automatic,2016,20.0,1995.0,1995.0,188.0,15.5
+Kia Seltos,19.0,Comprehensive,Petrol,5,85540,First Owner,Automatic,2019,16.0,1353.0,1353.0,13808.0,13.86
+Mahindra XUV300,,Third Party insurance,Petrol,5,10000,First Owner,Manual,2023,1197.0,12873.0,12873.0,230.0,11.7
+Maruti Baleno,19.0,Comprehensive,Petrol,5,50170,First Owner,Manual,2019,21.0,1197.0,1197.0,8180.0,6.87
+BMW X7,20.0,Comprehensive,Diesel,7,44000,First Owner,Automatic,2020,13.0,2993.0,2993.0,26150.0,98.5
+Mercedes-Benz C-Class,22.0,Comprehensive,Diesel,5,4000,First Owner,Automatic,2022,12.0,1950.0,1950.0,194.0,56.75
+Maruti Wagon,15.0,Comprehensive,Petrol,5,37163,Second Owner,Manual,2015,998.0,671.0,671.0,90.0,3.18
+MG Hector,22.0,Third Party insurance,Petrol,5,21003,First Owner,Automatic,2022,1451.0,141.0,141.0,250.0,18.75
+BMW X3,18.0,Comprehensive,Diesel,5,49000,First Owner,Automatic,2018,16.0,1995.0,1995.0,1877.0,39.0
+Maruti A-Star,11.0,Comprehensive,Petrol,5,89057,Second Owner,Automatic,2011,16.0,998.0,998.0,661.0,2.26
+Mercedes-Benz C-Class,21.0,Comprehensive,Petrol,5,12000,First Owner,Automatic,2021,11.0,1950.0,1950.0,20115.0,44.5
+Maruti Vitara,22.0,Comprehensive,Petrol,5,11000,First Owner,Automatic,2022,18.0,1462.0,1462.0,10326.0,9.99
+Honda City,16.0,Comprehensive,Petrol,5,72692,First Owner,Manual,2016,17.0,1497.0,1497.0,1173.0,6.85
+Ford Ecosport,16.0,Comprehensive,Petrol,5,47463,Second Owner,Automatic,2016,15.0,1499.0,1499.0,1104.0,6.33
+Mercedes-Benz GLC,22.0,Zero Dep,Petrol,5,7651,First Owner,Automatic,2022,12.0,1991.0,1991.0,197.0,61.0
+Honda City,14.0,Comprehensive,Petrol,5,69348,First Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,6.19
+Jaguar XJ,16.0,Comprehensive,Diesel,5,40000,First Owner,Automatic,2016,14.0,2993.0,2993.0,30173.0,32.5
+Land Rover,20.0,Comprehensive,Petrol,5,18000,First Owner,Automatic,2020,15.0,1997.0,1997.0,247.0,80.0
+Toyota Etios,11.0,Comprehensive,Petrol,5,51710,First Owner,Manual,2011,,,,,2.48
+Hyundai Santro,,Third Party insurance,CNG,5,40000,Second Owner,Manual,2013,11.0,1086.0,1086.0,621.0,2.1
+Mercedes-Benz GLS,16.0,Comprehensive,Diesel,7,84000,First Owner,Automatic,2016,11.0,2987.0,2987.0,258.0,46.21
+Maruti Wagon,13.0,Comprehensive,Petrol,5,62411,First Owner,Manual,2013,998.0,671.0,671.0,90.0,2.9
+Maruti Brezza,22.0,Third Party insurance,Petrol,5,22711,First Owner,Manual,2022,19.0,1462.0,1462.0,10165.0,11.35
+Hyundai Grand,14.0,Comprehensive,Petrol,5,90576,First Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.37
+Mercedes-Benz E-Class,18.0,Comprehensive,Diesel,5,44000,First Owner,Automatic,2018,17.0,2987.0,2987.0,2548.0,44.0
+Maruti Swift,17.0,Comprehensive,Petrol,5,49000,First Owner,Manual,2017,1197.0,8180.0,8180.0,113.0,4.25
+Hyundai Venue,20.0,Comprehensive,Petrol,5,40678,First Owner,Manual,2019,18.0,998.0,998.0,11835.0,9.24
+Maruti Wagon,12.0,Comprehensive,Petrol,5,32000,First Owner,Manual,2012,998.0,6704.0,6704.0,90.0,2.2
+Maruti Ertiga,20.0,Comprehensive,Petrol,7,27500,First Owner,Manual,2020,19.0,1462.0,1462.0,10326.0,10.5
+Hyundai i20,18.0,Comprehensive,Petrol,5,92539,First Owner,Manual,2018,18.0,1197.0,1197.0,8183.0,5.28
+BMW 3,21.0,Comprehensive,Petrol,5,21000,First Owner,Automatic,2021,15.0,1998.0,1998.0,25479.0,48.0
+Maruti Baleno,20.0,Comprehensive,Petrol,5,6000,First Owner,Manual,2020,21.0,1197.0,1197.0,831.0,6.95
+Honda City,16.0,Comprehensive,Petrol,5,72692,First Owner,Manual,2016,17.0,1497.0,1497.0,1173.0,6.85
+Ford Ecosport,16.0,Comprehensive,Petrol,5,47463,Second Owner,Automatic,2016,15.0,1499.0,1499.0,1104.0,6.33
+Mercedes-Benz GLC,22.0,Zero Dep,Petrol,5,7651,First Owner,Automatic,2022,12.0,1991.0,1991.0,197.0,61.0
+Honda City,14.0,Comprehensive,Petrol,5,69348,First Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,6.19
+Jaguar XJ,16.0,Comprehensive,Diesel,5,40000,First Owner,Automatic,2016,14.0,2993.0,2993.0,30173.0,32.5
+Land Rover,20.0,Comprehensive,Petrol,5,18000,First Owner,Automatic,2020,15.0,1997.0,1997.0,247.0,80.0
+Toyota Etios,11.0,Comprehensive,Petrol,5,51710,First Owner,Manual,2011,,,,,2.48
+Hyundai Santro,,Third Party insurance,CNG,5,40000,Second Owner,Manual,2013,11.0,1086.0,1086.0,621.0,2.1
+Mercedes-Benz GLS,16.0,Comprehensive,Diesel,7,84000,First Owner,Automatic,2016,11.0,2987.0,2987.0,258.0,46.21
+Maruti Wagon,13.0,Comprehensive,Petrol,5,62411,First Owner,Manual,2013,998.0,671.0,671.0,90.0,2.9
+Maruti Brezza,22.0,Third Party insurance,Petrol,5,22711,First Owner,Manual,2022,19.0,1462.0,1462.0,10165.0,11.35
+Hyundai Grand,14.0,Comprehensive,Petrol,5,90576,First Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.37
+Mercedes-Benz E-Class,18.0,Comprehensive,Diesel,5,44000,First Owner,Automatic,2018,17.0,2987.0,2987.0,2548.0,44.0
+Maruti Swift,17.0,Comprehensive,Petrol,5,49000,First Owner,Manual,2017,1197.0,8180.0,8180.0,113.0,4.25
+Hyundai Venue,20.0,Comprehensive,Petrol,5,40678,First Owner,Manual,2019,18.0,998.0,998.0,11835.0,9.24
+Maruti Wagon,12.0,Comprehensive,Petrol,5,32000,First Owner,Manual,2012,998.0,6704.0,6704.0,90.0,2.2
+Maruti Ertiga,20.0,Comprehensive,Petrol,7,27500,First Owner,Manual,2020,19.0,1462.0,1462.0,10326.0,10.5
+Hyundai i20,18.0,Comprehensive,Petrol,5,92539,First Owner,Manual,2018,18.0,1197.0,1197.0,8183.0,5.28
+BMW 3,21.0,Comprehensive,Petrol,5,21000,First Owner,Automatic,2021,15.0,1998.0,1998.0,25479.0,48.0
+Maruti Baleno,20.0,Comprehensive,Petrol,5,6000,First Owner,Manual,2020,21.0,1197.0,1197.0,831.0,6.95
+Mahindra XUV700,22.0,Comprehensive,Petrol,7,5000,First Owner,Automatic,2022,1999.0,19713.0,19713.0,380.0,26.5
+Tata Tiago,19.0,Comprehensive,Petrol,5,16570,First Owner,Manual,2019,23.0,1199.0,1199.0,8383.0,5.23
+Maruti Wagon,22.0,Comprehensive,Petrol,5,11000,First Owner,Manual,2022,21.0,998.0,998.0,6705.0,5.75
+Honda WR-V,17.0,Comprehensive,Petrol,5,39791,First Owner,Manual,2017,17.0,1199.0,1199.0,887.0,6.92
+Mahindra XUV500,17.0,Comprehensive,Diesel,7,138000,First Owner,Manual,2017,16.0,2179.0,2179.0,140.0,6.95
+Mercedes-Benz G,23.0,Comprehensive,Petrol,5,3000,First Owner,Automatic,2023,8.0,3982.0,3982.0,57663.0,4.0
+Maruti Swift,12.0,Comprehensive,Petrol,5,94176,First Owner,Manual,2012,1197.0,8850.0,8850.0,113.0,2.67
+Porsche Cayenne,23.0,Comprehensive,Petrol,5,11000,First Owner,Automatic,2023,12.0,3604.0,3604.0,420.0,1.47
+Kia Seltos,19.0,Comprehensive,Petrol,5,30000,First Owner,Manual,2019,16.0,1353.0,1353.0,138.0,13.25
+Volkswagen Taigun,22.0,Comprehensive,Petrol,5,49594,First Owner,Manual,2021,18.0,1498.0,1498.0,14751.0,13.37
+Volkswagen Polo,12.0,Comprehensive,Petrol,5,60000,First Owner,Manual,2012,16.0,1198.0,1198.0,739.0,2.7
+Honda Brio,16.0,Comprehensive,Petrol,5,76441,First Owner,Manual,2015,19.0,1198.0,1198.0,868.0,3.26
+Mercedes-Benz M-Class,14.0,Third Party insurance,Diesel,5,75000,Second Owner,Automatic,2014,11.0,2987.0,2987.0,2548.0,17.75
+Maruti Wagon,17.0,Comprehensive,Petrol,5,53000,First Owner,Automatic,2017,21.0,998.0,998.0,6705.0,3.95
+Hyundai Creta,17.0,Comprehensive,Petrol,5,56572,First Owner,Manual,2017,15.0,1591.0,1591.0,1213.0,9.31
+Maruti Baleno,18.0,Comprehensive,Petrol,5,27210,First Owner,Manual,2018,21.0,1197.0,1197.0,8180.0,6.0
+Mercedes-Benz GLE,17.0,Comprehensive,Petrol,5,56000,First Owner,Automatic,2017,9.0,2996.0,2996.0,32855.0,45.75
+Hyundai i20,14.0,Comprehensive,Petrol,5,62677,First Owner,Manual,2014,18.0,1197.0,1197.0,8183.0,4.92
+Maruti Baleno,23.0,Comprehensive,Petrol,5,18000,First Owner,Manual,2023,22.0,1197.0,1197.0,8850.0,7.5
+BMW 5,19.0,Comprehensive,Diesel,5,35000,First Owner,Automatic,2019,20.0,1995.0,1995.0,18774.0,45.0
+Mahindra XUV700,22.0,Comprehensive,Petrol,7,5000,First Owner,Automatic,2022,1999.0,19713.0,19713.0,380.0,26.5
+Tata Tiago,19.0,Comprehensive,Petrol,5,16570,First Owner,Manual,2019,23.0,1199.0,1199.0,8383.0,5.23
+Maruti Wagon,22.0,Comprehensive,Petrol,5,11000,First Owner,Manual,2022,21.0,998.0,998.0,6705.0,5.75
+Honda WR-V,17.0,Comprehensive,Petrol,5,39791,First Owner,Manual,2017,17.0,1199.0,1199.0,887.0,6.92
+Mahindra XUV500,17.0,Comprehensive,Diesel,7,138000,First Owner,Manual,2017,16.0,2179.0,2179.0,140.0,6.95
+Mercedes-Benz G,23.0,Comprehensive,Petrol,5,3000,First Owner,Automatic,2023,8.0,3982.0,3982.0,57663.0,4.0
+Maruti Swift,12.0,Comprehensive,Petrol,5,94176,First Owner,Manual,2012,1197.0,8850.0,8850.0,113.0,2.67
+Porsche Cayenne,23.0,Comprehensive,Petrol,5,11000,First Owner,Automatic,2023,12.0,3604.0,3604.0,420.0,1.47
+Kia Seltos,19.0,Comprehensive,Petrol,5,30000,First Owner,Manual,2019,16.0,1353.0,1353.0,138.0,13.25
+Volkswagen Taigun,22.0,Comprehensive,Petrol,5,49594,First Owner,Manual,2021,18.0,1498.0,1498.0,14751.0,13.37
+Volkswagen Polo,12.0,Comprehensive,Petrol,5,60000,First Owner,Manual,2012,16.0,1198.0,1198.0,739.0,2.7
+Honda Brio,16.0,Comprehensive,Petrol,5,76441,First Owner,Manual,2015,19.0,1198.0,1198.0,868.0,3.26
+Mercedes-Benz M-Class,14.0,Third Party insurance,Diesel,5,75000,Second Owner,Automatic,2014,11.0,2987.0,2987.0,2548.0,17.75
+Maruti Wagon,17.0,Comprehensive,Petrol,5,53000,First Owner,Automatic,2017,21.0,998.0,998.0,6705.0,3.95
+Hyundai Creta,17.0,Comprehensive,Petrol,5,56572,First Owner,Manual,2017,15.0,1591.0,1591.0,1213.0,9.31
+Maruti Baleno,18.0,Comprehensive,Petrol,5,27210,First Owner,Manual,2018,21.0,1197.0,1197.0,8180.0,6.0
+Mercedes-Benz GLE,17.0,Comprehensive,Petrol,5,56000,First Owner,Automatic,2017,9.0,2996.0,2996.0,32855.0,45.75
+Hyundai i20,14.0,Comprehensive,Petrol,5,62677,First Owner,Manual,2014,18.0,1197.0,1197.0,8183.0,4.92
+Maruti Baleno,23.0,Comprehensive,Petrol,5,18000,First Owner,Manual,2023,22.0,1197.0,1197.0,8850.0,7.5
+BMW 5,19.0,Comprehensive,Diesel,5,35000,First Owner,Automatic,2019,20.0,1995.0,1995.0,18774.0,45.0
+BMW X5,19.0,Comprehensive,Diesel,5,38000,Second Owner,Automatic,2019,13.0,2993.0,2993.0,26150.0,46.21
+Renault Captur,18.0,Comprehensive,Diesel,5,109495,First Owner,Manual,2018,20.0,1461.0,1461.0,10849.0,6.53
+Toyota Etios,11.0,Comprehensive,Petrol,5,54214,First Owner,Manual,2011,,,,,2.55
+Audi A4,15.0,Third Party insurance,Diesel,5,43600,Second Owner,Automatic,2015,17.0,1968.0,1968.0,17433.0,11.9
+Mercedes-Benz C-Class,20.0,Comprehensive,Diesel,5,30000,First Owner,Automatic,2020,12.0,1950.0,1950.0,194.0,37.5
+Maruti SX4,18.0,Comprehensive,Diesel,5,45240,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,7.34
+Datsun RediGO,18.0,Comprehensive,Petrol,5,3600,First Owner,Manual,2018,22.0,999.0,999.0,67.0,3.45
+Mercedes-Benz G,23.0,Comprehensive,Diesel,5,36000,First Owner,Automatic,2021,8.0,2925.0,2925.0,28161.0,2.05
+Maruti Baleno,21.0,Comprehensive,Petrol,5,59090,First Owner,Manual,2020,21.0,1197.0,1197.0,8180.0,6.42
+Audi Q3,12.0,Comprehensive,Diesel,5,126000,First Owner,Automatic,2012,15.0,1968.0,1968.0,17433.0,6.5
+Hyundai Grand,15.0,Comprehensive,Petrol,5,70717,First Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.86
+Mercedes-Benz S-Class,14.0,Comprehensive,Petrol,5,65000,First Owner,Automatic,2014,7.0,5461.0,5461.0,3629.0,47.5
+Honda City,13.0,Comprehensive,Petrol,5,73086,Second Owner,Manual,2013,17.0,1497.0,1497.0,1173.0,3.75
+Tata Nexon,20.0,Comprehensive,Petrol,5,51690,First Owner,Manual,2020,17.0,1199.0,1199.0,11835.0,8.52
+BMW X1,18.0,Comprehensive,Diesel,5,49000,First Owner,Automatic,2018,20.0,1995.0,1995.0,188.0,19.45
+Mercedes-Benz E-Class,19.0,Comprehensive,Petrol,5,25000,First Owner,Automatic,2019,15.0,1991.0,1991.0,1944.0,49.75
+Hyundai Santro,19.0,Comprehensive,Petrol,5,23592,First Owner,Manual,2019,20.0,1086.0,1086.0,68.0,4.71
+Honda City,14.0,Comprehensive,Petrol,5,69000,Second Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,4.9
+Hyundai Creta,16.0,Comprehensive,Petrol,5,70000,First Owner,Automatic,2016,14.0,1591.0,1591.0,1213.0,7.95
+Mercedes-Benz S-Class,23.0,Comprehensive,Petrol,5,3500,First Owner,Automatic,2023,2999.0,36207.0,36207.0,500.0,1.78
+Honda Brio,15.0,Comprehensive,Petrol,5,64155,First Owner,Manual,2015,19.0,1198.0,1198.0,868.0,3.18
+Mercedes-Benz A,18.0,Comprehensive,Diesel,5,38000,First Owner,Automatic,2018,20.0,2143.0,2143.0,1073.0,17.49
+Hyundai Xcent,17.0,Comprehensive,Petrol,5,68018,First Owner,Manual,2017,20.0,1197.0,1197.0,8186.0,4.12
+Toyota Hyryder,22.0,Comprehensive,Petrol,5,14000,First Owner,Manual,2022,19.0,1462.0,1462.0,10164.0,19.9
+Honda WR-V,18.0,Comprehensive,Petrol,5,29846,First Owner,Manual,2018,17.0,1199.0,1199.0,887.0,7.6
+Tata Tiago,17.0,Comprehensive,Petrol,5,26092,First Owner,Manual,2017,23.0,1199.0,1199.0,8383.0,4.5
+Maruti Swift,19.0,Comprehensive,Petrol,5,50823,First Owner,Manual,2019,1197.0,8180.0,8180.0,113.0,5.5
+BMW X6,20.0,Third Party insurance,Petrol,5,5200,First Owner,Automatic,2020,10.0,2998.0,2998.0,33525.0,69.75
+Mahindra Marazzo,19.0,Comprehensive,Diesel,7,36050,First Owner,Manual,2018,17.0,1497.0,1497.0,121.0,8.99
+Honda City,17.0,Comprehensive,Petrol,5,90932,First Owner,Automatic,2017,18.0,1497.0,1497.0,1176.0,7.86
+Tata Harrier,21.0,Comprehensive,Diesel,5,53000,First Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,20.0
+Mercedes-Benz C-Class,21.0,Zero Dep,Diesel,5,11848,Second Owner,Automatic,2020,12.0,1950.0,1950.0,194.0,39.9
+Honda Mobilio,14.0,Comprehensive,Petrol,7,73580,First Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,4.66
+Jeep Compass,19.0,Comprehensive,Petrol,5,22600,First Owner,Automatic,2019,16.0,1368.0,1368.0,160.0,14.9
+Audi A4,19.0,Comprehensive,Diesel,5,36000,First Owner,Automatic,2019,18.0,1968.0,1968.0,18774.0,27.5
+Tata Altroz,21.0,Comprehensive,Diesel,5,44275,First Owner,Manual,2021,1497.0,8877.0,8877.0,200.0,6.2
+Hyundai i20,20.0,Comprehensive,Petrol,5,52000,First Owner,Manual,2020,18.0,1197.0,1197.0,8186.0,6.25
+BMW X1,,Third Party insurance,Diesel,5,30000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Tata Safari,21.0,Comprehensive,Diesel,7,26000,Second Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,20.0
+Maruti Ciaz,18.0,Comprehensive,Petrol,5,45239,First Owner,Manual,2018,20.0,1373.0,1373.0,911.0,6.33
+Mercedes-Benz GLA,17.0,Comprehensive,Petrol,5,51000,Second Owner,Automatic,2017,13.0,1991.0,1991.0,183.0,21.0
+Maruti Vitara,19.0,Comprehensive,Diesel,5,102973,First Owner,Automatic,2019,24.0,1248.0,1248.0,885.0,7.99
+Audi A6,16.0,Comprehensive,Diesel,5,87000,Second Owner,Automatic,2016,18.0,1968.0,1968.0,18774.0,19.0
+Maruti Swift,,Third Party insurance,Petrol,5,40000,Second Owner,Manual,2014,19.0,1197.0,1197.0,858.0,3.7
+Hyundai Grand,15.0,Comprehensive,Petrol,5,63952,Second Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.55
+Mahindra XUV500,18.0,Comprehensive,Diesel,7,58000,Second Owner,Automatic,2018,15.0,2179.0,2179.0,15287.0,12.0
+Audi Q8,23.0,Comprehensive,Petrol,5,7000,First Owner,Automatic,2023,9.0,2995.0,2995.0,340.0,1.12
+Tata Nexon,19.0,Comprehensive,Petrol,5,46310,First Owner,Automatic,2019,17.0,1198.0,1198.0,1085.0,8.74
+MG Hector,20.0,Comprehensive,Petrol,6,42000,First Owner,Automatic,2020,11.0,1451.0,1451.0,141.0,16.0
+Honda City,15.0,Comprehensive,Petrol,5,94498,First Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,5.81
+Volvo XC60,22.0,Comprehensive,Petrol,5,9300,First Owner,Automatic,2022,11.0,1969.0,1969.0,250.0,66.0
+BMW X5,19.0,Comprehensive,Diesel,5,37000,First Owner,Automatic,2019,13.0,2993.0,2993.0,26150.0,71.99
+Honda WR-V,19.0,Comprehensive,Diesel,5,144234,First Owner,Manual,2019,25.0,1498.0,1498.0,986.0,5.52
+Maruti Swift,17.0,Comprehensive,Petrol,5,48000,First Owner,Manual,2017,20.0,1197.0,1197.0,8314.0,5.1
+Land Rover,21.0,Comprehensive,Petrol,5,19000,Second Owner,Automatic,2021,15.0,1997.0,1997.0,24674.0,80.0
+Hyundai i20,16.0,Comprehensive,Petrol,5,114658,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,5.21
+Audi A4,15.0,Comprehensive,Diesel,5,71000,First Owner,Automatic,2015,17.0,1968.0,1968.0,17433.0,12.65
+Maruti Swift,22.0,Comprehensive,Petrol,5,8000,First Owner,Manual,2022,1197.0,8850.0,8850.0,113.0,5.95
+Tata Safari,21.0,Comprehensive,Diesel,7,26000,Second Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,20.0
+Maruti Ciaz,18.0,Comprehensive,Petrol,5,45239,First Owner,Manual,2018,20.0,1373.0,1373.0,911.0,6.33
+Mercedes-Benz GLA,17.0,Comprehensive,Petrol,5,51000,Second Owner,Automatic,2017,13.0,1991.0,1991.0,183.0,21.0
+Maruti Vitara,19.0,Comprehensive,Diesel,5,102973,First Owner,Automatic,2019,24.0,1248.0,1248.0,885.0,7.99
+Audi A6,16.0,Comprehensive,Diesel,5,87000,Second Owner,Automatic,2016,18.0,1968.0,1968.0,18774.0,19.0
+Maruti Swift,,Third Party insurance,Petrol,5,40000,Second Owner,Manual,2014,19.0,1197.0,1197.0,858.0,3.7
+Hyundai Grand,15.0,Comprehensive,Petrol,5,63952,Second Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.55
+Mahindra XUV500,18.0,Comprehensive,Diesel,7,58000,Second Owner,Automatic,2018,15.0,2179.0,2179.0,15287.0,12.0
+Audi Q8,23.0,Comprehensive,Petrol,5,7000,First Owner,Automatic,2023,9.0,2995.0,2995.0,340.0,1.12
+Tata Nexon,19.0,Comprehensive,Petrol,5,46310,First Owner,Automatic,2019,17.0,1198.0,1198.0,1085.0,8.74
+MG Hector,20.0,Comprehensive,Petrol,6,42000,First Owner,Automatic,2020,11.0,1451.0,1451.0,141.0,16.0
+Honda City,15.0,Comprehensive,Petrol,5,94498,First Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,5.81
+Volvo XC60,22.0,Comprehensive,Petrol,5,9300,First Owner,Automatic,2022,11.0,1969.0,1969.0,250.0,66.0
+BMW X5,19.0,Comprehensive,Diesel,5,37000,First Owner,Automatic,2019,13.0,2993.0,2993.0,26150.0,71.99
+Honda WR-V,19.0,Comprehensive,Diesel,5,144234,First Owner,Manual,2019,25.0,1498.0,1498.0,986.0,5.52
+Maruti Swift,17.0,Comprehensive,Petrol,5,48000,First Owner,Manual,2017,20.0,1197.0,1197.0,8314.0,5.1
+Land Rover,21.0,Comprehensive,Petrol,5,19000,Second Owner,Automatic,2021,15.0,1997.0,1997.0,24674.0,80.0
+Hyundai i20,16.0,Comprehensive,Petrol,5,114658,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,5.21
+Audi A4,15.0,Comprehensive,Diesel,5,71000,First Owner,Automatic,2015,17.0,1968.0,1968.0,17433.0,12.65
+Maruti Swift,22.0,Comprehensive,Petrol,5,8000,First Owner,Manual,2022,1197.0,8850.0,8850.0,113.0,5.95
+BMW X3,18.0,Comprehensive,Diesel,5,28000,First Owner,Automatic,2018,16.0,1995.0,1995.0,1877.0,39.9
+Honda WR-V,19.0,Comprehensive,Petrol,5,38616,First Owner,Manual,2019,17.0,1199.0,1199.0,887.0,7.41
+Skoda Octavia,19.0,Comprehensive,Petrol,5,30000,First Owner,Automatic,2019,15.0,1798.0,1798.0,178.0,21.5
+Hyundai i20,18.0,Comprehensive,Petrol,5,33093,First Owner,Manual,2018,18.0,1197.0,1197.0,8183.0,6.81
+BMW X1,19.0,Comprehensive,Diesel,5,33000,First Owner,Automatic,2019,17.0,1995.0,1995.0,184.0,29.0
+Toyota Innova,19.0,Comprehensive,Diesel,7,57000,First Owner,Automatic,2019,11.0,2755.0,2755.0,1715.0,17.5
+Renault Duster,18.0,Comprehensive,Diesel,5,75206,First Owner,Manual,2018,19.0,1461.0,1461.0,838.0,6.49
+Jeep Compass,,Third Party insurance,Petrol,5,40000,Second Owner,Automatic,2019,16.0,1368.0,1368.0,160.0,15.0
+Mercedes-Benz CLA,16.0,Third Party insurance,Diesel,5,42000,Second Owner,Automatic,2016,17.0,2143.0,2143.0,136.0,17.6
+Hyundai Grand,17.0,Comprehensive,Petrol,5,96241,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,3.77
+Maruti Ertiga,22.0,Comprehensive,CNG,7,34214,First Owner,Manual,2022,26.0,1462.0,1462.0,8663.0,12.75
+Maruti Ciaz,15.0,Comprehensive,Petrol,5,55818,First Owner,Manual,2015,20.0,1373.0,1373.0,911.0,6.61
+Land Rover,20.0,Comprehensive,Petrol,5,80000,First Owner,Automatic,2020,15.0,1997.0,1997.0,24674.0,68.0
+Maruti Wagon,,Third Party insurance,CNG,5,40000,First Owner,Manual,2018,26.0,998.0,998.0,5816.0,4.0
+Maruti Wagon,15.0,Comprehensive,Petrol,5,70516,First Owner,Manual,2015,998.0,671.0,671.0,90.0,3.11
+Maruti Wagon,20.0,Comprehensive,Petrol,5,48000,First Owner,Automatic,2020,20.0,1197.0,1197.0,8180.0,5.75
+BMW 5,15.0,Third Party insurance,Diesel,5,94000,First Owner,Automatic,2015,20.0,1995.0,1995.0,18774.0,16.9
+Hyundai Creta,16.0,Comprehensive,Petrol,5,80627,First Owner,Manual,2016,15.0,1591.0,1591.0,1213.0,8.16
+Skoda Rapid,15.0,Comprehensive,Petrol,5,49000,First Owner,Automatic,2015,14.0,1598.0,1598.0,10352.0,5.25
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,18.2
+Lexus RX,20.0,Comprehensive,Petrol,5,19000,First Owner,Automatic,2020,18.0,3456.0,3456.0,25881.0,82.0
+Honda WR-V,17.0,Comprehensive,Petrol,5,53311,First Owner,Manual,2017,17.0,1199.0,1199.0,887.0,6.75
+Hyundai i20,18.0,Comprehensive,Petrol,5,70000,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.85
+Hyundai i20,16.0,Comprehensive,Petrol,5,108836,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,4.49
+BMW X5,18.0,Comprehensive,Diesel,5,40000,First Owner,Automatic,2018,15.0,2993.0,2993.0,258.0,42.5
+Maruti Vitara,,Third Party insurance,Diesel,5,120000,First Owner,Manual,2017,24.0,1248.0,1248.0,885.0,6.0
+Maruti Ciaz,16.0,Comprehensive,Petrol,5,44525,First Owner,Automatic,2016,19.0,1373.0,1373.0,911.0,6.93
+BMW X1,,Third Party insurance,Diesel,5,31500,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+BMW X5,15.0,Comprehensive,Diesel,5,80000,First Owner,Automatic,2015,15.0,2993.0,2993.0,258.0,26.5
+Honda WR-V,18.0,Comprehensive,Petrol,5,64862,First Owner,Manual,2018,17.0,1199.0,1199.0,887.0,6.07
+Honda City,,Third Party insurance,Petrol,5,100000,Second Owner,Manual,2012,16.0,1497.0,1497.0,1163.0,2.95
+Maruti Baleno,16.0,Comprehensive,Petrol,5,63839,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,5.59
+Mercedes-Benz AMG,22.0,Comprehensive,Petrol,5,14000,First Owner,Automatic,2022,2996.0,38487.0,38487.0,520.0,81.9
+Hyundai Grand,,Third Party insurance,Petrol,5,50000,First Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.75
+Mahindra XUV300,19.0,Comprehensive,Diesel,5,113820,First Owner,Manual,2019,20.0,1497.0,1497.0,115.0,7.89
+Maruti Ciaz,,Third Party insurance,Diesel,5,110000,First Owner,Manual,2017,28.0,1248.0,1248.0,885.0,5.0
+Hyundai Creta,18.0,Third Party insurance,Petrol,5,31000,First Owner,Manual,2018,15.0,1591.0,1591.0,1213.0,8.65
+Maruti Swift,18.0,Comprehensive,Diesel,5,97610,First Owner,Automatic,2018,28.0,1248.0,1248.0,7402.0,5.64
+Nissan Sunny,19.0,Comprehensive,Petrol,5,44000,First Owner,Automatic,2019,17.0,1498.0,1498.0,996.0,6.25
+Mercedes-Benz C-Class,20.0,Third Party insurance,Diesel,5,34496,First Owner,Automatic,2019,12.0,1950.0,1950.0,194.0,39.0
+Mercedes-Benz GLS,23.0,Third Party insurance,Diesel,7,16000,First Owner,Automatic,2023,2925.0,3258640000000.0,3258640000000.0,700.0,1.32
+Maruti Baleno,16.0,Comprehensive,Petrol,5,75163,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,5.14
+Maruti Ciaz,22.0,Third Party insurance,Petrol,5,6900,First Owner,Manual,2022,20.0,1462.0,1462.0,10325.0,10.25
+Honda Amaze,15.0,Comprehensive,Petrol,5,89961,Second Owner,Manual,2015,18.0,1198.0,1198.0,867.0,3.74
+BMW 3,22.0,Comprehensive,Diesel,5,4000,First Owner,Automatic,2022,19.0,1995.0,1995.0,18740.0,54.0
+Tata Harrier,21.0,Comprehensive,Diesel,5,54000,First Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,17.5
+Maruti Swift,19.0,Comprehensive,Petrol,5,58740,Second Owner,Automatic,2019,21.0,1197.0,1197.0,8180.0,5.99
+Toyota Innova,,Third Party insurance,Diesel,7,100000,First Owner,Automatic,2019,11.0,2755.0,2755.0,1715.0,15.5
+Land Rover,22.0,Comprehensive,Petrol,5,18700,First Owner,Automatic,2020,15.0,1997.0,1997.0,24674.0,83.0
+Honda Amaze,17.0,Comprehensive,Petrol,5,83690,First Owner,Manual,2017,17.0,1198.0,1198.0,867.0,4.54
+Mercedes-Benz E-Class,18.0,Third Party insurance,Petrol,5,11000,First Owner,Automatic,2018,15.0,1991.0,1991.0,1944.0,50.0
+Toyota Etios,12.0,Comprehensive,Petrol,5,50900,First Owner,Manual,2012,17.0,1197.0,1197.0,789.0,2.95
+Mercedes-Benz E-Class,21.0,Comprehensive,Diesel,5,25000,First Owner,Automatic,2021,16.0,1950.0,1950.0,19176.0,64.0
+Hyundai Grand,15.0,Comprehensive,Petrol,5,78651,First Owner,Manual,2015,18.0,1197.0,1197.0,82.0,3.79
+Maruti Ciaz,19.0,Comprehensive,Petrol,5,50000,First Owner,Manual,2019,21.0,1462.0,1462.0,10325.0,7.5
+Volkswagen Virtus,23.0,Comprehensive,Petrol,5,9818,First Owner,Manual,2023,19.0,999.0,999.0,11398.0,13.9
+Maruti SX4,19.0,Comprehensive,Diesel,5,49230,First Owner,Manual,2019,25.0,1248.0,1248.0,885.0,8.7
+Hyundai Verna,18.0,Comprehensive,Petrol,5,65000,First Owner,Automatic,2018,17.0,1591.0,1591.0,1213.0,8.85
+BMW X1,17.0,Comprehensive,Diesel,5,69000,First Owner,Automatic,2017,20.0,1995.0,1995.0,188.0,19.9
+Mercedes-Benz GLS,23.0,Third Party insurance,Diesel,7,16000,First Owner,Automatic,2023,2925.0,3258640000000.0,3258640000000.0,700.0,1.32
+Maruti Baleno,16.0,Comprehensive,Petrol,5,75163,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,5.14
+Maruti Ciaz,22.0,Third Party insurance,Petrol,5,6900,First Owner,Manual,2022,20.0,1462.0,1462.0,10325.0,10.25
+Honda Amaze,15.0,Comprehensive,Petrol,5,89961,Second Owner,Manual,2015,18.0,1198.0,1198.0,867.0,3.74
+BMW 3,22.0,Comprehensive,Diesel,5,4000,First Owner,Automatic,2022,19.0,1995.0,1995.0,18740.0,54.0
+Tata Harrier,21.0,Comprehensive,Diesel,5,54000,First Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,17.5
+Maruti Swift,19.0,Comprehensive,Petrol,5,58740,Second Owner,Automatic,2019,21.0,1197.0,1197.0,8180.0,5.99
+Toyota Innova,,Third Party insurance,Diesel,7,100000,First Owner,Automatic,2019,11.0,2755.0,2755.0,1715.0,15.5
+Land Rover,22.0,Comprehensive,Petrol,5,18700,First Owner,Automatic,2020,15.0,1997.0,1997.0,24674.0,83.0
+Honda Amaze,17.0,Comprehensive,Petrol,5,83690,First Owner,Manual,2017,17.0,1198.0,1198.0,867.0,4.54
+Mercedes-Benz E-Class,18.0,Third Party insurance,Petrol,5,11000,First Owner,Automatic,2018,15.0,1991.0,1991.0,1944.0,50.0
+Toyota Etios,12.0,Comprehensive,Petrol,5,50900,First Owner,Manual,2012,17.0,1197.0,1197.0,789.0,2.95
+Mercedes-Benz E-Class,21.0,Comprehensive,Diesel,5,25000,First Owner,Automatic,2021,16.0,1950.0,1950.0,19176.0,64.0
+Hyundai Grand,15.0,Comprehensive,Petrol,5,78651,First Owner,Manual,2015,18.0,1197.0,1197.0,82.0,3.79
+Maruti Ciaz,19.0,Comprehensive,Petrol,5,50000,First Owner,Manual,2019,21.0,1462.0,1462.0,10325.0,7.5
+Volkswagen Virtus,23.0,Comprehensive,Petrol,5,9818,First Owner,Manual,2023,19.0,999.0,999.0,11398.0,13.9
+Maruti SX4,19.0,Comprehensive,Diesel,5,49230,First Owner,Manual,2019,25.0,1248.0,1248.0,885.0,8.7
+Hyundai Verna,18.0,Comprehensive,Petrol,5,65000,First Owner,Automatic,2018,17.0,1591.0,1591.0,1213.0,8.85
+BMW X1,17.0,Comprehensive,Diesel,5,69000,First Owner,Automatic,2017,20.0,1995.0,1995.0,188.0,19.9
+Jeep Compass,18.0,Third Party insurance,Diesel,5,67000,First Owner,Manual,2018,17.0,1956.0,1956.0,170.0,10.9
+Ford Ecosport,18.0,Comprehensive,Petrol,5,76685,First Owner,Manual,2018,17.0,1497.0,1497.0,12131.0,6.95
+BMW X1,,Third Party insurance,Diesel,5,30000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+Nissan Kicks,20.0,Comprehensive,Diesel,5,101954,First Owner,Manual,2019,20.0,1461.0,1461.0,1085.0,6.68
+Ford Endeavour,17.0,Comprehensive,Diesel,7,42000,Second Owner,Automatic,2017,10.0,3198.0,3198.0,197.0,24.5
+Honda Jazz,17.0,Third Party insurance,Petrol,5,42000,First Owner,Manual,2017,18.0,1199.0,1199.0,887.0,5.45
+Hyundai Grand,16.0,Comprehensive,Petrol,5,68897,First Owner,Automatic,2016,18.0,1197.0,1197.0,82.0,5.0
+BMW X1,,Third Party insurance,Diesel,5,30000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+BMW 6,21.0,Third Party insurance,Petrol,4,26000,First Owner,Automatic,2021,13.0,1998.0,1998.0,25479.0,65.0
+Maruti SX4,17.0,Comprehensive,Diesel,5,105568,Second Owner,Manual,2017,23.0,1248.0,1248.0,885.0,4.63
+Ford Endeavour,18.0,Third Party insurance,Diesel,7,54000,First Owner,Automatic,2018,12.0,2198.0,2198.0,158.0,24.0
+Hyundai Venue,19.0,Comprehensive,Petrol,5,61383,First Owner,Automatic,2019,18.0,998.0,998.0,11835.0,9.63
+Mercedes-Benz C-Class,15.0,Comprehensive,Diesel,5,75000,Second Owner,Automatic,2015,19.0,2143.0,2143.0,170.0,18.5
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+Honda Amaze,13.0,Comprehensive,Petrol,5,77130,Second Owner,Automatic,2013,15.0,1198.0,1198.0,867.0,4.0
+Volvo XC40,18.0,Zero Dep,Diesel,5,56426,First Owner,Automatic,2018,18.0,1969.0,1969.0,190.0,29.9
+Audi Q7,16.0,Third Party insurance,Diesel,7,75000,Second Owner,Automatic,2016,14.0,2967.0,2967.0,245.0,39.9
+Maruti Ciaz,17.0,Comprehensive,Petrol,5,69018,First Owner,Manual,2017,20.0,1373.0,1373.0,911.0,5.75
+Hyundai Creta,18.0,Comprehensive,Diesel,5,57000,First Owner,Manual,2018,19.0,1582.0,1582.0,1262.0,10.75
+Hyundai Creta,18.0,Comprehensive,Petrol,5,76000,First Owner,Manual,2018,15.0,1591.0,1591.0,1213.0,9.3
+Jeep Compass,18.0,Third Party insurance,Diesel,5,67000,First Owner,Manual,2018,17.0,1956.0,1956.0,170.0,10.9
+Ford Ecosport,18.0,Comprehensive,Petrol,5,76685,First Owner,Manual,2018,17.0,1497.0,1497.0,12131.0,6.95
+BMW X1,,Third Party insurance,Diesel,5,30000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+Nissan Kicks,20.0,Comprehensive,Diesel,5,101954,First Owner,Manual,2019,20.0,1461.0,1461.0,1085.0,6.68
+Ford Endeavour,17.0,Comprehensive,Diesel,7,42000,Second Owner,Automatic,2017,10.0,3198.0,3198.0,197.0,24.5
+Honda Jazz,17.0,Third Party insurance,Petrol,5,42000,First Owner,Manual,2017,18.0,1199.0,1199.0,887.0,5.45
+Hyundai Grand,16.0,Comprehensive,Petrol,5,68897,First Owner,Automatic,2016,18.0,1197.0,1197.0,82.0,5.0
+BMW X1,,Third Party insurance,Diesel,5,30000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+BMW 6,21.0,Third Party insurance,Petrol,4,26000,First Owner,Automatic,2021,13.0,1998.0,1998.0,25479.0,65.0
+Maruti SX4,17.0,Comprehensive,Diesel,5,105568,Second Owner,Manual,2017,23.0,1248.0,1248.0,885.0,4.63
+Ford Endeavour,18.0,Third Party insurance,Diesel,7,54000,First Owner,Automatic,2018,12.0,2198.0,2198.0,158.0,24.0
+Hyundai Venue,19.0,Comprehensive,Petrol,5,61383,First Owner,Automatic,2019,18.0,998.0,998.0,11835.0,9.63
+Mercedes-Benz C-Class,15.0,Comprehensive,Diesel,5,75000,Second Owner,Automatic,2015,19.0,2143.0,2143.0,170.0,18.5
+BMW X1,,Third Party insurance,Diesel,5,32000,1995 cc,2017,Power Steering,1995.0,188.0,188.0,400.0,19.5
+Honda Amaze,13.0,Comprehensive,Petrol,5,77130,Second Owner,Automatic,2013,15.0,1198.0,1198.0,867.0,4.0
+Volvo XC40,18.0,Zero Dep,Diesel,5,56426,First Owner,Automatic,2018,18.0,1969.0,1969.0,190.0,29.9
+Audi Q7,16.0,Third Party insurance,Diesel,7,75000,Second Owner,Automatic,2016,14.0,2967.0,2967.0,245.0,39.9
+Maruti Ciaz,17.0,Comprehensive,Petrol,5,69018,First Owner,Manual,2017,20.0,1373.0,1373.0,911.0,5.75
+Hyundai Creta,18.0,Comprehensive,Diesel,5,57000,First Owner,Manual,2018,19.0,1582.0,1582.0,1262.0,10.75
+Hyundai Creta,18.0,Comprehensive,Petrol,5,76000,First Owner,Manual,2018,15.0,1591.0,1591.0,1213.0,9.3
+MG Hector,21.0,Comprehensive,Petrol,5,29000,First Owner,Automatic,2021,1451.0,141.0,141.0,250.0,16.5
+Hyundai Venue,19.0,Comprehensive,Petrol,5,65710,Second Owner,Automatic,2019,18.0,998.0,998.0,11835.0,8.66
+Maruti Vitara,19.0,Comprehensive,Diesel,5,51763,First Owner,Manual,2019,24.0,1248.0,1248.0,885.0,8.0
+Maruti SX4,22.0,Comprehensive,Petrol,5,19133,First Owner,Manual,2021,18.0,1462.0,1462.0,10325.0,9.74
+Hyundai Tucson,18.0,Third Party insurance,Petrol,5,22000,First Owner,Automatic,2018,12.0,1999.0,1999.0,15288.0,19.25
+Toyota Fortuner,16.0,Third Party,Diesel,7,145000,First Owner,Automatic,2016,12.0,2982.0,2982.0,1685.0,18.0
+Maruti Ciaz,16.0,Comprehensive,Petrol,5,42733,First Owner,Manual,2015,20.0,1373.0,1373.0,911.0,6.82
+Audi A4,17.0,Third Party insurance,Petrol,5,30300,Second Owner,Automatic,2017,17.0,1395.0,1395.0,14751.0,24.8
+Mercedes-Benz AMG,22.0,Comprehensive,Petrol,5,14000,First Owner,Automatic,2022,1991.0,30173.0,30173.0,400.0,48.5
+Renault Duster,19.0,Comprehensive,Diesel,5,59215,Second Owner,Manual,2019,19.0,1461.0,1461.0,838.0,7.8
+Mercedes-Benz S-Class,18.0,Third Party,Petrol,5,22000,First Owner,Automatic,2018,7.0,2996.0,2996.0,36207.0,93.0
+Hyundai Creta,19.0,Comprehensive,Petrol,5,91724,First Owner,Automatic,2019,14.0,1591.0,1591.0,1213.0,10.76
+Toyota Fortuner,17.0,Comprehensive,Diesel,7,52000,Second Owner,Automatic,2017,12.0,2755.0,2755.0,1745.0,25.5
+Lexus RX,20.0,Comprehensive,Petrol,5,19900,First Owner,Automatic,2020,18.0,3456.0,3456.0,25881.0,82.0
+Maruti Wagon,15.0,Comprehensive,Petrol,5,72503,First Owner,Manual,2015,998.0,671.0,671.0,90.0,3.21
+Mercedes-Benz E-Class,,Petrol,5 Seats,67000,1796,2013,Power Windows Front,Air Conditioner,285.0,17.0,17.0,5.0,16.5
+Mercedes-Benz GLC,20.0,Comprehensive,Diesel,5,38000,First Owner,Automatic,2020,16.0,1950.0,1950.0,24138.0,69.5
+Maruti Ciaz,18.0,Comprehensive,Diesel,5,67633,First Owner,Manual,2017,28.0,1248.0,1248.0,885.0,6.61
+BMW 6,19.0,Comprehensive,Diesel,4,45000,Second Owner,Automatic,2019,17.0,2993.0,2993.0,2614.0,43.0
+Honda Amaze,15.0,Comprehensive,Petrol,5,61000,First Owner,Manual,2015,18.0,1198.0,1198.0,867.0,4.6
+MG Hector,21.0,Comprehensive,Petrol,5,29000,First Owner,Automatic,2021,1451.0,141.0,141.0,250.0,16.5
+Hyundai Venue,19.0,Comprehensive,Petrol,5,65710,Second Owner,Automatic,2019,18.0,998.0,998.0,11835.0,8.66
+Maruti Vitara,19.0,Comprehensive,Diesel,5,51763,First Owner,Manual,2019,24.0,1248.0,1248.0,885.0,8.0
+Maruti SX4,22.0,Comprehensive,Petrol,5,19133,First Owner,Manual,2021,18.0,1462.0,1462.0,10325.0,9.74
+Hyundai Tucson,18.0,Third Party insurance,Petrol,5,22000,First Owner,Automatic,2018,12.0,1999.0,1999.0,15288.0,19.25
+Toyota Fortuner,16.0,Third Party,Diesel,7,145000,First Owner,Automatic,2016,12.0,2982.0,2982.0,1685.0,18.0
+Maruti Ciaz,16.0,Comprehensive,Petrol,5,42733,First Owner,Manual,2015,20.0,1373.0,1373.0,911.0,6.82
+Audi A4,17.0,Third Party insurance,Petrol,5,30300,Second Owner,Automatic,2017,17.0,1395.0,1395.0,14751.0,24.8
+Mercedes-Benz AMG,22.0,Comprehensive,Petrol,5,14000,First Owner,Automatic,2022,1991.0,30173.0,30173.0,400.0,48.5
+Renault Duster,19.0,Comprehensive,Diesel,5,59215,Second Owner,Manual,2019,19.0,1461.0,1461.0,838.0,7.8
+Mercedes-Benz S-Class,18.0,Third Party,Petrol,5,22000,First Owner,Automatic,2018,7.0,2996.0,2996.0,36207.0,93.0
+Hyundai Creta,19.0,Comprehensive,Petrol,5,91724,First Owner,Automatic,2019,14.0,1591.0,1591.0,1213.0,10.76
+Toyota Fortuner,17.0,Comprehensive,Diesel,7,52000,Second Owner,Automatic,2017,12.0,2755.0,2755.0,1745.0,25.5
+Lexus RX,20.0,Comprehensive,Petrol,5,19900,First Owner,Automatic,2020,18.0,3456.0,3456.0,25881.0,82.0
+Maruti Wagon,15.0,Comprehensive,Petrol,5,72503,First Owner,Manual,2015,998.0,671.0,671.0,90.0,3.21
+Mercedes-Benz E-Class,,Petrol,5 Seats,67000,1796,2013,Power Windows Front,Air Conditioner,285.0,17.0,17.0,5.0,16.5
+Mercedes-Benz GLC,20.0,Comprehensive,Diesel,5,38000,First Owner,Automatic,2020,16.0,1950.0,1950.0,24138.0,69.5
+Maruti Ciaz,18.0,Comprehensive,Diesel,5,67633,First Owner,Manual,2017,28.0,1248.0,1248.0,885.0,6.61
+BMW 6,19.0,Comprehensive,Diesel,4,45000,Second Owner,Automatic,2019,17.0,2993.0,2993.0,2614.0,43.0
+Honda Amaze,15.0,Comprehensive,Petrol,5,61000,First Owner,Manual,2015,18.0,1198.0,1198.0,867.0,4.6
+Mercedes-Benz C-Class,17.0,Comprehensive,Diesel,5,30000,First Owner,Automatic,2017,19.0,2143.0,2143.0,170.0,27.5
+Ford Ecosport,17.0,Comprehensive,Petrol,5,103030,First Owner,Automatic,2017,15.0,1499.0,1499.0,1104.0,6.82
+Maruti XL6,19.0,Third Party insurance,Petrol,6,19123,First Owner,Manual,2019,19.0,1462.0,1462.0,1032.0,10.25
+Mahindra XUV500,19.0,Comprehensive,Diesel,7,70767,First Owner,Manual,2019,15.0,2179.0,2179.0,15287.0,11.6
+Mercedes-Benz E-Class,19.0,Zero Dep,Petrol,5,25000,First Owner,Automatic,2019,15.0,1991.0,1991.0,1944.0,49.75
+Hyundai Creta,17.0,Third Party insurance,Petrol,5,58525,First Owner,Manual,2017,15.0,1591.0,1591.0,1213.0,8.5
+Maruti Baleno,17.0,Comprehensive,Petrol,5,77353,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,5.2
+Maruti Baleno,18.0,Comprehensive,Petrol,5,59200,First Owner,Manual,2018,21.0,1197.0,1197.0,831.0,6.25
+Mercedes-Benz GLE,22.0,Comprehensive,Diesel,5,25000,Second Owner,Automatic,2022,1950.0,24138.0,24138.0,500.0,79.9
+Maruti SX4,18.0,Comprehensive,Diesel,5,99230,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,6.55
+Hyundai i20,17.0,Comprehensive,Petrol,5,80000,First Owner,Manual,2017,18.0,1197.0,1197.0,8183.0,5.25
+Maruti Ciaz,18.0,Comprehensive,Petrol,5,50840,First Owner,Manual,2018,20.0,1373.0,1373.0,911.0,6.72
+Mercedes-Benz C-Class,23.0,Comprehensive,Petrol,5,1000,First Owner,Automatic,2023,16.0,1496.0,1496.0,20115.0,59.75
+Honda City,,Third Party insurance,Petrol,5,150000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.5
+Maruti Baleno,17.0,Comprehensive,Petrol,5,111142,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.01
+Mercedes-Benz C-Class,14.0,Comprehensive,Petrol,5,133477,First Owner,Automatic,2014,11.0,1796.0,1796.0,178.0,8.5
+Toyota Fortuner,21.0,Comprehensive,Diesel,7,23000,First Owner,Automatic,2021,2755.0,20115.0,20115.0,500.0,43.0
+Maruti SX4,18.0,Comprehensive,Diesel,5,120802,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,5.97
+Tata Safari,21.0,Comprehensive,Diesel,7,41000,Second Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,20.0
+Toyota Camry,,Third Party insurance,Petrol,5,50000,Second Owner,Automatic,2015,19.0,2494.0,2494.0,1577.0,12.5
+Mercedes-Benz C-Class,17.0,Comprehensive,Diesel,5,30000,First Owner,Automatic,2017,19.0,2143.0,2143.0,170.0,27.5
+Ford Ecosport,17.0,Comprehensive,Petrol,5,103030,First Owner,Automatic,2017,15.0,1499.0,1499.0,1104.0,6.82
+Maruti XL6,19.0,Third Party insurance,Petrol,6,19123,First Owner,Manual,2019,19.0,1462.0,1462.0,1032.0,10.25
+Mahindra XUV500,19.0,Comprehensive,Diesel,7,70767,First Owner,Manual,2019,15.0,2179.0,2179.0,15287.0,11.6
+Mercedes-Benz E-Class,19.0,Zero Dep,Petrol,5,25000,First Owner,Automatic,2019,15.0,1991.0,1991.0,1944.0,49.75
+Hyundai Creta,17.0,Third Party insurance,Petrol,5,58525,First Owner,Manual,2017,15.0,1591.0,1591.0,1213.0,8.5
+Maruti Baleno,17.0,Comprehensive,Petrol,5,77353,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,5.2
+Maruti Baleno,18.0,Comprehensive,Petrol,5,59200,First Owner,Manual,2018,21.0,1197.0,1197.0,831.0,6.25
+Mercedes-Benz GLE,22.0,Comprehensive,Diesel,5,25000,Second Owner,Automatic,2022,1950.0,24138.0,24138.0,500.0,79.9
+Maruti SX4,18.0,Comprehensive,Diesel,5,99230,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,6.55
+Hyundai i20,17.0,Comprehensive,Petrol,5,80000,First Owner,Manual,2017,18.0,1197.0,1197.0,8183.0,5.25
+Maruti Ciaz,18.0,Comprehensive,Petrol,5,50840,First Owner,Manual,2018,20.0,1373.0,1373.0,911.0,6.72
+Mercedes-Benz C-Class,23.0,Comprehensive,Petrol,5,1000,First Owner,Automatic,2023,16.0,1496.0,1496.0,20115.0,59.75
+Honda City,,Third Party insurance,Petrol,5,150000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.5
+Maruti Baleno,17.0,Comprehensive,Petrol,5,111142,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.01
+Mercedes-Benz C-Class,14.0,Comprehensive,Petrol,5,133477,First Owner,Automatic,2014,11.0,1796.0,1796.0,178.0,8.5
+Toyota Fortuner,21.0,Comprehensive,Diesel,7,23000,First Owner,Automatic,2021,2755.0,20115.0,20115.0,500.0,43.0
+Maruti SX4,18.0,Comprehensive,Diesel,5,120802,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,5.97
+Tata Safari,21.0,Comprehensive,Diesel,7,41000,Second Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,20.0
+Toyota Camry,,Third Party insurance,Petrol,5,50000,Second Owner,Automatic,2015,19.0,2494.0,2494.0,1577.0,12.5
+Mercedes-Benz S-Class,23.0,Comprehensive,Diesel,5,7900,First Owner,Automatic,2021,13.0,2925.0,2925.0,28161.0,1.5
+Maruti Ciaz,19.0,Comprehensive,Petrol,5,42334,First Owner,Automatic,2019,20.0,1462.0,1462.0,10325.0,8.29
+Honda City,,Third Party insurance,Petrol,5,150000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.25
+Maruti Swift,15.0,Comprehensive,Petrol,5,98275,First Owner,Manual,2015,20.0,1197.0,1197.0,8314.0,3.97
+Land Rover,19.0,Third Party insurance,Diesel,5,57500,Second Owner,Automatic,2019,13.0,2995.0,2995.0,33525.0,1.8
+Honda WR-V,18.0,Third Party insurance,Petrol,5,65000,First Owner,Manual,2018,17.0,1199.0,1199.0,887.0,6.85
+Hyundai Verna,18.0,Comprehensive,Petrol,5,52235,Second Owner,Manual,2018,17.0,1591.0,1591.0,1213.0,7.45
+Honda City,15.0,Comprehensive,Petrol,5,50158,First Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,6.95
+Mercedes-Benz E-Class,20.0,Comprehensive,Diesel,5,34000,Second Owner,Automatic,2020,16.0,1950.0,1950.0,1917.0,44.9
+Nissan Sunny,17.0,Comprehensive,Petrol,5,69820,First Owner,Automatic,2017,17.0,1498.0,1498.0,996.0,5.44
+Toyota Innova,19.0,Comprehensive,Diesel,7,71000,First Owner,Automatic,2019,11.0,2755.0,2755.0,1715.0,20.5
+Maruti Ignis,18.0,Comprehensive,Petrol,5,82415,First Owner,Automatic,2018,20.0,1197.0,1197.0,8180.0,5.34
+Mercedes-Benz GLS,17.0,Third Party insurance,Diesel,7,70000,Second Owner,Automatic,2017,11.0,2987.0,2987.0,258.0,51.5
+Honda City,,Third Party insurance,Petrol,5,150000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.5
+Renault Duster,18.0,Comprehensive,Diesel,5,71070,First Owner,Automatic,2018,19.0,1461.0,1461.0,10845.0,7.22
+Mercedes-Benz B,16.0,Third Party insurance,Petrol,5,83000,First Owner,Automatic,2016,14.0,1595.0,1595.0,12069.0,12.65
+Hyundai Venue,20.0,Comprehensive,Petrol,5,107834,First Owner,Manual,2020,18.0,998.0,998.0,11835.0,7.99
+Maruti Baleno,18.0,Comprehensive,Petrol,5,55000,First Owner,Manual,2018,21.0,1197.0,1197.0,8180.0,6.75
+Mercedes-Benz GLE,17.0,Comprehensive,Petrol,5,55000,First Owner,Automatic,2017,9.0,2996.0,2996.0,32855.0,45.45
+Mercedes-Benz S-Class,23.0,Comprehensive,Diesel,5,7900,First Owner,Automatic,2021,13.0,2925.0,2925.0,28161.0,1.5
+Maruti Ciaz,19.0,Comprehensive,Petrol,5,42334,First Owner,Automatic,2019,20.0,1462.0,1462.0,10325.0,8.29
+Honda City,,Third Party insurance,Petrol,5,150000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.25
+Maruti Swift,15.0,Comprehensive,Petrol,5,98275,First Owner,Manual,2015,20.0,1197.0,1197.0,8314.0,3.97
+Land Rover,19.0,Third Party insurance,Diesel,5,57500,Second Owner,Automatic,2019,13.0,2995.0,2995.0,33525.0,1.8
+Honda WR-V,18.0,Third Party insurance,Petrol,5,65000,First Owner,Manual,2018,17.0,1199.0,1199.0,887.0,6.85
+Hyundai Verna,18.0,Comprehensive,Petrol,5,52235,Second Owner,Manual,2018,17.0,1591.0,1591.0,1213.0,7.45
+Honda City,15.0,Comprehensive,Petrol,5,50158,First Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,6.95
+Mercedes-Benz E-Class,20.0,Comprehensive,Diesel,5,34000,Second Owner,Automatic,2020,16.0,1950.0,1950.0,1917.0,44.9
+Nissan Sunny,17.0,Comprehensive,Petrol,5,69820,First Owner,Automatic,2017,17.0,1498.0,1498.0,996.0,5.44
+Toyota Innova,19.0,Comprehensive,Diesel,7,71000,First Owner,Automatic,2019,11.0,2755.0,2755.0,1715.0,20.5
+Maruti Ignis,18.0,Comprehensive,Petrol,5,82415,First Owner,Automatic,2018,20.0,1197.0,1197.0,8180.0,5.34
+Mercedes-Benz GLS,17.0,Third Party insurance,Diesel,7,70000,Second Owner,Automatic,2017,11.0,2987.0,2987.0,258.0,51.5
+Honda City,,Third Party insurance,Petrol,5,150000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.5
+Renault Duster,18.0,Comprehensive,Diesel,5,71070,First Owner,Automatic,2018,19.0,1461.0,1461.0,10845.0,7.22
+Mercedes-Benz B,16.0,Third Party insurance,Petrol,5,83000,First Owner,Automatic,2016,14.0,1595.0,1595.0,12069.0,12.65
+Hyundai Venue,20.0,Comprehensive,Petrol,5,107834,First Owner,Manual,2020,18.0,998.0,998.0,11835.0,7.99
+Maruti Baleno,18.0,Comprehensive,Petrol,5,55000,First Owner,Manual,2018,21.0,1197.0,1197.0,8180.0,6.75
+Mercedes-Benz GLE,17.0,Comprehensive,Petrol,5,55000,First Owner,Automatic,2017,9.0,2996.0,2996.0,32855.0,45.45
+Volvo XC60,20.0,Comprehensive,Diesel,5,25000,Second Owner,Automatic,2020,11.0,2400.0,2400.0,215.0,52.0
+Maruti Ritz,15.0,Comprehensive,Petrol,5,48539,Second Owner,Manual,2014,1197.0,8580.0,8580.0,114.0,3.21
+Honda City,15.0,Comprehensive,Petrol,5,65000,First Owner,Manual,2015,16.0,1497.0,1497.0,1163.0,6.25
+Hyundai Grand,14.0,Comprehensive,Petrol,5,86916,Second Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.68
+Lexus RX,16.0,Comprehensive,Petrol,5,11000,First Owner,Automatic,2016,18.0,3456.0,3456.0,259.0,66.0
+Tata Nexon,19.0,Comprehensive,Petrol,5,108662,First Owner,Automatic,2019,17.0,1198.0,1198.0,1085.0,7.12
+Honda City,,Third Party insurance,Petrol,5,130000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.5
+BMW M2,19.0,Comprehensive,Petrol,4,29000,First Owner,Automatic,2019,10.0,2979.0,2979.0,410.0,71.0
+Hyundai Grand,18.0,Comprehensive,Petrol,5,63307,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.44
+Hyundai Tucson,18.0,Comprehensive,Diesel,5,84000,First Owner,Automatic,2018,16.0,1995.0,1995.0,18246.0,15.9
+Maruti Baleno,16.0,Comprehensive,Petrol,5,101927,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,5.14
+Mini 3,17.0,Comprehensive,Petrol,4,31900,Second Owner,Automatic,2017,16.0,1998.0,1998.0,231.0,31.0
+Mercedes-Benz E-Class,15.0,Comprehensive,Petrol,5,76000,First Owner,Automatic,2015,12.0,1991.0,1991.0,18103.0,23.9
+Maruti Ciaz,19.0,Comprehensive,Petrol,5,40775,Second Owner,Automatic,2019,20.0,1462.0,1462.0,10325.0,8.14
+Mercedes-Benz S-Class,20.0,Third Party,Diesel,5,18346,First Owner,Automatic,2020,13.0,2925.0,2925.0,28161.0,97.0
+Mercedes-Benz GLS,21.0,Third Party insurance,Diesel,7,46001,First Owner,Automatic,2021,2925.0,3258640000000.0,3258640000000.0,700.0,1.06
+Maruti SX4,19.0,Comprehensive,Diesel,5,59710,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,7.8
+Honda City,20.0,Comprehensive,Petrol,5,40000,First Owner,Automatic,2020,17.0,1497.0,1497.0,1176.0,10.95
+Mercedes-Benz M-Class,15.0,Comprehensive,Diesel,5,76000,First Owner,Automatic,2015,2987.0,1652243800.0,1652243800.0,510.0,19.99
+Volvo XC60,20.0,Comprehensive,Diesel,5,25000,Second Owner,Automatic,2020,11.0,2400.0,2400.0,215.0,52.0
+Maruti Ritz,15.0,Comprehensive,Petrol,5,48539,Second Owner,Manual,2014,1197.0,8580.0,8580.0,114.0,3.21
+Honda City,15.0,Comprehensive,Petrol,5,65000,First Owner,Manual,2015,16.0,1497.0,1497.0,1163.0,6.25
+Hyundai Grand,14.0,Comprehensive,Petrol,5,86916,Second Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.68
+Lexus RX,16.0,Comprehensive,Petrol,5,11000,First Owner,Automatic,2016,18.0,3456.0,3456.0,259.0,66.0
+Tata Nexon,19.0,Comprehensive,Petrol,5,108662,First Owner,Automatic,2019,17.0,1198.0,1198.0,1085.0,7.12
+Honda City,,Third Party insurance,Petrol,5,130000,First Owner,Automatic,2012,15.0,1497.0,1497.0,1163.0,4.5
+BMW M2,19.0,Comprehensive,Petrol,4,29000,First Owner,Automatic,2019,10.0,2979.0,2979.0,410.0,71.0
+Hyundai Grand,18.0,Comprehensive,Petrol,5,63307,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.44
+Hyundai Tucson,18.0,Comprehensive,Diesel,5,84000,First Owner,Automatic,2018,16.0,1995.0,1995.0,18246.0,15.9
+Maruti Baleno,16.0,Comprehensive,Petrol,5,101927,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,5.14
+Mini 3,17.0,Comprehensive,Petrol,4,31900,Second Owner,Automatic,2017,16.0,1998.0,1998.0,231.0,31.0
+Mercedes-Benz E-Class,15.0,Comprehensive,Petrol,5,76000,First Owner,Automatic,2015,12.0,1991.0,1991.0,18103.0,23.9
+Maruti Ciaz,19.0,Comprehensive,Petrol,5,40775,Second Owner,Automatic,2019,20.0,1462.0,1462.0,10325.0,8.14
+Mercedes-Benz S-Class,20.0,Third Party,Diesel,5,18346,First Owner,Automatic,2020,13.0,2925.0,2925.0,28161.0,97.0
+Mercedes-Benz GLS,21.0,Third Party insurance,Diesel,7,46001,First Owner,Automatic,2021,2925.0,3258640000000.0,3258640000000.0,700.0,1.06
+Maruti SX4,19.0,Comprehensive,Diesel,5,59710,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,7.8
+Honda City,20.0,Comprehensive,Petrol,5,40000,First Owner,Automatic,2020,17.0,1497.0,1497.0,1176.0,10.95
+Mercedes-Benz M-Class,15.0,Comprehensive,Diesel,5,76000,First Owner,Automatic,2015,2987.0,1652243800.0,1652243800.0,510.0,19.99
+Audi Q7,22.0,Comprehensive,Petrol,7,8000,First Owner,Automatic,2022,11.0,2995.0,2995.0,33525.0,87.0
+Honda WR-V,19.0,Comprehensive,Petrol,5,67606,First Owner,Manual,2019,17.0,1199.0,1199.0,887.0,6.82
+Audi Q3,16.0,Third Party insurance,Diesel,5,72135,Second Owner,Automatic,2016,15.0,1968.0,1968.0,17433.0,15.75
+Hyundai i20,15.0,Comprehensive,Petrol,5,96658,First Owner,Manual,2015,18.0,1197.0,1197.0,8183.0,5.1
+Audi A4,17.0,Zero Dep,Petrol,5,29000,First Owner,Automatic,2017,17.0,1395.0,1395.0,14751.0,27.25
+Audi Q7,17.0,Comprehensive,Diesel,7,76000,Second Owner,Automatic,2017,14.0,2967.0,2967.0,245.0,45.0
+Maruti Ciaz,17.0,Comprehensive,Petrol,5,26750,First Owner,Automatic,2017,19.0,1373.0,1373.0,911.0,8.62
+Mercedes-Benz S-Class,9.0,Not Available,Petrol,5,92762,Fifth Owner,Automatic,2009,10.0,3498.0,3498.0,3649.0,8.25
+Jaguar XF,18.0,Comprehensive,Diesel,5,14000,First Owner,Automatic,2018,19.0,1999.0,1999.0,177.0,35.5
+Nissan Micra,18.0,Comprehensive,Petrol,5,43293,First Owner,Manual,2018,19.0,1198.0,1198.0,6704.0,4.12
+Honda City,17.0,Comprehensive,Petrol,5,102786,First Owner,Manual,2017,17.0,1497.0,1497.0,1186600.0,5.95
+Nissan Micra,15.0,Comprehensive,Petrol,5,98751,First Owner,Manual,2015,19.0,1198.0,1198.0,6704.0,2.98
+Jeep Grand,17.0,Comprehensive,Diesel,5,53000,First Owner,Automatic,2017,12.0,2998.0,2998.0,2396.0,34.9
+BMW 3,17.0,Zero Dep,Diesel,5,54776,Second Owner,Automatic,2017,22.0,1995.0,1995.0,190.0,18.9
+Maruti Ciaz,18.0,Comprehensive,Diesel,5,59870,First Owner,Manual,2018,28.0,1248.0,1248.0,885.0,7.27
+Hyundai Grand,13.0,Comprehensive,Petrol,5,50000,Second Owner,Manual,2013,18.0,1197.0,1197.0,8186.0,3.95
+Mercedes-Benz G,21.0,Comprehensive,Diesel,5,38000,First Owner,Automatic,2021,8.0,2925.0,2925.0,28161.0,2.45
+Maruti Ritz,14.0,Comprehensive,Petrol,5,80330,First Owner,Manual,2013,1197.0,8580.0,8580.0,114.0,2.93
+Honda City,15.0,Third Party insurance,Petrol,5,94000,First Owner,Manual,2015,16.0,1497.0,1497.0,1163.0,6.25
+Land Rover,18.0,Zero Dep,Diesel,7,37800,First Owner,Automatic,2018,12.0,1999.0,1999.0,14831.0,37.9
+Audi Q7,22.0,Comprehensive,Petrol,7,8000,First Owner,Automatic,2022,11.0,2995.0,2995.0,33525.0,87.0
+Honda WR-V,19.0,Comprehensive,Petrol,5,67606,First Owner,Manual,2019,17.0,1199.0,1199.0,887.0,6.82
+Audi Q3,16.0,Third Party insurance,Diesel,5,72135,Second Owner,Automatic,2016,15.0,1968.0,1968.0,17433.0,15.75
+Hyundai i20,15.0,Comprehensive,Petrol,5,96658,First Owner,Manual,2015,18.0,1197.0,1197.0,8183.0,5.1
+Audi A4,17.0,Zero Dep,Petrol,5,29000,First Owner,Automatic,2017,17.0,1395.0,1395.0,14751.0,27.25
+Audi Q7,17.0,Comprehensive,Diesel,7,76000,Second Owner,Automatic,2017,14.0,2967.0,2967.0,245.0,45.0
+Maruti Ciaz,17.0,Comprehensive,Petrol,5,26750,First Owner,Automatic,2017,19.0,1373.0,1373.0,911.0,8.62
+Mercedes-Benz S-Class,9.0,Not Available,Petrol,5,92762,Fifth Owner,Automatic,2009,10.0,3498.0,3498.0,3649.0,8.25
+Jaguar XF,18.0,Comprehensive,Diesel,5,14000,First Owner,Automatic,2018,19.0,1999.0,1999.0,177.0,35.5
+Nissan Micra,18.0,Comprehensive,Petrol,5,43293,First Owner,Manual,2018,19.0,1198.0,1198.0,6704.0,4.12
+Honda City,17.0,Comprehensive,Petrol,5,102786,First Owner,Manual,2017,17.0,1497.0,1497.0,1186600.0,5.95
+Nissan Micra,15.0,Comprehensive,Petrol,5,98751,First Owner,Manual,2015,19.0,1198.0,1198.0,6704.0,2.98
+Jeep Grand,17.0,Comprehensive,Diesel,5,53000,First Owner,Automatic,2017,12.0,2998.0,2998.0,2396.0,34.9
+BMW 3,17.0,Zero Dep,Diesel,5,54776,Second Owner,Automatic,2017,22.0,1995.0,1995.0,190.0,18.9
+Maruti Ciaz,18.0,Comprehensive,Diesel,5,59870,First Owner,Manual,2018,28.0,1248.0,1248.0,885.0,7.27
+Hyundai Grand,13.0,Comprehensive,Petrol,5,50000,Second Owner,Manual,2013,18.0,1197.0,1197.0,8186.0,3.95
+Mercedes-Benz G,21.0,Comprehensive,Diesel,5,38000,First Owner,Automatic,2021,8.0,2925.0,2925.0,28161.0,2.45
+Maruti Ritz,14.0,Comprehensive,Petrol,5,80330,First Owner,Manual,2013,1197.0,8580.0,8580.0,114.0,2.93
+Honda City,15.0,Third Party insurance,Petrol,5,94000,First Owner,Manual,2015,16.0,1497.0,1497.0,1163.0,6.25
+Land Rover,18.0,Zero Dep,Diesel,7,37800,First Owner,Automatic,2018,12.0,1999.0,1999.0,14831.0,37.9
+Audi Q7,19.0,Third Party insurance,Diesel,7,25000,First Owner,Automatic,2019,14.0,2967.0,2967.0,245.0,65.5
+Tata Harrier,19.0,Comprehensive,Diesel,5,29294,First Owner,Manual,2019,16.0,1956.0,1956.0,16767.0,13.65
+Kia Seltos,23.0,Comprehensive,Petrol,5,6800,First Owner,Automatic,2023,16.0,1497.0,1497.0,11342.0,16.95
+Ford Figo,21.0,Comprehensive,Petrol,5,16847,First Owner,Manual,2020,20.0,1194.0,1194.0,9493.0,5.94
+Mercedes-Benz CLA,17.0,Comprehensive,Diesel,5,70000,Third Owner,Automatic,2017,17.0,2143.0,2143.0,1341.0,17.5
+Audi Q5,22.0,Third Party insurance,Petrol,5,25500,First Owner,Automatic,2022,13.0,1984.0,1984.0,24559.0,55.8
+Renault Duster,18.0,Comprehensive,Diesel,5,65865,First Owner,Automatic,2018,19.0,1461.0,1461.0,10845.0,7.99
+Audi A6,21.0,Comprehensive,Petrol,5,1000,First Owner,Automatic,2021,14.0,1984.0,1984.0,2413.0,55.9
+Volvo XC60,18.0,Comprehensive,Diesel,5,60000,Second Owner,Automatic,2018,14.0,1984.0,1984.0,181.0,38.0
+Tata Nexon,21.0,Comprehensive,Diesel,5,54000,First Owner,Manual,2020,21.0,1497.0,1497.0,10849.0,9.99
+BMW 3,22.0,Comprehensive,Petrol,5,5500,First Owner,Automatic,2022,13.0,2998.0,2998.0,36878.0,72.0
+Honda Jazz,21.0,Comprehensive,Petrol,5,20866,Second Owner,Automatic,2021,17.0,1199.0,1199.0,8850.0,8.14
+Maruti Baleno,23.0,Comprehensive,Petrol,5,5000,First Owner,Automatic,2023,22.0,1197.0,1197.0,8850.0,9.85
+Maruti Swift,10.0,Comprehensive,Petrol,5,130363,First Owner,Manual,2010,18.0,1197.0,1197.0,858.0,1.3
+Mahindra Marazzo,18.0,Comprehensive,Diesel,7,73937,First Owner,Manual,2018,17.0,1497.0,1497.0,121.0,8.99
+Hyundai Creta,17.0,Comprehensive,Diesel,5,40000,First Owner,Manual,2017,1396.0,887.0,887.0,2197.0,7.99
+Mercedes-Benz GLE,20.0,Comprehensive,Diesel,5,15000,Second Owner,Automatic,2020,1950.0,24138.0,24138.0,500.0,74.5
+Nissan Micra,18.0,Comprehensive,Petrol,5,42014,First Owner,Manual,2018,19.0,1198.0,1198.0,6704.0,4.25
+MG Hector,21.0,Comprehensive,Petrol,5,34000,First Owner,Automatic,2021,13.0,1451.0,1451.0,141.0,16.4
+Maruti Vitara,18.0,Third Party insurance,Diesel,5,73000,First Owner,Automatic,2018,24.0,1248.0,1248.0,885.0,7.0
+Maruti SX4,19.0,Comprehensive,Diesel,5,59841,First Owner,Manual,2019,25.0,1248.0,1248.0,885.0,8.74
+Kia Seltos,21.0,Zero Dep,Petrol,5,37000,First Owner,Automatic,2021,16.0,1497.0,1497.0,11342.0,15.25
+Toyota Etios,12.0,Comprehensive,Petrol,5,81949,First Owner,Manual,2012,17.0,1197.0,1197.0,789.0,2.92
+Hyundai i10,17.0,Comprehensive,Petrol,5,50000,First Owner,Manual,2017,1197.0,789.0,789.0,1117.0,4.25
+Hyundai EON,,Third Party insurance,Petrol,5,50000,Second Owner,Manual,2013,814.0,552.0,552.0,745.0,1.75
+Honda City,21.0,Comprehensive,Petrol,5,34769,First Owner,Automatic,2020,18.0,1498.0,1498.0,11935.0,13.08
+Maruti Swift,15.0,Comprehensive,Petrol,5,79656,First Owner,Manual,2015,1197.0,8180.0,8180.0,113.0,3.1
+Mercedes-Benz C-Class,19.0,Third Party insurance,Diesel,5,55000,First Owner,Automatic,2019,12.0,1950.0,1950.0,194.0,34.75
+Hyundai i20,17.0,Comprehensive,Petrol,5,84310,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,5.64
+Hyundai Grand,18.0,Comprehensive,Petrol,5,23000,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.15
+Nissan Micra,16.0,Comprehensive,Petrol,5,79362,First Owner,Manual,2016,19.0,1198.0,1198.0,6704.0,3.42
+BMW X4,19.0,Comprehensive,Diesel,5,18000,Second Owner,Automatic,2019,16.0,1995.0,1995.0,18774.0,49.5
+Maruti Ritz,13.0,Comprehensive,Petrol,5,102511,First Owner,Manual,2013,1197.0,8580.0,8580.0,114.0,2.49
+Maruti Ertiga,18.0,Comprehensive,CNG,7,70000,First Owner,Manual,2018,26.0,1462.0,1462.0,9119.0,7.65
+Mercedes-Benz GLS,17.0,Comprehensive,Diesel,7,80000,Second Owner,Automatic,2017,11.0,2987.0,2987.0,258.0,48.5
+Hyundai Grand,15.0,Comprehensive,Petrol,5,105446,First Owner,Manual,2015,18.0,1197.0,1197.0,82.0,3.75
+Maruti Baleno,15.0,Comprehensive,Petrol,5,54000,First Owner,Manual,2015,21.0,1197.0,1197.0,831.0,4.25
+Hyundai i10,13.0,Comprehensive,Petrol,5,75865,First Owner,Manual,2013,1086.0,6805.0,6805.0,9904.0,2.65
+Kia Seltos,20.0,Third Party insurance,Petrol,5,64690,First Owner,Manual,2020,16.0,1497.0,1497.0,11343.0,10.0
+Hyundai Venue,22.0,Third Party,Petrol,5,5103,First Owner,Manual,2022,1197.0,8180.0,8180.0,1138.0,10.85
+Tata Nano,15.0,Third Party,CNG,4,52000,Second Owner,Manual,2015,624.0,3748.0,3748.0,51.0,1.5
+Mahindra KUV,18.0,Comprehensive,Petrol,6,18706,First Owner,Manual,2018,1198.0,82.0,82.0,115.0,4.24
+Hyundai Xcent,17.0,Third Party,Petrol,5,43687,First Owner,Manual,2016,19.0,1197.0,1197.0,82.0,5.2
+Hyundai Venue,19.0,Third Party insurance,Petrol,5,51000,First Owner,Automatic,2019,18.0,998.0,998.0,11835.0,9.75
+Honda City,12.0,Third Party insurance,Petrol,5,60758,Second Owner,Manual,2012,16.0,1497.0,1497.0,1163.0,4.4
+Hyundai Venue,22.0,Third Party insurance,Diesel,5,42000,First Owner,Manual,2020,23.0,1396.0,1396.0,887.0,10.5
+Maruti Vitara,16.0,Third Party insurance,Diesel,5,42261,First Owner,Manual,2016,24.0,1248.0,1248.0,885.0,8.85
+Hyundai Grand,15.0,Comprehensive,Petrol,5,75499,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.56
+Hyundai Elantra,,Third Party insurance,Diesel,5,120000,Third Owner,Manual,2013,22.0,1582.0,1582.0,12624.0,3.99
+Hyundai Grand,15.0,Third Party,Petrol,5,87109,Second Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.59
+Mahindra TUV,19.0,Comprehensive,Diesel,7,69000,First Owner,Manual,2019,18.0,1493.0,1493.0,100.0,8.5
+Volkswagen Ameo,17.0,Comprehensive,Diesel,5,109000,First Owner,Automatic,2017,22.0,1498.0,1498.0,108495.0,6.25
+Hyundai Elantra,18.0,Comprehensive,Diesel,5,90001,First Owner,Automatic,2018,18.0,1582.0,1582.0,1262.0,10.75
+Skoda Kushaq,22.0,Third Party,Petrol,5,13000,First Owner,Automatic,2022,18.0,1498.0,1498.0,14751.0,16.5
+Volkswagen Polo,11.0,Comprehensive,Diesel,5,60000,Second Owner,Manual,2011,22.0,1199.0,1199.0,739.0,2.4
+Hyundai Accent,10.0,Comprehensive,Petrol,5,75000,First Owner,Manual,2010,1495.0,94.0,94.0,125.0,1.9
+Maruti XL6,19.0,Comprehensive,Petrol,6,76000,First Owner,Automatic,2019,17.0,1462.0,1462.0,1032.0,9.25
+Maruti Ertiga,14.0,Third Party insurance,Diesel,7,82000,First Owner,Manual,2014,20.0,1248.0,1248.0,8876.0,6.5
+Maruti Vitara,16.0,Third Party insurance,Diesel,5,42261,First Owner,Manual,2016,24.0,1248.0,1248.0,885.0,8.85
+Hyundai Grand,15.0,Third Party,Petrol,5,87109,Second Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.59
+Maruti Ertiga,14.0,Third Party insurance,Diesel,7,82000,First Owner,Manual,2014,20.0,1248.0,1248.0,8876.0,6.5
+Hyundai EON,16.0,Third Party insurance,Petrol,5,47057,First Owner,Manual,2016,814.0,552.0,552.0,745.0,3.17
+Hyundai Verna,19.0,Zero Dep,Petrol,5,123715,First Owner,Manual,2019,17.0,1591.0,1591.0,1213.0,7.7
+Tata Tigor,,Third Party insurance,Petrol,5,60000,1199 cc,2018,Power Steering,1199.0,84.0,84.0,114.0,4.75
+Tata Tiago,21.0,Third Party,Petrol,5,36522,First Owner,Manual,2021,19.0,1199.0,1199.0,8482.0,5.44
+Volkswagen Vento,16.0,Third Party insurance,Petrol,5,63000,First Owner,Manual,2016,16.0,1598.0,1598.0,1032.0,5.8
+Volkswagen Polo,18.0,Comprehensive,Petrol,5,23285,First Owner,Manual,2018,17.0,999.0,999.0,7510.0,5.73
+Hyundai Grand,21.0,Zero Dep,Petrol,5,14596,Second Owner,Manual,2021,20.0,1197.0,1197.0,8186.0,6.41
+Mercedes-Benz C-Class,13.0,Comprehensive,Diesel,5,48401,First Owner,Automatic,2013,14.0,2143.0,2143.0,170.0,12.0
+Maruti Baleno,21.0,Zero Dep,Petrol,5,34377,First Owner,Manual,2021,21.0,1197.0,1197.0,8180.0,7.57
+Mercedes-Benz M-Class,11.0,Third Party insurance,Diesel,5,127000,Third Owner,Automatic,2011,11.0,2987.0,2987.0,2548.0,11.0
+Mercedes-Benz E-Class,18.0,Comprehensive,Diesel,5,70000,First Owner,Automatic,2018,16.0,1950.0,1950.0,1917.0,39.95
+BMW X3,,Third Party insurance,Diesel,5,90000,Second Owner,Automatic,2012,16.0,1995.0,1995.0,184.0,12.0
+Ford Ecosport,17.0,Comprehensive,Diesel,5,65000,First Owner,Manual,2017,21.0,1498.0,1498.0,9896.0,7.25
+Jeep Compass,20.0,Comprehensive,Diesel,5,80000,First Owner,Manual,2020,17.0,1956.0,1956.0,17063.0,16.5
+Honda Mobilio,14.0,Comprehensive,Diesel,7,89000,First Owner,Manual,2014,24.0,1498.0,1498.0,986.0,5.5
+Ford Ecosport,18.0,Comprehensive,Diesel,5,90000,First Owner,Manual,2018,21.0,1498.0,1498.0,9896.0,7.75
+Volkswagen Vento,17.0,Comprehensive,Diesel,5,109000,First Owner,Automatic,2017,22.0,1498.0,1498.0,1086.0,7.25
+Mahindra XUV300,21.0,Zero Dep,Diesel,5,66302,First Owner,Automatic,2021,19.0,1497.0,1497.0,11505.0,11.24
+Maruti Swift,12.0,Third Party insurance,Petrol,5,79247,First Owner,Manual,2012,22.0,1197.0,1197.0,8850.0,4.1
+Mini Cooper,17.0,Comprehensive,Petrol,5,46000,First Owner,Automatic,2017,13.0,1998.0,1998.0,192.0,33.0
+Maruti Baleno,18.0,Third Party,Diesel,5,82051,First Owner,Manual,2017,27.0,1248.0,1248.0,74.0,6.07
+Maruti Swift,21.0,Third Party insurance,Petrol,5,31655,First Owner,Manual,2021,22.0,1197.0,1197.0,8850.0,7.75
+Hyundai Grand,17.0,Comprehensive,Petrol,5,16000,First Owner,Manual,2017,18.0,1197.0,1197.0,8186.0,5.75
+Honda WR-V,19.0,Zero Dep,Diesel,5,59965,First Owner,Manual,2019,25.0,1498.0,1498.0,986.0,7.61
+Hyundai i20,9.0,Third Party insurance,Petrol,5,60000,Third Owner,Manual,2009,17.0,1197.0,1197.0,805200.0,1.75
+Maruti Baleno,17.0,Zero Dep,Petrol,5,103209,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.02
+Maruti Baleno,17.0,Third Party insurance,Petrol,5,29497,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.59
+Hyundai i10,12.0,Comprehensive,Petrol,5,51000,First Owner,Manual,2012,1197.0,789.0,789.0,1117.0,2.9
+Hyundai Grand,20.0,Third Party,Petrol,5,22849,First Owner,Automatic,2020,20.0,1197.0,1197.0,8186.0,6.83
+Hyundai i20,18.0,Third Party insurance,Diesel,5,66000,First Owner,Manual,2018,22.0,1396.0,1396.0,8873.0,5.75
+BMW X1,19.0,Third Party insurance,Diesel,5,43000,First Owner,Automatic,2019,20.0,1995.0,1995.0,190.0,29.5
+Maruti Vitara,19.0,Comprehensive,Diesel,5,68000,First Owner,Manual,2019,24.0,1248.0,1248.0,885.0,7.5
+Mercedes-Benz GLC,18.0,Comprehensive,Diesel,5,61000,First Owner,Automatic,2018,17.0,2143.0,2143.0,170.0,37.5
+Maruti Ciaz,18.0,Comprehensive,Petrol,5,35000,First Owner,Manual,2018,20.0,1462.0,1462.0,10325.0,6.8
+Maruti Baleno,19.0,Comprehensive,Petrol,5,47000,First Owner,Automatic,2019,19.0,1197.0,1197.0,8180.0,6.75
+Maruti Vitara,19.0,Third Party insurance,Diesel,5,54000,First Owner,Manual,2019,24.0,1248.0,1248.0,885.0,8.75
+Honda City,16.0,Zero Dep,Petrol,5,72000,First Owner,Automatic,2015,18.0,1497.0,1497.0,1173.0,6.15
+Maruti Alto,17.0,Third Party insurance,Petrol,5,62039,First Owner,Manual,2017,796.0,4733.0,4733.0,69.0,3.02
+Maruti Baleno,20.0,Comprehensive,Petrol,5,23428,First Owner,Manual,2020,21.0,1197.0,1197.0,8180.0,7.14
+Maruti SX4,17.0,Comprehensive,Diesel,5,53000,First Owner,Manual,2017,25.0,1248.0,1248.0,885.0,7.95
+Honda City,12.0,Comprehensive,Petrol,5,47925,First Owner,Manual,2012,16.0,1497.0,1497.0,1163.0,4.53
+Hyundai Grand,15.0,Third Party insurance,Petrol,5,59011,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.26
+Mahindra Alturas,19.0,Comprehensive,Diesel,7,121281,First Owner,Automatic,2019,12.0,2157.0,2157.0,17849.0,17.51
+Hyundai Grand,19.0,Third Party,Petrol,5,63238,First Owner,Manual,2019,18.0,1197.0,1197.0,8186.0,5.15
+Honda City,14.0,Third Party insurance,Petrol,5,51376,First Owner,Automatic,2014,18.0,1497.0,1497.0,1173.0,6.0
+Hyundai i10,13.0,Comprehensive,Petrol,5,51196,First Owner,Manual,2013,1086.0,6805.0,6805.0,9904.0,3.19
+Hyundai Grand,18.0,Third Party insurance,Petrol,5,35898,Second Owner,Automatic,2018,18.0,1197.0,1197.0,8186.0,5.43
+BMW 5,18.0,Comprehensive,Diesel,5,40000,Second Owner,Automatic,2018,22.0,1995.0,1995.0,18774.0,34.5
+Maruti Ignis,18.0,Comprehensive,Petrol,5,19876,First Owner,Manual,2018,20.0,1197.0,1197.0,8180.0,4.92
+Maruti Swift,12.0,Comprehensive,Diesel,5,68000,First Owner,Manual,2012,22.0,1248.0,1248.0,74.0,4.1
+Honda Amaze,16.0,Comprehensive,Petrol,5,40451,First Owner,Manual,2016,18.0,1199.0,1199.0,8876.0,5.25
+Honda City,14.0,Third Party insurance,Petrol,5,60000,Second Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,5.55
+Audi A6,13.0,Comprehensive,Diesel,5,69000,First Owner,Automatic,2013,17.0,1968.0,1968.0,17433.0,14.5
+Maruti Baleno,18.0,Comprehensive,Petrol,5,98000,First Owner,Manual,2018,21.0,1197.0,1197.0,8180.0,6.0
+Hyundai Venue,20.0,Zero Dep,Petrol,5,790000,First Owner,Automatic,2020,18.0,998.0,998.0,11835.0,9.75
+Honda Jazz,19.0,Zero Dep,Petrol,5,55000,First Owner,Automatic,2019,18.0,1199.0,1199.0,887.0,7.5
+Toyota Etios,15.0,Zero Dep,Diesel,5,104000,First Owner,Manual,2015,23.0,1364.0,1364.0,6705.0,5.25
+Maruti Alto,19.0,Zero Dep,Petrol,5,57647,First Owner,Manual,2019,24.0,796.0,796.0,473.0,3.52
+Hyundai Grand,17.0,Third Party insurance,Petrol,5,76125,Second Owner,Manual,2017,18.0,1197.0,1197.0,8186.0,4.4
+Maruti Swift,17.0,Third Party,Diesel,5,94857,First Owner,Manual,2017,28.0,1248.0,1248.0,7402.0,6.06
+Honda Amaze,16.0,Comprehensive,Petrol,5,51499,First Owner,Manual,2016,18.0,1198.0,1198.0,867.0,4.96
+Mahindra XUV700,23.0,Comprehensive,Diesel,7,22468,First Owner,Automatic,2023,2198.0,18238.0,18238.0,450.0,22.0
+Maruti Celerio,16.0,Zero Dep,Petrol,5,123186,First Owner,Manual,2016,25.0,998.0,998.0,6571.0,3.68
+Maruti Wagon,21.0,Comprehensive,Petrol,5,20000,First Owner,Automatic,2021,21.0,998.0,998.0,6705.0,6.1
+Hyundai i20,16.0,Zero Dep,Petrol,5,74661,First Owner,Manual,2015,18.0,1197.0,1197.0,8183.0,5.45
+Maruti Swift,12.0,Comprehensive,Diesel,5,50018,First Owner,Manual,2012,22.0,1248.0,1248.0,74.0,4.2
+Hyundai i20,19.0,Third Party,Petrol,5,38000,First Owner,Manual,2019,18.0,1197.0,1197.0,8183.0,5.6
+Maruti Baleno,21.0,Zero Dep,Petrol,5,11971,First Owner,Manual,2021,21.0,1197.0,1197.0,8180.0,7.55
+Fiat Punto,,Third Party insurance,Diesel,5,80000,Third Owner,Manual,2010,20.0,1248.0,1248.0,75.0,1.0
+Hyundai i20,14.0,Comprehensive,Petrol,5,64000,First Owner,Manual,2014,18.0,1197.0,1197.0,8183.0,5.5
+Maruti Baleno,17.0,Comprehensive,Petrol,5,37000,First Owner,Manual,2017,1197.0,831.0,831.0,115.0,5.05
+Hyundai i20,15.0,Comprehensive,Diesel,5,92000,First Owner,Manual,2015,22.0,1396.0,1396.0,8873.0,5.95
+Maruti Alto,19.0,Comprehensive,Petrol,5,70000,Second Owner,Manual,2019,23.0,998.0,998.0,6705.0,3.4
+Maruti Vitara,21.0,Comprehensive,Petrol,5,83000,First Owner,Manual,2021,17.0,1462.0,1462.0,10326.0,7.95
+Maruti Wagon,20.0,Comprehensive,Petrol,5,32000,First Owner,Manual,2020,998.0,6705.0,6705.0,90.0,5.1
+Maruti Baleno,18.0,Comprehensive,Diesel,5,88000,Second Owner,Manual,2018,27.0,1248.0,1248.0,74.0,5.9
+Maruti Swift,12.0,Third Party insurance,Petrol,5,105885,First Owner,Manual,2012,1197.0,8850.0,8850.0,113.0,3.27
+Honda WR-V,17.0,Zero Dep,Diesel,5,93774,First Owner,Manual,2017,25.0,1498.0,1498.0,986.0,7.15
+Mercedes-Benz C-Class,20.0,Third Party insurance,Diesel,5,44000,First Owner,Automatic,2020,12.0,1950.0,1950.0,194.0,39.5
+Hyundai Grand,16.0,Third Party,Petrol,5,86981,First Owner,Manual,2016,1197.0,82.0,82.0,114.0,4.21
+Maruti Baleno,20.0,Zero Dep,Petrol,5,48728,First Owner,Manual,2019,21.0,1197.0,1197.0,831.0,6.66
+Hyundai Verna,13.0,Comprehensive,Petrol,5,87001,First Owner,Manual,2013,17.0,1591.0,1591.0,1213.0,4.65
+Maruti Wagon,16.0,Third Party,Petrol,5,50595,First Owner,Manual,2016,20.0,998.0,998.0,6704.0,4.11
+Honda Jazz,21.0,Comprehensive,Petrol,5,31000,First Owner,Automatic,2021,17.0,1199.0,1199.0,8850.0,8.5
+Hyundai Grand,15.0,Third Party,Petrol,5,103012,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.14
+Maruti Swift,14.0,Third Party,Petrol,5,108929,First Owner,Manual,2013,22.0,1197.0,1197.0,8850.0,3.84
+Honda BR-V,16.0,Third Party insurance,Petrol,7,57000,First Owner,Automatic,2016,15.0,1497.0,1497.0,1173.0,7.95
+Honda Brio,18.0,Comprehensive,Petrol,5,56387,First Owner,Manual,2018,18.0,1198.0,1198.0,868.0,4.3
+Honda City,14.0,Comprehensive,Diesel,5,101000,First Owner,Manual,2014,26.0,1498.0,1498.0,986.0,5.75
+Honda Brio,18.0,Comprehensive,Petrol,5,42000,First Owner,Automatic,2018,16.0,1198.0,1198.0,868.0,5.5
+Hyundai Verna,21.0,Third Party insurance,Diesel,5,50000,First Owner,Manual,2021,25.0,1493.0,1493.0,11345.0,13.9
+Ford Ecosport,20.0,Comprehensive,Diesel,5,810000,First Owner,Manual,2020,21.0,1498.0,1498.0,9896.0,9.0
+Hyundai Grand,19.0,Comprehensive,Petrol,5,26000,First Owner,Automatic,2018,18.0,1197.0,1197.0,8186.0,5.95
+Mercedes-Benz C-Class,14.0,Comprehensive,Diesel,5,92001,First Owner,Automatic,2014,14.0,2143.0,2143.0,16762.0,11.75
+Honda Brio,16.0,Comprehensive,Petrol,5,29000,First Owner,Manual,2016,18.0,1198.0,1198.0,868.0,4.5
+Maruti Swift,17.0,Third Party insurance,Petrol,5,69000,First Owner,Manual,2017,20.0,1197.0,1197.0,8180.0,5.4
+Maruti Ignis,22.0,Zero Dep,Petrol,5,51918,First Owner,Manual,2022,1197.0,8180.0,8180.0,113.0,5.4
+Hyundai Grand,16.0,Third Party,Petrol,5,37552,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,5.32
+Tata Nexon,19.0,Comprehensive,Petrol,5,84000,First Owner,Manual,2019,17.0,1198.0,1198.0,1085.0,8.7
+Honda Amaze,16.0,Third Party,Petrol,5,63420,First Owner,Manual,2016,18.0,1198.0,1198.0,867.0,5.11
+Hyundai Grand,18.0,Third Party,Petrol,5,68888,Second Owner,Manual,2017,18.0,1197.0,1197.0,8186.0,4.39
+Maruti Swift,13.0,Comprehensive,Diesel,5,104255,First Owner,Manual,2013,22.0,1248.0,1248.0,74.0,4.5
+Honda Brio,18.0,Third Party,Petrol,5,47877,First Owner,Manual,2018,18.0,1198.0,1198.0,868.0,4.72
+Mercedes-Benz C-Class,16.0,Comprehensive,Petrol,5,61000,Second Owner,Automatic,2016,14.0,1991.0,1991.0,18104.0,27.9
+Honda Jazz,16.0,Third Party insurance,Diesel,5,83337,First Owner,Manual,2016,27.0,1498.0,1498.0,986.0,4.64
+Honda Brio,16.0,Third Party,Petrol,5,61836,First Owner,Manual,2016,19.0,1198.0,1198.0,868.0,4.06
+Volkswagen Vento,15.0,Comprehensive,Petrol,5,68001,First Owner,Automatic,2015,18.0,1197.0,1197.0,1032.0,5.9
+Maruti Baleno,23.0,Zero Dep,Petrol,5,39813,First Owner,Manual,2022,22.0,1197.0,1197.0,8850.0,7.87
+Honda Amaze,18.0,Comprehensive,Petrol,5,74000,First Owner,Manual,2018,17.0,1198.0,1198.0,867.0,6.9
+Honda Brio,13.0,Comprehensive,Petrol,5,87000,First Owner,Manual,2013,19.0,1198.0,1198.0,868.0,3.5
+Hyundai i20,16.0,Third Party insurance,Petrol,5,71000,First Owner,Manual,2016,18.0,1197.0,1197.0,8183.0,6.6
+Mercedes-Benz GLE,18.0,Comprehensive,Diesel,5,102000,First Owner,Automatic,2018,17.0,2143.0,2143.0,20115.0,43.5
+Mitsubishi Outlander,,Third Party insurance,Petrol,5,110000,Third Owner,Automatic,2010,11.0,2360.0,2360.0,170.0,6.5
+Tata Tiago,19.0,Comprehensive,Petrol,5,75000,First Owner,Manual,2019,23.0,1199.0,1199.0,84.0,5.7
+Maruti Ciaz,17.0,Third Party insurance,Diesel,5,62000,First Owner,Manual,2017,28.0,1248.0,1248.0,885.0,7.1
+Hyundai i10,14.0,Third Party insurance,Petrol,5,49000,First Owner,Manual,2014,1197.0,789.0,789.0,1117.0,4.4
+Maruti Ciaz,17.0,Comprehensive,Petrol,5,76792,First Owner,Manual,2016,20.0,1373.0,1373.0,911.0,6.37
+Honda Brio,14.0,Comprehensive,Petrol,5,34445,First Owner,Manual,2014,19.0,1198.0,1198.0,868.0,4.24
+Hyundai i10,12.0,Comprehensive,Petrol,5,64000,First Owner,Manual,2012,1086.0,6805.0,6805.0,9904.0,3.2
+Maruti Swift,16.0,Third Party,Petrol,5,109405,First Owner,Manual,2016,22.0,1197.0,1197.0,8850.0,5.2
+Honda Jazz,15.0,Comprehensive,Petrol,5,118146,First Owner,Manual,2015,18.0,1199.0,1199.0,887.0,4.61
+Tata Punch,22.0,Comprehensive,Petrol,5,9000,First Owner,Automatic,2022,18.0,1199.0,1199.0,8663.0,8.75
+Hyundai Grand,17.0,Zero Dep,Petrol,5,41339,Second Owner,Automatic,2017,18.0,1197.0,1197.0,8186.0,5.87
+BMW 2,22.0,Comprehensive,Petrol,5,22000,Second Owner,Automatic,2022,14.0,1998.0,1998.0,18908.0,33.5
+Honda WR-V,18.0,Comprehensive,Petrol,5,62607,First Owner,Manual,2017,17.0,1199.0,1199.0,887.0,7.21
+Maruti Baleno,20.0,Zero Dep,Petrol,5,52794,First Owner,Manual,2020,21.0,1197.0,1197.0,8180.0,6.77
+Mercedes-Benz E-Class,22.0,Comprehensive,Petrol,5,10000,First Owner,Automatic,2022,15.0,1991.0,1991.0,19444.0,67.5
+Renault Triber,22.0,Third Party,Petrol,7,33864,First Owner,Manual,2022,20.0,999.0,999.0,7101.0,5.86
+Hyundai Elantra,12.0,Third Party insurance,Diesel,5,73000,Second Owner,Automatic,2012,19.0,1582.0,1582.0,12624.0,4.25
+Maruti Baleno,17.0,Third Party,Petrol,5,70000,First Owner,Manual,2017,21.0,1197.0,1197.0,8180.0,4.75
+Honda BR-V,17.0,Comprehensive,Diesel,7,67754,Second Owner,Manual,2017,21.0,1498.0,1498.0,986.0,6.15
+Maruti Wagon,,Third Party insurance,Petrol,5,60000,998 cc,2011,Power Steering,998.0,671.0,671.0,90.0,1.7
+Nissan Micra,10.0,Comprehensive,Petrol,5,69000,First Owner,Manual,2010,18.0,1198.0,1198.0,75.0,2.5
+Mahindra XUV500,19.0,Third Party insurance,Diesel,7,78000,First Owner,Manual,2018,15.0,2179.0,2179.0,15287.0,10.25
+Maruti Alto,,Third Party insurance,Petrol,5,70000,Third Owner,Manual,2009,796.0,463.0,463.0,62.0,1.4
+Maruti Ertiga,17.0,Third Party insurance,Diesel,7,83000,First Owner,Manual,2017,24.0,1248.0,1248.0,885.0,7.8
+Hyundai Grand,20.0,Comprehensive,Petrol,5,17778,First Owner,Automatic,2020,20.0,1197.0,1197.0,8186.0,7.04
+Hyundai Grand,21.0,Third Party,Petrol,5,16499,First Owner,Automatic,2021,20.0,1197.0,1197.0,8186.0,7.14
+Renault Scala,,Third Party insurance,Diesel,5,120000,First Owner,Manual,2012,21.0,1461.0,1461.0,848.0,2.25
+Honda Jazz,16.0,Comprehensive,Petrol,5,33364,First Owner,Manual,2016,18.0,1199.0,1199.0,887.0,4.79
+Hyundai Grand,16.0,Comprehensive,Petrol,5,64784,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,4.26
+Mercedes-Benz E-Class,14.0,Comprehensive,Petrol,5,59000,First Owner,Automatic,2014,12.0,1991.0,1991.0,184.0,19.9
+Hyundai i10,14.0,Third Party,Petrol,5,29584,First Owner,Manual,2014,1086.0,6805.0,6805.0,9904.0,3.7
+Nissan Sunny,,Third Party insurance,Petrol,5,80000,Third Owner,Manual,2013,16.0,1498.0,1498.0,977.0,3.0
+Honda City,11.0,Third Party,Petrol,5,87217,First Owner,Manual,2011,17.0,1497.0,1497.0,1186600.0,3.73
+Tata Tiago,18.0,Third Party,Petrol,5,77482,Second Owner,Manual,2017,23.0,1199.0,1199.0,84.0,3.99
+Honda Jazz,18.0,Comprehensive,Petrol,5,60000,First Owner,Automatic,2018,19.0,1199.0,1199.0,887.0,6.25
+Tata Tiago,20.0,Third Party insurance,Petrol,5,34312,First Owner,Manual,2020,20.0,1199.0,1199.0,8482.0,5.57
+Tata Tiago,21.0,Third Party,Petrol,5,53000,First Owner,Automatic,2021,19.0,1199.0,1199.0,8482.0,6.5
+Honda Amaze,17.0,Comprehensive,Petrol,5,45000,First Owner,Automatic,2017,18.0,1199.0,1199.0,887.0,5.75
+Honda Amaze,19.0,Comprehensive,Petrol,5,23000,First Owner,Manual,2019,17.0,1198.0,1198.0,867.0,6.9
+Maruti Swift,15.0,Comprehensive,Petrol,5,80001,First Owner,Manual,2015,21.0,1197.0,1197.0,8180.0,4.9
+Maruti Swift,15.0,Comprehensive,Diesel,5,62000,First Owner,Manual,2015,28.0,1248.0,1248.0,7402.0,5.5
+Ford Ecosport,20.0,Third Party insurance,Petrol,5,57000,First Owner,Automatic,2020,14.0,1497.0,1497.0,12136.0,8.5
+Honda Brio,15.0,Comprehensive,Petrol,5,21000,First Owner,Manual,2015,19.0,1198.0,1198.0,868.0,3.9
+Maruti Swift,13.0,Third Party,Petrol,5,43415,First Owner,Manual,2013,22.0,1197.0,1197.0,8850.0,4.08
+Hyundai i20,17.0,Third Party,Diesel,5,24412,First Owner,Manual,2017,22.0,1396.0,1396.0,8873.0,7.58
+Kia Carnival,21.0,Zero Dep,Diesel,7,45000,First Owner,Automatic,2021,14.0,2199.0,2199.0,1972.0,25.9
+Hyundai Grand,15.0,Third Party,Petrol,5,24020,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.8
+Maruti Swift,18.0,Third Party insurance,Petrol,5,70251,Second Owner,Manual,2018,21.0,1197.0,1197.0,8180.0,5.33
+Honda City,18.0,Comprehensive,Petrol,5,44000,First Owner,Automatic,2018,18.0,1498.0,1498.0,11935.0,9.9
+Maruti Alto,21.0,Comprehensive,CNG,4,86212,First Owner,Manual,2021,796.0,4036.0,4036.0,60.0,4.2
+Hyundai Verna,18.0,Third Party insurance,Petrol,5,64000,First Owner,Automatic,2018,17.0,1591.0,1591.0,1213.0,9.5
+Hyundai Grand,15.0,Third Party insurance,Petrol,5,39458,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.65
+Maruti Swift,13.0,Third Party insurance,Diesel,5,70598,First Owner,Manual,2012,22.0,1248.0,1248.0,74.0,3.56
+Honda Amaze,17.0,Comprehensive,Petrol,5,94000,First Owner,Manual,2017,17.0,1198.0,1198.0,867.0,4.75
+Hyundai Grand,16.0,Third Party insurance,Petrol,5,48325,First Owner,Manual,2016,1197.0,82.0,82.0,114.0,4.3
+Toyota Corolla,16.0,Comprehensive,Petrol,5,66000,Second Owner,Automatic,2016,14.0,1798.0,1798.0,13803.0,6.5
+Honda City,15.0,Comprehensive,Diesel,5,86001,First Owner,Manual,2015,26.0,1498.0,1498.0,986.0,5.75
+Toyota Corolla,14.0,Comprehensive,Petrol,5,62000,First Owner,Automatic,2014,14.0,1798.0,1798.0,13803.0,6.9
+Hyundai Verna,16.0,Comprehensive,Petrol,5,50000,First Owner,Manual,2016,17.0,1396.0,1396.0,1055.0,6.25
+Hyundai Creta,16.0,Comprehensive,Diesel,5,79000,First Owner,Manual,2016,20.0,1582.0,1582.0,1262.0,9.25
+Maruti Swift,17.0,Comprehensive,Diesel,5,74002,First Owner,Automatic,2017,28.0,1248.0,1248.0,7402.0,6.75
+Mercedes-Benz S-Class,14.0,Comprehensive,Petrol,5,74000,First Owner,Automatic,2014,7.0,5461.0,5461.0,3629.0,52.9
+Hyundai Verna,15.0,Third Party,Diesel,5,65000,Second Owner,Manual,2015,23.0,1582.0,1582.0,12632.0,5.9
+Hyundai i20,21.0,Comprehensive,Petrol,5,39718,Second Owner,Manual,2021,21.0,1197.0,1197.0,8180.0,7.58
+Hyundai Grand,17.0,Third Party,Petrol,5,67529,First Owner,Manual,2016,1197.0,82.0,82.0,114.0,4.5
+Audi Q7,,Third Party insurance,Diesel,7,110000,Second Owner,Automatic,2016,14.0,2967.0,2967.0,245.0,40.0
+Maruti Baleno,17.0,Third Party insurance,Petrol,5,88281,First Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.01
+Hyundai Grand,16.0,Third Party,Petrol,5,64160,Second Owner,Manual,2016,1197.0,82.0,82.0,114.0,4.12
+Hyundai Tucson,18.0,Comprehensive,Diesel,5,88000,First Owner,Automatic,2018,16.0,1995.0,1995.0,18246.0,15.5
+Maruti Swift,17.0,Zero Dep,Petrol,5,77253,First Owner,Manual,2017,22.0,1197.0,1197.0,8850.0,4.91
+Audi A4,13.0,Comprehensive,Diesel,5,72000,First Owner,Automatic,2013,16.0,1968.0,1968.0,14751.0,11.9
+Honda City,12.0,Comprehensive,Petrol,5,102614,First Owner,Manual,2012,16.0,1497.0,1497.0,1164.0,4.01
+Honda City,17.0,Comprehensive,Petrol,5,78911,Second Owner,Manual,2017,17.0,1497.0,1497.0,1173.0,6.37
+BMW X5,15.0,Comprehensive,Diesel,5,99000,First Owner,Automatic,2015,15.0,2993.0,2993.0,258.0,28.9
+Hyundai Grand,17.0,Third Party,Petrol,5,47975,Second Owner,Manual,2017,18.0,1197.0,1197.0,8186.0,4.96
+Mercedes-Benz C-Class,18.0,Comprehensive,Diesel,5,56000,First Owner,Automatic,2018,19.0,2143.0,2143.0,16762.0,29.5
+Mercedes-Benz GL-Class,,Third Party insurance,Diesel,7,121000,First Owner,Automatic,2014,11.0,2987.0,2987.0,2548.0,35.0
+Mercedes-Benz M-Class,15.0,Comprehensive,Diesel,5,78000,First Owner,Automatic,2015,15.0,2143.0,2143.0,2032.0,23.9
+BMW X6,15.0,Comprehensive,Diesel,5,75000,Second Owner,Automatic,2015,15.0,2993.0,2993.0,30843.0,32.9
+Land Rover,20.0,Comprehensive,Diesel,5,44000,First Owner,Automatic,2020,1999.0,2454.0,2454.0,430.0,53.5
+Maruti Celerio,19.0,Comprehensive,Petrol,5,42000,First Owner,Automatic,2019,23.0,998.0,998.0,6704.0,4.5
+Maruti Ciaz,,Third Party insurance,Diesel,5,32141,1248 cc,2017,Power Steering,1248.0,885.0,885.0,200.0,6.0
+Maruti Baleno,,Third Party insurance,Petrol,5,60000,Third Owner,Automatic,2018,21.0,1197.0,1197.0,831.0,5.1
+Hyundai Grand,15.0,Third Party insurance,Petrol,5,64657,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.02
+Honda Jazz,18.0,Comprehensive,Petrol,5,100657,First Owner,Automatic,2018,19.0,1199.0,1199.0,887.0,5.67
+Hyundai Creta,18.0,Comprehensive,Petrol,5,32000,First Owner,Automatic,2018,13.0,1591.0,1591.0,1213.0,10.9
+Honda Brio,12.0,Third Party,Petrol,5,50570,First Owner,Manual,2012,19.0,1198.0,1198.0,868.0,2.8
+Hyundai Grand,16.0,Third Party,Petrol,5,42392,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,5.13
+Ford Ecosport,14.0,Third Party insurance,Diesel,5,78000,Second Owner,Manual,2014,22.0,1498.0,1498.0,8984.0,3.75
+Hyundai Grand,16.0,Third Party,Petrol,5,62155,First Owner,Manual,2015,1197.0,82.0,82.0,114.0,4.19
+Maruti SX4,,Third Party insurance,Petrol,5,100000,Second Owner,Manual,2007,15.0,1586.0,1586.0,10468.0,1.55
+Hyundai i20,16.0,Comprehensive,Diesel,5,94822,Third Owner,Manual,2016,22.0,1396.0,1396.0,8873.0,5.43
+Hyundai EON,16.0,Third Party insurance,Petrol,5,59422,First Owner,Manual,2016,814.0,552.0,552.0,745.0,2.91
+Kia Seltos,20.0,Comprehensive,Petrol,5,82000,First Owner,Automatic,2020,1497.0,11343.0,11343.0,144.0,13.9
+Hyundai Verna,18.0,Third Party,Petrol,5,70727,Second Owner,Automatic,2017,17.0,1591.0,1591.0,1213.0,9.12
+Kia Seltos,20.0,Comprehensive,Petrol,5,79000,First Owner,Automatic,2020,1497.0,11343.0,11343.0,144.0,12.9
+Renault Duster,,Third Party insurance,Diesel,5,120000,Second Owner,Manual,2014,19.0,1461.0,1461.0,10845.0,3.45
+Renault Scala,,Third Party insurance,Diesel,5,120000,First Owner,Manual,2012,21.0,1461.0,1461.0,848.0,2.25
+Hyundai Elantra,,Third Party insurance,Diesel,5,120000,Third Owner,Manual,2013,22.0,1582.0,1582.0,12624.0,4.0
+Mahindra TUV,16.0,Comprehensive,Diesel,7,70000,First Owner,Automatic,2016,18.0,1493.0,1493.0,100.0,6.15
+BMW X1,17.0,Comprehensive,Diesel,5,61000,First Owner,Automatic,2017,20.0,1995.0,1995.0,188.0,19.75
+Honda Amaze,14.0,Comprehensive,Petrol,5,92000,First Owner,Manual,2014,18.0,1198.0,1198.0,867.0,3.6
+Honda BR-V,16.0,Third Party insurance,Petrol,7,58857,First Owner,Manual,2016,15.0,1497.0,1497.0,1173.0,6.5
+Maruti Wagon,16.0,Comprehensive,Petrol,5,68237,First Owner,Manual,2016,20.0,998.0,998.0,6704.0,3.89
+Maruti Baleno,21.0,Zero Dep,Petrol,5,31237,First Owner,Manual,2021,21.0,1197.0,1197.0,8180.0,7.27
+Hyundai Xcent,17.0,Third Party insurance,Petrol,5,45000,First Owner,Manual,2017,20.0,1197.0,1197.0,8186.0,4.95
+Maruti Swift,12.0,Third Party,Diesel,5,93027,First Owner,Manual,2012,22.0,1248.0,1248.0,74.0,3.71
+Maruti Swift,14.0,Third Party,Diesel,5,122688,Second Owner,Manual,2014,23.0,1248.0,1248.0,74.0,4.22
+Honda Amaze,20.0,Comprehensive,Diesel,5,53000,First Owner,Manual,2020,25.0,1498.0,1498.0,986.0,6.75
+Maruti Celerio,19.0,Zero Dep,Petrol,5,60464,First Owner,Manual,2019,21.0,998.0,998.0,6705.0,4.6
+Nissan Magnite,,Third Party insurance,Petrol,5,10000,999 cc,2023,Power Steering,999.0,7102.0,7102.0,96.0,8.5
+Honda City,14.0,Third Party,Petrol,5,40171,First Owner,Manual,2014,17.0,1497.0,1497.0,1173.0,5.17
+Honda Amaze,19.0,Third Party,Petrol,5,122223,First Owner,Manual,2018,17.0,1198.0,1198.0,867.0,5.8
+Hyundai i10,10.0,Third Party insurance,Petrol,5,44000,First Owner,Manual,2010,1086.0,6805.0,6805.0,9904.0,2.4
+Hyundai Grand,15.0,Third Party,Petrol,5,77299,Second Owner,Automatic,2015,18.0,1197.0,1197.0,82.0,4.79
+Tata Harrier,19.0,Comprehensive,Diesel,5,39000,First Owner,Manual,2019,16.0,1956.0,1956.0,16767.0,13.95
+Jeep Compass,,Third Party insurance,Diesel,5,120000,Second Owner,Manual,2018,17.0,1956.0,1956.0,170.0,11.0
+MG Astor,22.0,Zero Dep,Petrol,5,29000,First Owner,Manual,2022,15.0,1498.0,1498.0,10849.0,12.9
+Honda Jazz,17.0,Comprehensive,Petrol,5,60000,First Owner,Manual,2017,18.0,1199.0,1199.0,887.0,4.75
+Hyundai i20,17.0,Comprehensive,Diesel,5,80000,First Owner,Manual,2017,22.0,1396.0,1396.0,8873.0,6.9
+Ford Ecosport,15.0,Comprehensive,Diesel,5,78000,First Owner,Manual,2015,21.0,1498.0,1498.0,9896.0,5.5
+Honda Amaze,16.0,Comprehensive,Diesel,5,58000,First Owner,Manual,2016,24.0,1498.0,1498.0,9789.0,5.5
+Hyundai Grand,15.0,Third Party insurance,Diesel,5,67000,First Owner,Manual,2015,1120.0,70.0,70.0,160.0,4.25
+Maruti Swift,14.0,Comprehensive,Petrol,5,44019,Second Owner,Manual,2014,18.0,1197.0,1197.0,858.0,3.15
+Maruti Celerio,21.0,Comprehensive,Petrol,5,11962,First Owner,Manual,2021,24.0,998.0,998.0,6571.0,5.69
+Maruti Alto,9.0,Comprehensive,Petrol,5,44002,Third Owner,Manual,2009,19.0,796.0,796.0,463.0,95000.0
+Maruti Alto,20.0,Comprehensive,Petrol,5,13066,First Owner,Manual,2020,22.0,796.0,796.0,4733.0,3.69
+Hyundai Grand,16.0,Comprehensive,Petrol,5,36015,First Owner,Manual,2016,18.0,1197.0,1197.0,82.0,3.61
+Hyundai i20,21.0,Third Party insurance,Petrol,5,14000,Second Owner,Automatic,2021,19.0,1197.0,1197.0,8676.0,6.99
+Maruti Wagon,20.0,Comprehensive,CNG,5,11880,First Owner,Manual,2020,998.0,5833.0,5833.0,78.0,4.74
+Hyundai i10,9.0,Comprehensive,Petrol,5,35000,Second Owner,Manual,2009,1086.0,6805.0,6805.0,9904.0,2.25
+Maruti Ertiga,15.0,Comprehensive,Diesel,7,65018,First Owner,Manual,2015,1248.0,8850.0,8850.0,200.0,4.75
+Maruti Alto,20.0,Comprehensive,Petrol,5,28061,First Owner,Manual,2020,22.0,796.0,796.0,4733.0,3.43
+Renault Duster,19.0,Third Party insurance,Petrol,5,40300,First Owner,Automatic,2019,13.0,1498.0,1498.0,105.0,6.5
+Maruti Alto,19.0,Comprehensive,Petrol,5,58231,First Owner,Manual,2019,23.0,998.0,998.0,6705.0,3.32
+Hyundai Grand,,Third Party insurance,Petrol,5,70000,1197 cc,2017,Power Steering,1197.0,8186.0,8186.0,11375.0,4.0
+Hyundai i20,21.0,Third Party insurance,Petrol,5,13000,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,8.9
+Maruti Alto,20.0,Comprehensive,Petrol,5,32997,First Owner,Manual,2020,22.0,796.0,796.0,4733.0,3.39
+Honda Jazz,15.0,Comprehensive,Petrol,5,41203,First Owner,Manual,2015,18.0,1199.0,1199.0,887.0,3.99
+Volkswagen Vento,,Third Party insurance,Diesel,5,90000,1498 cc,2015,Power Steering,1498.0,1032.0,1032.0,250.0,3.5
+Ford Aspire,19.0,Comprehensive,Petrol,5,6818,First Owner,Manual,2019,19.0,1194.0,1194.0,9493.0,5.4
+Honda City,16.0,Comprehensive,Diesel,5,44000,First Owner,Manual,2016,26.0,1498.0,1498.0,986.0,5.5
+Honda City,19.0,Third Party insurance,Diesel,5,29200,First Owner,Manual,2019,25.0,1498.0,1498.0,979.0,8.75
+Hyundai i10,11.0,Comprehensive,Petrol,5,16016,First Owner,Manual,2011,1086.0,6805.0,6805.0,9904.0,1.85
+Maruti S-Presso,20.0,Comprehensive,Petrol,5,26638,First Owner,Manual,2020,21.0,998.0,998.0,6571.0,4.19
+Honda City,16.0,Comprehensive,Diesel,5,44000,First Owner,Manual,2016,26.0,1498.0,1498.0,986.0,5.5
+Maruti Wagon,20.0,Comprehensive,CNG,5,18930,First Owner,Manual,2020,998.0,5833.0,5833.0,78.0,4.79
+Porsche Cayenne,19.0,Third Party insurance,Petrol,5,5700,First Owner,Automatic,2019,2995.0,340.0,340.0,450.0,1.05
+Honda City,19.0,Third Party insurance,Diesel,5,29200,First Owner,Manual,2019,25.0,1498.0,1498.0,979.0,8.75
+Maruti Wagon,19.0,Comprehensive,CNG,5,26580,First Owner,Manual,2019,998.0,5833.0,5833.0,78.0,4.49
+Honda BR-V,18.0,Comprehensive,Petrol,7,35000,First Owner,Manual,2018,15.0,1497.0,1497.0,1173.0,7.45
+Audi Q3,18.0,Comprehensive,Petrol,5,32000,First Owner,Automatic,2018,16.0,1395.0,1395.0,14751.0,21.0
+Hyundai Creta,19.0,Comprehensive,Diesel,5,68499,First Owner,Automatic,2019,17.0,1582.0,1582.0,1262.0,10.83
+Ford Ecosport,18.0,Comprehensive,Diesel,5,53750,First Owner,Manual,2018,23.0,1498.0,1498.0,9896.0,6.85
+Maruti Alto,19.0,Comprehensive,Petrol,5,48341,First Owner,Manual,2019,22.0,796.0,796.0,4733.0,3.03
+Lamborghini Urus,18.0,Third Party insurance,Petrol,5,25000,First Owner,Automatic,2018,3996.0,641.0,641.0,850.0,3.6
+Maruti Wagon,18.0,Comprehensive,Petrol,5,34260,First Owner,Manual,2018,21.0,1197.0,1197.0,8180.0,3.95
+Ford Ecosport,18.0,Comprehensive,Diesel,5,48380,Second Owner,Manual,2018,23.0,1498.0,1498.0,9896.0,5.83
+Hyundai Creta,18.0,Third Party insurance,Diesel,5,52000,First Owner,Manual,2018,19.0,1582.0,1582.0,1262.0,9.95
+Maruti Omni,16.0,Comprehensive,Petrol,8,23022,Second Owner,Manual,2016,796.0,342.0,342.0,59.0,2.25
+Maruti Alto,19.0,Comprehensive,Petrol,5,26610,First Owner,Manual,2019,23.0,998.0,998.0,6705.0,3.65
+Maruti Ertiga,18.0,Comprehensive,Diesel,7,66019,First Owner,Manual,2018,24.0,1498.0,1498.0,9387.0,7.75
+Maruti Alto,14.0,Comprehensive,Petrol,5,42320,First Owner,Manual,2014,998.0,671.0,671.0,90.0,2.29
+Maruti Wagon,20.0,Comprehensive,CNG,5,25484,First Owner,Manual,2020,998.0,5833.0,5833.0,78.0,4.77
+Maruti Zen,15.0,Comprehensive,Petrol,5,25171,First Owner,Manual,2013,998.0,671.0,671.0,90.0,2.22
+Hyundai i20,11.0,Comprehensive,Diesel,5,78006,Second Owner,Manual,2011,23.0,1396.0,1396.0,904000.0,2.55
+Nissan Micra,19.0,Comprehensive,Petrol,5,21607,First Owner,Automatic,2018,19.0,1198.0,1198.0,7594.0,4.7
+Kia Seltos,19.0,Comprehensive,Petrol,5,52162,First Owner,Automatic,2019,16.0,1353.0,1353.0,13808.0,11.92
+BMW 7,16.0,Comprehensive,Diesel,5,23435,First Owner,Automatic,2016,16.0,2993.0,2993.0,26149.0,45.0
+Skoda Kushaq,21.0,Comprehensive,Petrol,5,20336,First Owner,Manual,2021,19.0,999.0,999.0,11398.0,12.81
+Maruti SX4,18.0,Comprehensive,Diesel,5,68591,First Owner,Manual,2018,25.0,1248.0,1248.0,885.0,6.75
+Maruti Swift,14.0,Comprehensive,Diesel,5,65341,First Owner,Manual,2014,25.0,1248.0,1248.0,74.0,3.44
+Datsun RediGO,17.0,Comprehensive,Petrol,5,23329,First Owner,Manual,2017,22.0,999.0,999.0,67.0,2.72
+Honda City,15.0,Comprehensive,Diesel,5,84000,First Owner,Manual,2015,25.0,1498.0,1498.0,986.0,5.25
+Toyota Corolla,18.0,Comprehensive,Diesel,5,19000,First Owner,Manual,2018,21.0,1364.0,1364.0,8679.0,14.95
+Maruti Ritz,13.0,Comprehensive,Diesel,5,100500,Third Owner,Manual,2013,1248.0,7394.0,7394.0,190.0,2.45
+Ford Ecosport,19.0,Third Party insurance,Diesel,5,58500,First Owner,Manual,2019,23.0,1498.0,1498.0,9896.0,6.65
+Volvo S60,18.0,Comprehensive,Diesel,5,66455,First Owner,Automatic,2018,19.0,2400.0,2400.0,190.0,19.35
+Maruti Celerio,23.0,Comprehensive,Petrol,5,1229,First Owner,Manual,2023,24.0,998.0,998.0,6571.0,5.9
+Audi Q5,22.0,Third Party insurance,Petrol,5,12100,First Owner,Automatic,2022,245.0,370.0,370.0,19.0,50.0
+Kia Sonet,21.0,Comprehensive,Petrol,5,26597,First Owner,Automatic,2021,18.0,998.0,998.0,11835.0,9.25
+Maruti Swift,15.0,Comprehensive,Petrol,5,73616,First Owner,Manual,2015,22.0,1197.0,1197.0,8180.0,3.75
+Hyundai i20,12.0,Comprehensive,Petrol,5,53657,First Owner,Manual,2011,18.0,1197.0,1197.0,805200.0,2.63
+Hyundai EON,14.0,Comprehensive,Petrol,5,37016,First Owner,Manual,2014,814.0,552.0,552.0,745.0,2.05
+Honda Jazz,17.0,Comprehensive,Petrol,5,62466,First Owner,Manual,2017,18.0,1199.0,1199.0,887.0,3.9
+Hyundai Grand,21.0,Comprehensive,Petrol,5,20041,First Owner,Manual,2021,20.0,1197.0,1197.0,8186.0,6.19
+Maruti Swift,17.0,Comprehensive,Petrol,5,49000,First Owner,Manual,2017,21.0,1197.0,1197.0,8180.0,3.65
+Maruti Swift,14.0,Comprehensive,Petrol,5,44669,First Owner,Manual,2014,19.0,1197.0,1197.0,858.0,3.79
+Hyundai Grand,19.0,Comprehensive,Petrol,5,28500,First Owner,Automatic,2019,20.0,1197.0,1197.0,8186.0,5.45
+Maruti Wagon,14.0,Comprehensive,Petrol,5,19843,First Owner,Manual,2014,998.0,671.0,671.0,90.0,3.05
+Maruti Swift,14.0,Comprehensive,Petrol,5,44800,First Owner,Manual,2014,19.0,1197.0,1197.0,858.0,3.81
+Maruti Swift,16.0,Comprehensive,Petrol,5,44275,First Owner,Manual,2016,21.0,1197.0,1197.0,8180.0,3.75
+Maruti Swift,20.0,Comprehensive,Petrol,5,27012,First Owner,Manual,2020,21.0,1197.0,1197.0,8180.0,5.45
+Maruti Wagon,18.0,Comprehensive,Petrol,5,35629,First Owner,Automatic,2018,20.0,1197.0,1197.0,8180.0,4.25
+Maruti Alto,17.0,Comprehensive,Petrol,5,37009,First Owner,Manual,2017,23.0,998.0,998.0,6705.0,2.75
+Hyundai i10,11.0,Comprehensive,Petrol,5,28000,First Owner,Automatic,2011,16.0,1197.0,1197.0,789.0,2.7
+Hyundai i10,14.0,Comprehensive,Petrol,5,46022,First Owner,Manual,2014,19.0,1086.0,1086.0,6805.0,2.35
+Hyundai i10,,Third Party insurance,Petrol,5,100000,First Owner,Manual,2009,1086.0,6805.0,6805.0,9904.0,1.25
+Maruti Ertiga,18.0,Comprehensive,Petrol,7,22302,First Owner,Manual,2018,17.0,1373.0,1373.0,911.0,6.9
+Audi Q8,21.0,Third Party insurance,Petrol,5,17000,Second Owner,Automatic,2021,9.0,2995.0,2995.0,340.0,80.0
+Tata Harrier,23.0,Comprehensive,Diesel,5,7400,First Owner,Automatic,2023,14.0,1956.0,1956.0,16767.0,20.25
+Datsun RediGO,18.0,Comprehensive,Petrol,5,17024,Second Owner,Manual,2018,22.0,799.0,799.0,5364.0,2.72
+Toyota Etios,14.0,Comprehensive,Diesel,5,71649,First Owner,Manual,2014,23.0,1364.0,1364.0,6704.0,3.32
+Maruti Wagon,22.0,Comprehensive,Petrol,5,9016,First Owner,Manual,2022,998.0,6705.0,6705.0,90.0,5.05
+Toyota Etios,15.0,Comprehensive,Petrol,5,44999,First Owner,Manual,2015,16.0,1496.0,1496.0,8873.0,3.74
+Renault Duster,16.0,Comprehensive,Diesel,5,78106,First Owner,Manual,2016,19.0,1461.0,1461.0,838.0,5.1
+Hyundai EON,15.0,Comprehensive,Petrol,5,34016,First Owner,Manual,2015,814.0,552.0,552.0,745.0,2.15
+Maruti Swift,14.0,Comprehensive,Diesel,5,85692,First Owner,Manual,2014,25.0,1248.0,1248.0,74.0,3.47
+Tata Nexon,21.0,Third Party insurance,Petrol,5,6500,First Owner,Manual,2021,17.0,1199.0,1199.0,11835.0,7.98
+Hyundai Venue,21.0,Comprehensive,Petrol,5,35080,First Owner,Manual,2021,18.0,998.0,998.0,11835.0,8.99
+Volkswagen Polo,16.0,Comprehensive,Petrol,5,77727,First Owner,Manual,2016,16.0,1199.0,1199.0,74.0,3.77
+Hyundai i20,14.0,Comprehensive,Petrol,5,43000,First Owner,Manual,2014,18.0,1197.0,1197.0,8285.0,3.49
+Hyundai Grand,19.0,Comprehensive,Petrol,5,30000,First Owner,Manual,2019,18.0,1197.0,1197.0,8186.0,4.25
+Mahindra NuvoSport,16.0,Comprehensive,Diesel,7,42364,First Owner,Manual,2016,17.0,1493.0,1493.0,100.0,4.5
+Honda Brio,15.0,Comprehensive,Petrol,5,7000,Second Owner,Automatic,2015,16.0,1198.0,1198.0,868.0,4.95
+Honda Jazz,16.0,Comprehensive,Petrol,5,54000,First Owner,Manual,2016,18.0,1199.0,1199.0,887.0,3.95
+Maruti Swift,9.0,Comprehensive,Petrol,5,45000,First Owner,Manual,2009,17.0,1298.0,1298.0,858.0,2.25
+Maruti Swift,13.0,Comprehensive,Petrol,5,44018,First Owner,Manual,2013,19.0,1197.0,1197.0,858.0,3.45
+Honda Civic,20.0,Third Party insurance,Petrol,5,18500,First Owner,Automatic,2020,16.0,1799.0,1799.0,13946.0,12.9
+Hyundai Santro,11.0,Comprehensive,Petrol,5,43002,First Owner,Manual,2011,17.0,1086.0,1086.0,621.0,1.75
+Mercedes-Benz GLC,20.0,Third Party insurance,Petrol,5,13200,First Owner,Automatic,2020,12.0,1991.0,1991.0,197.0,50.0
+Renault KWID,19.0,Comprehensive,Petrol,5,69381,First Owner,Manual,2019,23.0,999.0,999.0,67.0,3.27
+Hyundai Creta,15.0,Comprehensive,Diesel,5,64275,First Owner,Manual,2015,19.0,1582.0,1582.0,1262.0,6.28
+Mahindra Thar,21.0,Comprehensive,Petrol,4,7421,First Owner,Automatic,2021,15.0,1997.0,1997.0,150.0,12.49
+Honda City,21.0,Comprehensive,Petrol,5,5252,First Owner,Automatic,2021,18.0,1498.0,1498.0,11935.0,12.07
+Toyota Etios,15.0,Comprehensive,Petrol,5,63663,First Owner,Manual,2014,16.0,1496.0,1496.0,8873.0,3.41
+Honda City,15.0,Comprehensive,Petrol,5,60545,First Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,5.55
+Honda Amaze,16.0,Comprehensive,Petrol,5,85602,First Owner,Manual,2016,17.0,1198.0,1198.0,867.0,3.33
+Toyota Fortuner,19.0,Comprehensive,Diesel,7,35902,First Owner,Automatic,2019,15.0,2755.0,2755.0,1745.0,28.0
+Hyundai Creta,18.0,Comprehensive,Petrol,5,87172,First Owner,Manual,2018,15.0,1591.0,1591.0,1213.0,7.88
+Volkswagen Polo,14.0,Comprehensive,Petrol,5,52950,Second Owner,Manual,2014,16.0,1198.0,1198.0,739.0,3.72
+Hyundai Verna,16.0,Comprehensive,Petrol,5,42005,First Owner,Manual,2016,17.0,1591.0,1591.0,1213.0,4.71
+Hyundai Creta,18.0,Comprehensive,Petrol,5,64000,First Owner,Manual,2018,15.0,1591.0,1591.0,1213.0,8.25
+Hyundai Verna,19.0,Comprehensive,Petrol,5,32000,First Owner,Manual,2019,17.0,1591.0,1591.0,1213.0,8.25
+Hyundai Creta,18.0,Comprehensive,Petrol,5,65000,First Owner,Manual,2018,15.0,1591.0,1591.0,1213.0,8.5
+Hyundai Elantra,18.0,Comprehensive,Petrol,5,21000,First Owner,Manual,2018,14.0,1999.0,1999.0,14992.0,8.85
+Toyota Corolla,16.0,Comprehensive,Petrol,5,39450,First Owner,Automatic,2016,14.0,1798.0,1798.0,13803.0,8.15
+Hyundai Elantra,19.0,Comprehensive,Petrol,5,32000,First Owner,Manual,2017,14.0,1999.0,1999.0,14992.0,8.85
+Honda WR-V,18.0,Comprehensive,Petrol,5,60314,First Owner,Manual,2018,17.0,1199.0,1199.0,887.0,5.75
+Hyundai Verna,18.0,Comprehensive,Petrol,5,4000,First Owner,Manual,2018,19.0,1368.0,1368.0,986.0,7.49
+Maruti Ciaz,17.0,Comprehensive,Diesel,5,65000,First Owner,Automatic,2017,28.0,1248.0,1248.0,8850.0,5.25
+Hyundai Creta,15.0,Comprehensive,Diesel,5,78019,First Owner,Manual,2015,19.0,1582.0,1582.0,1262.0,6.39
+Renault Duster,20.0,Comprehensive,Petrol,5,42970,First Owner,Manual,2020,16.0,1498.0,1498.0,10455.0,7.64
+Toyota Innova,10.0,Comprehensive,Diesel,7,176000,First Owner,Manual,2010,12.0,2494.0,2494.0,102.0,4.4
+Maruti Wagon,19.0,Comprehensive,Petrol,5,24100,First Owner,Manual,2019,20.0,1197.0,1197.0,8180.0,4.74
+Maruti Baleno,15.0,Comprehensive,Petrol,5,51123,First Owner,Manual,2015,21.0,1197.0,1197.0,831.0,4.71
+Skoda Octavia,16.0,Comprehensive,Petrol,5,66000,First Owner,Manual,2016,16.0,1395.0,1395.0,13802.0,5.95
+Maruti Baleno,16.0,Comprehensive,Diesel,5,48405,First Owner,Manual,2015,27.0,1248.0,1248.0,74.0,4.98
+Audi A6,13.0,Comprehensive,Diesel,5,52305,First Owner,Automatic,2013,17.0,1968.0,1968.0,17433.0,10.75
+Hyundai Grand,15.0,Comprehensive,Diesel,5,46488,Second Owner,Manual,2015,24.0,1120.0,1120.0,70.0,3.71
+Hyundai i20,19.0,Comprehensive,Diesel,5,71842,First Owner,Manual,2018,22.0,1396.0,1396.0,8876.0,5.29
+Honda City,14.0,Comprehensive,Diesel,5,91000,Third Owner,Manual,2014,26.0,1498.0,1498.0,986.0,3.95
+Hyundai i20,13.0,Comprehensive,Diesel,5,51334,First Owner,Manual,2013,21.0,1396.0,1396.0,8876.0,2.8
+Toyota Fortuner,16.0,Comprehensive,Diesel,7,72560,First Owner,Automatic,2016,12.0,2755.0,2755.0,1745.0,16.7
+Hyundai Santro,18.0,Comprehensive,Petrol,5,68000,First Owner,Manual,2018,20.0,1086.0,1086.0,68.0,3.85
+Maruti Swift,14.0,Comprehensive,Petrol,5,45000,First Owner,Manual,2014,22.0,1197.0,1197.0,8850.0,3.6
+Mitsubishi Cedia,13.0,Comprehensive,Petrol,5,44000,First Owner,Manual,2013,13.0,1999.0,1999.0,114.0,3.95
+Skoda Superb,16.0,Comprehensive,Petrol,5,47000,First Owner,Automatic,2016,14.0,1798.0,1798.0,17746.0,10.95
+Toyota Fortuner,16.0,Comprehensive,Diesel,7,92044,First Owner,Automatic,2016,12.0,2982.0,2982.0,1685.0,16.5
+Audi Q7,,Third Party insurance,Diesel,7,40000,First Owner,Automatic,2018,14.0,2967.0,2967.0,245.0,46.0
+Honda City,15.0,Comprehensive,Petrol,5,60545,First Owner,Manual,2015,17.0,1497.0,1497.0,1173.0,5.5
+Maruti Ritz,14.0,Comprehensive,Diesel,5,79097,First Owner,Manual,2014,1248.0,7394.0,7394.0,190.0,3.29
+Maruti Swift,14.0,Comprehensive,Petrol,5,68619,Second Owner,Manual,2013,19.0,1197.0,1197.0,858.0,3.44
+Audi Q5,14.0,Comprehensive,Diesel,5,34452,First Owner,Automatic,2014,14.0,1968.0,1968.0,1743.0,16.75
+Hyundai Grand,17.0,Comprehensive,Diesel,5,40326,First Owner,Manual,2017,24.0,1186.0,1186.0,7397.0,5.22
+Datsun GO,19.0,Comprehensive,Petrol,5,40021,First Owner,Manual,2019,19.0,1198.0,1198.0,6705.0,3.92
+Maruti Wagon,19.0,Comprehensive,Petrol,5,44000,First Owner,Manual,2019,998.0,6705.0,6705.0,90.0,3.99
+Maruti Wagon,20.0,Third Party,Petrol,5,7962,First Owner,Manual,2019,20.0,1197.0,1197.0,8180.0,4.89
+Toyota Innova,12.0,Comprehensive,Diesel,7,260000,First Owner,Manual,2012,12.0,2494.0,2494.0,102.0,6.25
+Nissan Micra,18.0,Comprehensive,Petrol,5,44508,First Owner,Manual,2018,19.0,1198.0,1198.0,6704.0,3.38
+Hyundai Elantra,14.0,Comprehensive,Petrol,5,58958,First Owner,Automatic,2014,14.0,1797.0,1797.0,1475.0,5.25
+Maruti Ignis,18.0,Third Party insurance,Petrol,5,44000,Second Owner,Manual,2018,20.0,1197.0,1197.0,8180.0,4.65
+Toyota Urban,22.0,Comprehensive,Petrol,5,48188,First Owner,Manual,2022,17.0,1462.0,1462.0,10326.0,8.25
+Hyundai i10,9.0,Comprehensive,Petrol,5,55000,First Owner,Manual,2009,20.0,1197.0,1197.0,789.0,1.51
+Hyundai Grand,13.0,Comprehensive,Petrol,5,24268,First Owner,Manual,2013,1197.0,82.0,82.0,114.0,2.85
+Hyundai Creta,19.0,Comprehensive,Diesel,5,23000,First Owner,Automatic,2019,17.0,1582.0,1582.0,1262.0,10.5
+MG Hector,20.0,Comprehensive,Petrol,5,38502,First Owner,Automatic,2020,13.0,1451.0,1451.0,141.0,13.75
+Hyundai Creta,17.0,Comprehensive,Diesel,5,35000,First Owner,Manual,2017,19.0,1582.0,1582.0,1262.0,7.5
+Kia Seltos,20.0,Comprehensive,Petrol,5,43487,First Owner,Manual,2020,16.0,1353.0,1353.0,13808.0,13.5
+Maruti Vitara,18.0,Comprehensive,Diesel,5,32000,First Owner,Automatic,2018,24.0,1248.0,1248.0,885.0,7.5
+Mercedes-Benz GLA,19.0,Third Party insurance,Diesel,5,14400,First Owner,Automatic,2019,17.0,2143.0,2143.0,136.0,24.0
+Volkswagen Polo,17.0,Comprehensive,Petrol,5,62920,First Owner,Manual,2017,1198.0,74.0,74.0,110.0,5.27
+Maruti A-Star,12.0,Comprehensive,Petrol,5,60467,First Owner,Manual,2012,19.0,998.0,998.0,661.0,2.8
+Hyundai i10,14.0,Comprehensive,Petrol,5,65017,Second Owner,Manual,2014,19.0,1086.0,1086.0,6805.0,2.25
+Maruti Swift,17.0,Comprehensive,Petrol,5,38015,First Owner,Manual,2017,21.0,1197.0,1197.0,8180.0,5.47
+Toyota Etios,17.0,Comprehensive,Petrol,5,49134,First Owner,Manual,2017,17.0,1197.0,1197.0,789.0,4.42
+Maruti Wagon,16.0,Comprehensive,Petrol,5,37100,Second Owner,Automatic,2016,21.0,998.0,998.0,6705.0,3.1
+Hyundai i20,21.0,Comprehensive,Petrol,5,69977,First Owner,Automatic,2021,20.0,998.0,998.0,11841.0,8.69
+Nissan Micra,17.0,Comprehensive,Petrol,5,16937,First Owner,Automatic,2017,19.0,1198.0,1198.0,7594.0,3.25
+Mahindra XUV500,18.0,Comprehensive,Diesel,7,51441,First Owner,Manual,2018,15.0,2179.0,2179.0,15287.0,10.71
+Maruti Swift,17.0,Comprehensive,Petrol,5,53947,First Owner,Automatic,2017,21.0,1197.0,1197.0,8180.0,5.62
+Kia Seltos,20.0,Comprehensive,Petrol,5,30000,First Owner,Manual,2020,16.0,1353.0,1353.0,13808.0,13.2
+Hyundai i20,15.0,Third Party,Petrol,5,40909,First Owner,Manual,2015,18.0,1197.0,1197.0,8183.0,4.35
+Mahindra TUV,19.0,Comprehensive,Diesel,7,70000,First Owner,Manual,2019,18.0,1493.0,1493.0,100.0,5.75
+Maruti Swift,11.0,Comprehensive,Petrol,5,69000,Second Owner,Manual,2011,17.0,1197.0,1197.0,858.0,2.25
+Honda Jazz,17.0,Comprehensive,Petrol,5,28662,First Owner,Manual,2017,18.0,1199.0,1199.0,887.0,3.85
+Tata Harrier,21.0,Comprehensive,Diesel,5,46912,First Owner,Automatic,2021,14.0,1956.0,1956.0,16767.0,16.25
+Audi Q3,,Third Party insurance,Petrol,5,90000,1984 cc,2014,Power Steering,1984.0,207.0,207.0,300.0,8.0
+Volkswagen Vento,13.0,Comprehensive,Petrol,5,65000,First Owner,Manual,2013,15.0,1598.0,1598.0,1036.0,2.5
+Mercedes-Benz C-Class,13.0,Comprehensive,Diesel,5,40238,First Owner,Automatic,2013,19.0,2143.0,2143.0,170.0,12.5
+Volkswagen Ameo,20.0,Comprehensive,Diesel,5,52000,First Owner,Manual,2020,21.0,1498.0,1498.0,10862.0,4.45
+Hyundai Santro,21.0,Comprehensive,Petrol,5,22873,First Owner,Manual,2021,20.0,1086.0,1086.0,6805.0,4.73
+Maruti A-Star,12.0,Comprehensive,Petrol,5,77389,First Owner,Manual,2012,19.0,998.0,998.0,661.0,2.27
+Maruti Swift,18.0,Comprehensive,Petrol,5,32000,First Owner,Manual,2018,22.0,1197.0,1197.0,8180.0,5.3
+Skoda Rapid,16.0,Comprehensive,Diesel,5,88935,First Owner,Automatic,2016,21.0,1498.0,1498.0,10352.0,4.85
+Nissan Micra,18.0,Comprehensive,Petrol,5,53681,Second Owner,Manual,2018,19.0,1198.0,1198.0,6704.0,3.04
+Mahindra Bolero,18.0,Third Party insurance,Diesel,7,60000,First Owner,Manual,2018,15.0,2523.0,2523.0,621.0,5.65
+Hyundai i20,15.0,Comprehensive,Diesel,5,49441,First Owner,Manual,2015,21.0,1396.0,1396.0,8873.0,4.89
+Toyota Innova,19.0,Comprehensive,Diesel,7,41000,First Owner,Manual,2019,13.0,2393.0,2393.0,1478.0,16.95
+Maruti Ciaz,21.0,Comprehensive,Petrol,5,23838,First Owner,Manual,2021,20.0,1462.0,1462.0,10325.0,8.85
+Skoda Octavia,21.0,Comprehensive,Diesel,5,26719,First Owner,Manual,2021,16.0,1896.0,1896.0,90.0,7.89
+Mercedes-Benz GLS,20.0,Comprehensive,Diesel,7,34987,First Owner,Automatic,2020,2925.0,3258640000000.0,3258640000000.0,700.0,1.1
+Mahindra TUV,17.0,Comprehensive,Diesel,7,27236,Second Owner,Manual,2017,18.0,1493.0,1493.0,100.0,6.5
+Honda City,15.0,Comprehensive,Diesel,5,41080,First Owner,Manual,2015,25.0,1498.0,1498.0,986.0,5.9
+Toyota Etios,16.0,Comprehensive,Diesel,5,72793,First Owner,Manual,2016,23.0,1364.0,1364.0,6704.0,4.55
+Hyundai i10,14.0,Comprehensive,Petrol,5,64000,Third Owner,Manual,2014,20.0,1197.0,1197.0,789.0,2.35
+Jaguar F-Pace,,Third Party insurance,Diesel,5,30000,First Owner,Automatic,2020,16.0,1999.0,1999.0,177.0,39.0
+Maruti Ignis,17.0,Comprehensive,Petrol,5,32002,First Owner,Manual,2017,20.0,1197.0,1197.0,8180.0,4.41
+Renault Duster,18.0,Comprehensive,Diesel,5,105000,First Owner,Manual,2018,19.0,1461.0,1461.0,838.0,5.25
+BMW 3,,Third Party insurance,Diesel,5,30000,First Owner,Automatic,2017,22.0,1995.0,1995.0,190.0,16.0
+Maruti Wagon,20.0,Comprehensive,Petrol,5,20827,First Owner,Manual,2020,20.0,1197.0,1197.0,8180.0,4.6
+Mahindra Bolero,17.0,Third Party insurance,Diesel,7,37852,Second Owner,Manual,2017,16.0,1493.0,1493.0,70.0,6.75
+Tata Harrier,22.0,Comprehensive,Diesel,5,16683,First Owner,Automatic,2022,14.0,1956.0,1956.0,16767.0,19.24
+Hyundai i10,11.0,Comprehensive,Petrol,5,53135,First Owner,Manual,2011,1197.0,789.0,789.0,1117.0,1.8
+Hyundai Grand,17.0,Comprehensive,Petrol,5,32230,First Owner,Manual,2017,18.0,1197.0,1197.0,8186.0,5.13
+BMW 5,22.0,Comprehensive,Diesel,5,11000,First Owner,Automatic,2022,20.0,1995.0,1995.0,18774.0,69.5
+Volkswagen Taigun,22.0,Comprehensive,Petrol,5,10400,First Owner,Automatic,2022,18.0,999.0,999.0,11398.0,16.35
+Hyundai Grand,22.0,Comprehensive,Petrol,5,23748,First Owner,Manual,2022,20.0,1197.0,1197.0,8186.0,6.55
+Honda Amaze,18.0,Comprehensive,Petrol,5,13513,First Owner,Automatic,2018,18.0,1199.0,1199.0,8876.0,7.65
+Tata Nexon,22.0,Third Party,Petrol,5,12952,First Owner,Automatic,2022,17.0,1199.0,1199.0,11835.0,10.99
+Hyundai Grand,14.0,Comprehensive,Petrol,5,22672,First Owner,Manual,2014,18.0,1197.0,1197.0,82.0,3.84
+Maruti Wagon,12.0,Comprehensive,Petrol,5,23000,First Owner,Manual,2012,18.0,998.0,998.0,671.0,2.9
+Hyundai i20,17.0,Comprehensive,Petrol,5,41048,First Owner,Manual,2017,18.0,1197.0,1197.0,8183.0,5.48
+Isuzu MU-X,,Third Party insurance,Diesel,7,40000,2999 cc,2018,Power Steering,2999.0,17457.0,17457.0,380.0,21.0
+BMW 5,21.0,Comprehensive,Diesel,5,10000,First Owner,Automatic,2021,20.0,1995.0,1995.0,18774.0,58.75
+Hyundai i10,13.0,Comprehensive,Petrol,5,1800,First Owner,Manual,2013,20.0,1197.0,1197.0,789.0,3.15
+Jeep Compass,19.0,Comprehensive,Petrol,5,34000,First Owner,Automatic,2019,16.0,1368.0,1368.0,16077.0,17.5
+Maruti Baleno,,Third Party insurance,Petrol,5,40000,First Owner,Manual,2016,21.0,1197.0,1197.0,831.0,4.7
+Toyota Urban,21.0,Zero Dep,Petrol,5,30000,First Owner,Automatic,2021,18.0,1462.0,1462.0,10326.0,11.4
+Hyundai Grand,18.0,Comprehensive,Petrol,5,22700,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.45
+BMW X7,19.0,Comprehensive,Petrol,7,28000,First Owner,Automatic,2019,10.0,2998.0,2998.0,33525.0,99.0
+Maruti Wagon,10.0,Third Party,Petrol,5,79862,First Owner,Manual,2010,1061.0,67.0,67.0,84.0,1.69
+Hyundai Creta,18.0,Comprehensive,Petrol,5,29146,First Owner,Automatic,2018,13.0,1591.0,1591.0,1213.0,11.35
+Maruti Baleno,22.0,Comprehensive,Petrol,5,5500,First Owner,Automatic,2022,22.0,1197.0,1197.0,8850.0,9.35
+Hyundai i10,14.0,Comprehensive,Petrol,5,35925,Second Owner,Manual,2014,20.0,1197.0,1197.0,789.0,3.14
+Maruti Wagon,18.0,Comprehensive,Petrol,5,57999,First Owner,Automatic,2018,21.0,998.0,998.0,6705.0,4.59
+Maruti Wagon,12.0,Comprehensive,Petrol,5,23000,First Owner,Manual,2012,18.0,998.0,998.0,671.0,2.9
+Maruti Baleno,17.0,Comprehensive,Petrol,5,14352,Second Owner,Manual,2017,21.0,1197.0,1197.0,831.0,5.87
+BMW 5,21.0,Comprehensive,Diesel,5,10000,First Owner,Automatic,2021,20.0,1995.0,1995.0,18774.0,58.75
+Maruti Ertiga,14.0,Comprehensive,CNG,7,49999,First Owner,Manual,2014,22.0,1373.0,1373.0,809.0,6.34
+Maruti Baleno,18.0,Comprehensive,Petrol,5,21194,First Owner,Manual,2018,21.0,1197.0,1197.0,831.0,6.37
+Hyundai i10,13.0,Comprehensive,Petrol,5,1800,First Owner,Manual,2013,20.0,1197.0,1197.0,789.0,3.15
+Hyundai Grand,20.0,Comprehensive,CNG,5,27019,First Owner,Manual,2020,1197.0,6805.0,6805.0,952.0,6.7
+Audi A3,,Third Party insurance,Diesel,5,80000,1968 cc,2016,Power Steering,1968.0,143.0,143.0,320.0,15.3
+Maruti Vitara,20.0,Comprehensive,Diesel,5,24000,First Owner,Automatic,2020,24.0,1248.0,1248.0,885.0,9.95
+Honda City,10.0,Comprehensive,Petrol,5,32000,First Owner,Manual,2010,17.0,1497.0,1497.0,1186600.0,2.4
+Volvo XC40,20.0,Third Party insurance,Petrol,5,22600,First Owner,Automatic,2020,1969.0,190.0,190.0,300.0,37.75
+Volvo XC,,Third Party insurance,Petrol,7,10000,First Owner,Automatic,2022,17.0,1969.0,1969.0,29589.0,85.0
+Jeep Compass,19.0,Comprehensive,Petrol,5,34000,First Owner,Automatic,2019,16.0,1368.0,1368.0,16077.0,17.5
+Toyota Urban,21.0,Zero Dep,Petrol,5,30000,First Owner,Automatic,2021,18.0,1462.0,1462.0,10326.0,11.4
+Hyundai Grand,18.0,Comprehensive,Petrol,5,22700,First Owner,Manual,2018,18.0,1197.0,1197.0,8186.0,5.45
+Audi Q2,21.0,Comprehensive,Petrol,5,9700,First Owner,Automatic,2021,1984.0,18774.0,18774.0,320.0,35.49
+Maruti Baleno,20.0,Comprehensive,Petrol,5,13519,First Owner,Manual,2020,21.0,1197.0,1197.0,8180.0,6.94
+Hyundai Creta,17.0,Comprehensive,Petrol,5,45017,First Owner,Automatic,2017,13.0,1591.0,1591.0,1213.0,8.75
+Maruti Swift,13.0,Comprehensive,Petrol,5,78308,First Owner,Manual,2013,22.0,1197.0,1197.0,8180.0,3.57
+Honda Jazz,17.0,Third Party insurance,Petrol,5,79852,First Owner,Automatic,2017,18.0,1199.0,1199.0,887.0,5.69
+BMW X7,19.0,Comprehensive,Petrol,7,28000,First Owner,Automatic,2019,10.0,2998.0,2998.0,33525.0,99.0
+Hyundai EON,16.0,Zero Dep,Petrol,5,18049,First Owner,Manual,2016,21.0,814.0,814.0,552.0,3.15
+Volkswagen Taigun,22.0,Comprehensive,Petrol,5,19500,First Owner,Manual,2022,19.0,999.0,999.0,11398.0,16.21
+Audi Q5,18.0,Comprehensive,Diesel,5,35000,First Owner,Automatic,2018,17.0,1968.0,1968.0,188.0,41.99
+Maruti Ignis,21.0,Comprehensive,Petrol,5,7643,First Owner,Manual,2021,20.0,1197.0,1197.0,8180.0,6.19
+Hyundai i20,15.0,Third Party insurance,Petrol,5,12000,First Owner,Manual,2015,18.0,1197.0,1197.0,8183.0,5.31
+Hyundai Grand,15.0,Comprehensive,Petrol,5,22316,First Owner,Automatic,2014,18.0,1197.0,1197.0,82.0,4.54
+MG Hector,,Third Party insurance,Petrol,5,40000,Second Owner,Automatic,2021,1451.0,141.0,141.0,250.0,16.0
+Hyundai i10,10.0,Third Party insurance,Petrol,5,45221,First Owner,Manual,2010,1197.0,789.0,789.0,1117.0,2.35
+Maruti Baleno,21.0,Comprehensive,Petrol,5,35000,First Owner,Automatic,2021,19.0,1197.0,1197.0,8180.0,8.45
+BMW X7,21.0,Zero Dep,Petrol,7,7000,First Owner,Automatic,2021,10.0,2998.0,2998.0,33525.0,1.15
+MG Hector,,Third Party insurance,Diesel,5,40000,First Owner,Manual,2020,17.0,1956.0,1956.0,16768.0,17.0
+Honda City,16.0,Comprehensive,Petrol,5,38671,Second Owner,Manual,2016,17.0,1497.0,1497.0,1173.0,6.25
+Hyundai i20,12.0,Third Party insurance,Petrol,5,49303,Second Owner,Manual,2012,17.0,1197.0,1197.0,805200.0,2.8
+Nissan Sunny,14.0,Comprehensive,Petrol,5,65000,First Owner,Automatic,2014,17.0,1498.0,1498.0,9961.0,2.95
+Audi Q3,18.0,Comprehensive,Petrol,5,68000,First Owner,Automatic,2018,16.0,1395.0,1395.0,14751.0,24.99
+Hyundai Venue,19.0,Comprehensive,Petrol,5,17536,First Owner,Manual,2019,18.0,998.0,998.0,11835.0,9.7
+Honda Jazz,17.0,Third Party insurance,Petrol,5,30400,First Owner,Manual,2017,18.0,1199.0,1199.0,887.0,5.35
+MG Hector,20.0,Comprehensive,Petrol,5,15071,First Owner,Manual,2020,1451.0,141.0,141.0,250.0,14.28
+Maruti SX4,15.0,Comprehensive,Diesel,5,80100,First Owner,Manual,2015,23.0,1248.0,1248.0,885.0,6.25
+Hyundai Verna,21.0,Comprehensive,Petrol,5,10773,First Owner,Automatic,2021,18.0,1497.0,1497.0,11318.0,11.85
+Tata Tigor,20.0,Zero Dep,Petrol,5,10957,First Owner,Automatic,2020,20.0,1199.0,1199.0,8381.0,7.53
+Tata Tiago,22.0,Comprehensive,Petrol,5,19000,First Owner,Manual,2022,20.0,1199.0,1199.0,8482.0,7.45
+Hyundai Verna,15.0,Third Party insurance,Diesel,5,87900,Second Owner,Automatic,2015,22.0,1582.0,1582.0,12632.0,6.5
+Maruti Ignis,22.0,Comprehensive,Petrol,5,16100,First Owner,Automatic,2021,20.0,1197.0,1197.0,8180.0,6.44
+Toyota Etios,16.0,Comprehensive,Diesel,5,48650,First Owner,Manual,2016,23.0,1364.0,1364.0,6706.0,5.25
+Hyundai Creta,18.0,Comprehensive,Petrol,5,29252,First Owner,Automatic,2018,14.0,1591.0,1591.0,1213.0,11.05
+Maruti Ignis,,Third Party insurance,Petrol,5,2300,First Owner,Manual,2022,1197.0,8180.0,8180.0,113.0,5.9
+Honda Jazz,18.0,Comprehensive,Petrol,5,19446,First Owner,Automatic,2018,18.0,1199.0,1199.0,887.0,6.5
+Maruti Ertiga,22.0,Third Party insurance,CNG,7,26500,First Owner,Manual,2022,26.0,1462.0,1462.0,8663.0,11.5
+Hyundai Creta,20.0,Comprehensive,Diesel,5,35000,First Owner,Automatic,2020,1493.0,11345.0,11345.0,250.0,17.41
+Renault KWID,,Third Party insurance,Petrol,5,10000,999 cc,2022,Power Steering,999.0,6706.0,6706.0,91.0,3.98
+Honda WR-V,17.0,Comprehensive,Petrol,5,49000,First Owner,Manual,2017,17.0,1199.0,1199.0,887.0,5.85
+Volkswagen Polo,18.0,Comprehensive,Petrol,5,40000,Second Owner,Manual,2018,18.0,999.0,999.0,75.0,4.75
+Maruti Swift,18.0,Comprehensive,Petrol,5,34756,First Owner,Manual,2018,20.0,1197.0,1197.0,8314.0,6.1
